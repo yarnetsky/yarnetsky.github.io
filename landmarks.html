@@ -87,7 +87,7 @@
 </dt>
 <dd>
     <input id="username" class="input" type="text" value="" maxlength="30" size="20" name="username"  aria-required="true" aria-describedby="username_error"><br />
-    <span id="username_error" aria-live="polite">&nbsp;</span><br />
+    <span id="username_error" aria-live="assertive">&nbsp;</span><br />
 </dd>
 <dt>
     <label for="password">Password:</label>
@@ -96,7 +96,7 @@
 <dd>
     <input id="password" class="input" type="text" value="" name="password" size="20" name="password"
     aria-required="true" aria-describedby="password_error"/><br />
-    <span id="password_error" aria-live="polite">&nbsp;</span>
+    <span id="password_error" aria-live="assertive">&nbsp;</span>
 </dd>
 <dt>
     <label for="email">Email:</label>
@@ -105,7 +105,7 @@
 <dd>
     <input id="email" class="input" type="text" value="" size="30" name="email"
     aria-required="true" aria-describedby="email_error"><br />
-    <span id="email_error" aria-live="polite">&nbsp;</span>
+    <span id="email_error" aria-live="assertive">&nbsp;</span>
 </dd>
 <dt>
     <label for="fname">First Name:</label>
@@ -113,7 +113,7 @@
 <dd>
     <input id="fname" class="input" type="text" value="" size="20" name="fname"
     aria-describedby="fname_error"><br />
-    <span id="fname_error" aria-live="polite">&nbsp;</span>
+    <span id="fname_error" aria-live="assertive">&nbsp;</span>
 </dd>
 <dt>
     <label for="lname">Last Name:</label>
@@ -121,7 +121,7 @@
 <dd>
   <input id="lname" class="input" type="text" value="" size="20" name="lname"
   aria-describedby="lname_error"><br />
-  <span id="lname_error" aria-live="polite">&nbsp;</span>
+  <span id="lname_error" aria-live="assertive">&nbsp;</span>
 </dd>
 
 <dt>
@@ -130,21 +130,21 @@
 <dd>
     <input id="org" class="input" type="text" value="" size="20" name="org"
     aria-describedby="org_error"><br />
-    <span id="org_error" aria-live="polite">&nbsp;</span>
+    <span id="org_error" aria-live="assertive">&nbsp;</span>
 </dd>
 <dt>
     <label for="address">Street Address</label>:
 </dt>
 <dd>
     <textarea  id="address"  class="input" name="address" cols="35" rows="3" aria-describedby="address_error"></textarea>
-    <span id="address_error" aria-live="polite">&nbsp;</span>
+    <span id="address_error" aria-live="assertive">&nbsp;</span>
 </dd>
 <dt>
     <label for="city">City</label>:
 </dt>
 <dd>
     <input type="text" id="city" name="city" class="input" size="20" value="" aria-describedby="city_error">
-    <span id="city_error" aria-live="polite">&nbsp;</span>
+    <span id="city_error" aria-live="assertive">&nbsp;</span>
 </dd>
 <dt>
     <label for="country">Country</label>:
@@ -154,7 +154,7 @@
         <option value="ca">Canada</option>
         <option value="usa">USA</option>
     </select>
-    <span id="country_error" aria-live="polite">&nbsp;</span>
+    <span id="country_error" aria-live="assertive">&nbsp;</span>
 </dd>
 
 <dt>
@@ -163,14 +163,14 @@
     </dt>
     <dd class="state_block">
                 <input type="text" name="state" id="state" maxlength="2" class="input" aria-describedby="state_error"/>
-                <span id="state_error" aria-live="polite">&nbsp;</span>
+                <span id="state_error" aria-live="assertive">&nbsp;</span>
     </dd>
      <dt class="state_block">
      <label for="zip">ZIP Code:</label>
      </dt>
      <dd class="state_block">
               <input type="text" name="zip" id="zip" class="input" aria-describedby="zip_error"/>
-              <span id="zip_error" aria-live="polite">&nbsp;</span><br />
+              <span id="zip_error" aria-live="assertive">&nbsp;</span><br />
     </dd>
 
     <dt class="prov_block">
@@ -192,14 +192,14 @@
                         <option value="NV">Nunavut</option>
                         <option value="NW">NWT</option>
                     </select>
-                    <span id="province_error" aria-live="polite">&nbsp;</span>
+                    <span id="province_error" aria-live="assertive">&nbsp;</span>
     </dd>
     <dt class="prov_block">
                 <label for="postal">Postal Code:</label>
     </dt>
     <dd class="prov_block">
                     <input type="text" name="postal" id="postal" class="input" aria-describedby="postal_error"/>
-                    <span id="postal_error" aria-live="polite">&nbsp;</span><br />
+                    <span id="postal_error" aria-live="assertive">&nbsp;</span><br />
     </dd>
 
 <dt>
@@ -207,12 +207,12 @@
 </dt>
 <dd>
     <input type="text" id="tele" name="telephone"  class="input" value="" aria-describedby="tele_error">
-    <span id="tele_error" aria-live="polite">&nbsp;</span>
+    <span id="tele_error" aria-live="assertive">&nbsp;</span>
 </dd>
 </dl>
 <br  style="clear:both;"/>
 <div>
-    <input type="button" id="join" value="Join" /> &nbsp;
+    <input type="button" id="join" value="Join" aria-live="assertive"/> &nbsp;
     <input type="button" id="reset_form" value="Reset" /><br />
 </div>
 </form>
