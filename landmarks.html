@@ -10,7 +10,6 @@
 	    <script type="text/javascript" src="join.js"></script>
     </head>
 <body>
-<!--<div id="top-bar">&nbsp; </div>-->
 <div class="page_wrapper">
 
 <div id="header" role="banner">
@@ -19,8 +18,8 @@
 	</div>
 </div>
 
-<div class="" style="z-index: auto; position: static; top: auto;" id="lrg_topnav">
-    <div style="width: 100%;" id="topnavlistcontainer" aria-label="main navigation tabs">
+<!--<div class="" style="z-index: auto; position: static; top: auto;" id="lrg_topnav">-->
+    <div role="navigation" aria-label="main" style="width: 100%;" id="topnavlistcontainer" >
         <a name="main-nav" id="main-nav"></a>
         <ul style="" id="topnavlist">
         <li><a href="index.html" accesskey="1" title="Back to Index Alt+1">Back to Index</a></li>
@@ -31,7 +30,7 @@
             <li><a href="" class="fake" accesskey="6" title="Exercise Home Alt+6">Exercises</a></li>
         </ul>
     </div>
-</div>
+<!--</div>-->
 
 <div class="logoutbar">&nbsp; <input type="text" class="input"><input type="submit" value="search"></div>
 <div class="crumbcontainer">
@@ -41,9 +40,8 @@
     <div id="lrg_content">
 		<div id="leftcolumn">
 		  <a id="menu"></a>
-		     <div id="side-menu" aria-label="left side menu" accesskey="0">
-		        <br/>
-                <h2 class="box"><span>Networking</span></h2>
+		     <div id="side-menu" role="navigation" aria-label="social network links" accesskey="0">
+                <h2 class="box">Networking</h2>
                 <div class="box" id="menu_Networking">
                     <ul class="social_side_menu">
                         <li><a href="" class="fake">My Network</a></li>
@@ -67,7 +65,7 @@
 		</div>
     </div>	<!-- //end of the left column -->
 
-	<div id="contentcolumn">
+	<div id="contentcolumn" role="main">
 	<div id="message"></div>
 	<br style="clear:both;">
 	<a id="top"></a>
@@ -215,7 +213,7 @@
 		<br style="width:100%;clear:both;" />
 
 	</div>
-<div id="advertising">
+<div role="complementary" id="advertising">
 <h2>Advertising</h2>
 <div>
 <img src="images/rum_cover.jpg" alt="" />
@@ -229,7 +227,7 @@
 <p><br><br>&nbsp;</p>
 </div>
 
-<div id="footer"> Copyright &copy; <a href="" class="fake">Chang School.</a>
+<div id="footer" role="contentinfo"> Copyright &copy; <a href="" class="fake">Chang School.</a>
 </div>
 
 </body>
