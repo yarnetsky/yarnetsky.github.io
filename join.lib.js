@@ -260,7 +260,7 @@ JoinForm.prototype.validateForm = function () {
 
     }
     error_count = 0;
-    if(hasErrors === false){
+    if(hasErrors === true){
     	$s("feedback").style.display = "inline-block";
         $s("feedback").firstChild.nodeValue = this.success;
         $s("feedback").className = "feedback";
