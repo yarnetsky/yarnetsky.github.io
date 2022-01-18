@@ -108,12 +108,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  scholarship:
-    output: true
-    permalink: /scholarship/:path/
-  service:
-    output: true
-    permalink: /service/:path/
+
 
 news_limit: 5
 
