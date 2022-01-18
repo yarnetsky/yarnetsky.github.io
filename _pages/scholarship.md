@@ -6,6 +6,8 @@ description:
 nav: true
 ---
 
+## Notes and slides from recent presentations
+
 - **Yarnetsky, J (2022, March). *[Developing With a Static Site Generator](https://computersinlibraries.infotoday.com/2022/program.aspx#15132).* Computers in Libraries 2022. Arlington, Virginia. Information Today, Inc.**
     - Library websites have long been run by database-driven content management systems (CMSs) such as Drupal and WordPress. Unfortunately, the digital vulnerabilities of such systems are significant and require frequent maintenance to maintain security. Static-site generators (SSGs), such as Jekyll and Gatsby, take a different approach by entirely removing slow and risky databases from the live site. The results are sites that are fast and more secure and that can be easier to host and easier to archive for the future. Yarnetsky covers how the SSG development model differs from the current CMS model, how SSGs can work for you and your community, how to make these geeky tools user-friendly, and finally pulls back the curtain on how our university libraries have utilized static site generators as the core of our online services.
 - **Yarnetsky, J., Irwin, K., & Qu, M. (April 2021). *Free Yourself From the Database: Developing With a Static Site Generator.* WebCon 2021: An online conference for web professionals within higher education and beyond. University of Illinois Webmasters.**
@@ -22,7 +24,7 @@ nav: true
 
 ## Prior scholarship
 
-- Yarnetsky, J. (2017, July) [*CSS with Floaties On: Cascading style sheets for beginners](https://library.mc3.edu/friendly.php?s=css)* [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Gwynedd Valley PA
+- Yarnetsky, J. (2017, July) [*CSS with Floaties On: Cascading style sheets for beginners*](https://library.mc3.edu/friendly.php?s=css) [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Gwynedd Valley PA
 - Yarnetsky, J. (2017, July) *Customing LibGuides* [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Gwynedd Valley PA
 - Yarnetsky, J. (2015, March) *Annotating digital exhibits* [panel discussion moderator]. THATCamp CC: The Humanities and Technologies Community Colleges, Philadelphia PA.
 - Yarnetsky, J. (2014, September). *Digital Humanities on a Dime*. [panel discussion moderator] THATcamp Philly. The Humanities and Technologies, Philadelphia PA.
