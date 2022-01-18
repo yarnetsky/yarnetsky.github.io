@@ -8,7 +8,7 @@ middle_name:
 last_name: Yarnetsky
 email: jerry.yarnetsky@miamioh.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Supplemental materials.
+  Supplemental materials for annual report 2021.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -156,11 +156,11 @@ plugins:
   - jekyll-github-metadata
   - jekyll-imagemagick
   - jekyll-paginate-v2
-  - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+# - jekyll/scholar
 
 # Sitemap settings
 defaults:
