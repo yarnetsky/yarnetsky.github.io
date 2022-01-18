@@ -209,8 +209,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Yarnetsky
+  first_name: [Jerry]
 
   style: apa
   locale: en
