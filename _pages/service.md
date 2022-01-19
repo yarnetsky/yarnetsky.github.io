@@ -1,6 +1,6 @@
 ---
 layout: page
-title: service
+title: Service
 nav: true
 dropdown: true
 children: 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /scholarship/
-title: scholarship
+title: Scholarship
 description: 
 nav: true
 ---
