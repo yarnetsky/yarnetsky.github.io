@@ -24,7 +24,7 @@ A lesson I have learned from my careers in journalism and librarianship is that 
 
 I believe this interaction is extremely important because the research required for our students’ educational journey is paradoxically both far easier and much harder than it has ever been. Research materials are more available than at any time in history, yet our students are absolutely overwhelmed with information. A search for “education” in our college’s Ebsco databases takes seconds, but returns in 13 million results. In 1997, journalist David Shenk coined this paradox “data smog.”
 
-<img width="604" height="270" src="http://www.yarnetsky.net/wp-content/uploads/2013/10/datasmog1-604x270.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy">
+<img src="assets/img/datasmog.jpg" class="" alt="">
 
 Shenk quoted philosopher Philip Novak, “Tens of thousands of words daily pulse through our beleaguered brains, accompanied by a massive amount of other auditory and visual stimuli. No wonder we feel burnt.” This was stated when the World Wide Web was still a toddler and iPhones were a decade away. Based on my daily interactions with our students, they see this data smog resembling the <a href="http://bit.ly/1btkA3t">air pollution of 1940 Pittsburgh when they needed streetlights at 11 a.m.</a> Their reactions to the smog vary widely from panic to acceptance. However, even those who accept the situation often solve the dilemma in their research by grabbing the first remotely appropriate articles they find.
 
