@@ -7,45 +7,87 @@ nav: true
 importance: 2
 ---
 
-## Service to our Libraries
 
-### ***Strategic Initiatives Professional Development working group (AY 2020-21)***
+<div class="accordion" id="service-accordion">
 
-Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.  
+<!-- LIBRARIES -->
 
-[Professional Development Workgroup Findings and Recommendations](https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing)
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Service to our Libraries
+        </button>
+      </h2>
+    </div>
 
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#service-accordion">
+      <div class="card-body">
+        
+        <h3 id="professional-development-working-group"><strong><em>Strategic Initiatives Professional Development working group (AY 2020-21)</em></strong></h3>
+<p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.  </p>
+<p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional Development Workgroup Findings and Recommendations</a></p>
 <hr/>
 
-### ***Library Games Night Committee (summer 2018 to present)***
-
-- Member of this outreach committee which sponsors tabletop gaming evenings for the university community held in each of our libraries.
-- [Games Night website](https://libguides.lib.miamioh.edu/board-games) which I co-manage
-- **2021 contributions** included creating eye-catching graphics for print and online promotional materials, maintaining Games Night guide, analyzing results of attendee surveys, and volunteering during each games night to welcome gamers, train on game play, and aid with event setup and cleanup.
-- Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021. The committee created a [guide to online gaming](https://libguides.lib.miamioh.edu/board-games) for the university community.
-- [Games Night Survey results dashboard](https://muohio.libinsight.com/games-night)
-- **Committee Reports**: [2020 Summary](https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing),  [Fall 2019](https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing), [Spring 2019](https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing), [Fall 2018](https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing)
-
-
-## Service to our University
-
-### ***IMS 222: Introduction to Interaction Design and Development*** 
-
-**Spring 2020 to present**
-
-I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics such as responsive design, accessibility, and the design thinking also discussed. Modes of instruction have included in-person, online synchronous, and hybrid depending on pandemic demands. Five to six instructors teach IMS 222 each semester. I have been an active member of service to this group.
-
-**In 2021,** I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty. Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.
-
-**Charting student feedback**
+<h3 id="library-games-night-committee"><strong><em>Library Games Night Committee (summer 2018 to present)</em></strong></h3>
+<ul>
+<li>Member of this outreach committee which sponsors tabletop gaming evenings for the university community held in each of our libraries.</li>
+<li><a href="https://libguides.lib.miamioh.edu/board-games">Games Night website</a> which I co-manage</li>
+<li><strong>2021 contributions</strong> included creating eye-catching graphics for print and online promotional materials, maintaining Games Night guide, analyzing results of attendee surveys, and volunteering during each games night to welcome gamers, train on game play, and aid with event setup and cleanup.</li>
+<li>Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021. The committee created a <a href="https://libguides.lib.miamioh.edu/board-games">guide to online gaming</a> for the university community.</li>
+<li><a href="https://muohio.libinsight.com/games-night">Games Night Survey results dashboard</a></li>
+<li><strong>Committee Reports</strong>: <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>,  <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a></li>
+</ul>
 
 
-## Service to our Profession
+      </div>
+    </div>
+  </div>
 
-National and State professional organizational websites where I’ve contributed design, code, and accessibility testing.
+<!-- UNIVERSITY -->
 
-[**Code4Lib 2022 National Conference**](https://2022.code4lib.org/): Design and content contributor including front page design. Accessibility testing. 
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Service to our University
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#service-accordion">
+      <div class="card-body">
 
-[**Code4Lib 2021 National Conference**](https://2021.code4lib.org/) : Accessibility testing
+<h3 id="ims-222"><strong><em>IMS 222: Introduction to Interaction Design and Development</em></strong></h3>
+<p><strong>Spring 2020 to present</strong></p>
+<p>I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics such as responsive design, accessibility, and the design thinking also discussed. Modes of instruction have included in-person, online synchronous, and hybrid depending on pandemic demands. Five to six instructors teach IMS 222 each semester. I have been an active member of service to this group.</p>
+<p><strong>In 2021,</strong> I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty. Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.</p>
+<p><strong>Charting student feedback</strong></p>
 
-[**Speculative Futures on Post-Pandemic Libraries**](https://futures.alaoweb.org/): Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.
+      </div>
+    </div>
+  </div>
+
+
+<!-- PROFESSION -->
+
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Service to our Profession
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#service-accordion">
+      <div class="card-body">
+
+<p>National and State professional organizational websites where I’ve contributed design, code, and accessibility testing.</p>
+
+<p><a href="https://2022.code4lib.org/"><strong>Code4Lib 2022 National Conference</strong></a>: Design and content contributor including front page design. Accessibility testing. </p>
+<p><a href="https://2021.code4lib.org/"><strong>Code4Lib 2021 National Conference</strong></a> : Accessibility testing</p>
+<p><a href="https://futures.alaoweb.org/"><strong>Speculative Futures on Post-Pandemic Libraries</strong></a>: Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
+
+      </div>
+    </div>
+  </div>
+</div>
