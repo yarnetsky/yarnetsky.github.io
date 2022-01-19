@@ -4,16 +4,11 @@ title: about
 permalink: /
 subtitle: Web Services Librarian at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>.
 
-profile:
-  align: right
-  # image: prof_pic.jpg
-  address: >
-    <p>Rank: Assistant Librarian</p>
-    <p>Review Year (2022): 4th</p>
-    <p>Date of Hire: 1 January 2018</p>
-    <p>Intended Area of Very Strong performance: Service</p>
-
-    <p><a href="mailto:jerry.yarnetsky@miamioh.edu">Questions? Email Me!</a></p>
+# profile:
+#  align: right
+#  image: prof_pic.jpg
+#  address: >
+    
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,6 +18,13 @@ social: false  # includes social icons at the bottom of the page
 ## Supplemental Materials
 
 This site is a collection of materials to supplement my 2021 Miami University Libraries Annual Report of Professional Activities
+
+- **Rank**: Assistant Librarian
+- **Review Year**: 4th
+- **Date of Hire**: 1 January 2018
+- **Intended Area of Very Strong performance**: Service
+
+<p><a href="mailto:jerry.yarnetsky@miamioh.edu">Questions? Email Me!</a></p>
 
 ## Philosophy of Librarianship
 
