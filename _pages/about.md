@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+importance: 4
 permalink: /
 # subtitle: Web Services Librarian at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>.
 

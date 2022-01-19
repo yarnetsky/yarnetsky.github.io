@@ -3,6 +3,7 @@ layout: page
 title: Service
 nav: true
 dropdown: true
+importance: 2
 children: 
     - title: Service to our Libraries
       permalink: /lib-service/

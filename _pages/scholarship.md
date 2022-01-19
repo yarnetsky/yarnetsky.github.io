@@ -4,6 +4,7 @@ permalink: /scholarship/
 title: Scholarship
 description: 
 nav: true
+importance: 3
 ---
 
 <div class="flex-row">
