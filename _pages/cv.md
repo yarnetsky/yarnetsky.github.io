@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 description: Curriculum Vitae
 nav: true
-importance: 3
+importance: 4
 ---
 
 ## Education
