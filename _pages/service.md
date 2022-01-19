@@ -1,16 +1,51 @@
 ---
 layout: page
+permalink: /service/
 title: Service
+description:
 nav: true
-dropdown: true
 importance: 2
-children: 
-    - title: Service to our Libraries
-      permalink: /lib-service/
-    - title: divider
-    - title: Service to our University
-      permalink: /miami-service/
-    - title: divider
-    - title: Service to our Profession
-      permalink: /prof-service/
 ---
+
+## Service to our Libraries
+
+### ***Strategic Initiatives Professional Development working group (AY 2020-21)***
+
+Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.  
+
+[Professional Development Workgroup Findings and Recommendations](https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing)
+
+<hr/>
+
+### ***Library Games Night Committee (summer 2018 to present)***
+
+- Member of this outreach committee which sponsors tabletop gaming evenings for the university community held in each of our libraries.
+- [Games Night website](https://libguides.lib.miamioh.edu/board-games) which I co-manage
+- **2021 contributions** included creating eye-catching graphics for print and online promotional materials, maintaining Games Night guide, analyzing results of attendee surveys, and volunteering during each games night to welcome gamers, train on game play, and aid with event setup and cleanup.
+- Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021. The committee created a [guide to online gaming](https://libguides.lib.miamioh.edu/board-games) for the university community.
+- [Games Night Survey results dashboard](https://muohio.libinsight.com/games-night)
+- **Committee Reports**: [2020 Summary](https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing),  [Fall 2019](https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing), [Spring 2019](https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing), [Fall 2018](https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing)
+
+
+## Service to our University
+
+### ***IMS 222: Introduction to Interaction Design and Development*** 
+
+**Spring 2020 to present**
+
+I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics such as responsive design, accessibility, and the design thinking also discussed. Modes of instruction have included in-person, online synchronous, and hybrid depending on pandemic demands. Five to six instructors teach IMS 222 each semester. I have been an active member of service to this group.
+
+**In 2021,** I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty. Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.
+
+**Charting student feedback**
+
+
+## Service to our Profession
+
+National and State professional organizational websites where I’ve contributed design, code, and accessibility testing.
+
+[**Code4Lib 2022 National Conference**](https://2022.code4lib.org/): Design and content contributor including front page design. Accessibility testing. 
+
+[**Code4Lib 2021 National Conference**](https://2021.code4lib.org/) : Accessibility testing
+
+[**Speculative Futures on Post-Pandemic Libraries**](https://futures.alaoweb.org/): Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.
