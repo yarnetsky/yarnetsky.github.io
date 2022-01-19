@@ -1,19 +1,21 @@
 ---
 layout: page
 permalink: /lib-service/
-title: Service to the Libraries
+title: Service to our Libraries
 description: 
 nav: false
 ---
 
 
-## Service to the Libraries
+## Service to our Libraries
 
 ### ***Strategic Initiatives Professional Development working group (AY 2020-21)***
 
 Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.  
 
 [Professional Development Workgroup Findings and Recommendations](https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing)
+
+<hr/>
 
 ### ***Library Games Night Committee (summer 2018 to present)***
 
