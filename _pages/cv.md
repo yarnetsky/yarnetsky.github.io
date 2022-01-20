@@ -10,7 +10,6 @@ importance: 4
 <div class="accordion" id="cv-accordion">
 
 
-
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
@@ -24,8 +23,9 @@ importance: 4
       <div class="card-body">
 
         <h3 id="master-of-library-science">Master of Library Science</h3>
-        <p><strong>Indiana University School of Library and Information Science.</strong> Indianapolis, Indiana.</p>
-        <p>Master of Library Science, 2006.</p>
+
+        <p><strong>Indiana University School of Library and Information Science.</strong> Indianapolis, Indiana.<br/>
+        Master of Library Science, 2006.</p>
         <p><strong>Coursework</strong>: Information Sources and Services, Information Architecture for the Web,
           Collaborative
           and High Tech Learning, Evaluation of Resources and Services, Collection Development and Management, Resources
@@ -34,12 +34,15 @@ importance: 4
           Information Centers, Issues in Public Library Management, Library Materials and Services for Adults, Library
           Materials
           and Services for Children and Young Adults, Genealogy and Indiana Resources.</p>
+
         <h3 id="undergraduate">Undergraduate</h3>
-        <p><strong>Miami University.</strong> Oxford, Ohio.</p>
-        <p>Bachelor of Arts in English/Journalism, 1991.</p>
-        <p>Minor in political science.</p>
-        <p><strong>Bowling Green State University.</strong> Bowling Green, Ohio.</p>
-        <p>Journalism. 1985-1987.</p>
+        
+        <p><strong>Miami University.</strong> Oxford, Ohio.<br/>
+        Bachelor of Arts in English/Journalism, 1991.<br/>
+        Minor in political science.</p>
+        
+        <p><strong>Bowling Green State University.</strong> Bowling Green, Ohio.<br/>
+        Journalism. 1985-1987.</p>
 
       </div>
     </div>
@@ -111,17 +114,12 @@ importance: 4
         <h3 id="montgomery-county-community-college">Montgomery County Community College</h3>
         <p>Blue Bell, Pennsylvania :: Serving 12,000 students in suburban Philadelphia.</p>
         <ul>
-          <li>
-            <p><strong>Emerging Technologies Librarian/assistant professor:</strong> February 2010 to January 2015 and
-              July 2016
-              to December 2017.</p>
-            <ul>
-              <li>Promoted to assistant professor, January 2014.</li>
-              <li>Tenured in September 2016.</li>
-            </ul>
-          </li>
-          <li>
-            <p><strong>Director of Libraries (interim):</strong> January 2015 to June 2016.</p>
+          <li><strong>Emerging Technologies Librarian/assistant professor</strong><br/>
+            February 2010 to January 2015 and July 2016 to December 2017.<br/>
+             Promoted to assistant professor, January 2014.<br/>
+             Tenured in September 2016.</li>
+            <li><strong>Director of Libraries (interim)</strong><br/> 
+            January 2015 to June 2016.
           </li>
         </ul>
         <h4 id="technology">Technology</h4>
