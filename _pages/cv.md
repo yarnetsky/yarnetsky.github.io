@@ -21,9 +21,7 @@ importance: 4
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#cv-accordion">
       <div class="card-body">
-
         <h3 id="master-of-library-science">Master of Library Science</h3>
-
         <p><strong>Indiana University School of Library and Information Science.</strong><br /> Indianapolis,
           Indiana.<br />
           Master of Library Science, 2006.</p>
@@ -33,24 +31,16 @@ importance: 4
           Management of Libraries and Information Centers, Issues in Public Library Management, Library Materials and
           Services for Adults, Library Materials and Services for Children and Young Adults, Genealogy and Indiana
           Resources.</p>
-
         <h3 id="undergraduate">Undergraduate</h3>
-
         <p><strong>Miami University.</strong><br />
           Oxford, Ohio.<br />
           Bachelor of Arts in English/Journalism, 1991.<br />
           Minor in political science.</p>
-
         <p><strong>Bowling Green State University.</strong> Bowling Green, Ohio.<br />
           Journalism. 1985-1987.</p>
-
       </div>
     </div>
   </div>
-
-
-
-
 
   <div class="card">
     <div class="card-header" id="headingTwo">
@@ -69,42 +59,30 @@ importance: 4
         <p>January 2018 to present</p>
         <ul>
           <li>Worked in team environment to redevelop libraries web services from the Drupal content management system
-            to the
-            Jekyll static site generator in a JAMstack environment (javascript, APIs, markdown). The transition resulted
-            in
-            major security and performance improvements and allowed our team to better collaborate and peer review code
-            via
-            Github.</li>
+            to the Jekyll static site generator in a JAMstack environment (javascript, APIs, markdown). The transition resulted
+            in major security and performance improvements and allowed our team to better collaborate and peer review code
+            via Github.</li>
           <li>Created and upgraded online platforms, from online reference chat to reservation systems, customized to
-            the needs
-            of library departments transitioning to online services due to the COVID-19 pandemic.</li>
+            the needs of library departments transitioning to online services due to the COVID-19 pandemic.</li>
           <li>Lead implementor for efforts to bring the libraries online services to WCAG accessibility stan- dards.
-            Train staff
-            and advocate for universal accessibility in our online services.</li>
+            Train staff and advocate for universal accessibility in our online services.</li>
           <li>Collaborate with the Havighurst Special Collections and University Archives staff to design and redesign
-            their
-            digital services and projects.</li>
+            their digital services and projects.</li>
           <li>Improved off-campus access to millions of library resources by implementing guest access in our Ebsco
-            Discovery
-            Service system.</li>
+            Discovery Service system.</li>
           <li>Continually investigate emerging technologies to improve access and delivery of digital resources and
-            services.
-          </li>
+            services. </li>
         </ul>
         <h4 id="visiting-faculty-lecturer">Visiting Faculty/Lecturer</h4>
         <p>January 2020 to present</p>
         <p><strong>IMS 222: Introduction to Interactive Design and Development</strong> </p>
         <p>Teach this 3-credit course for the Emerging Technologies in Business and Design (ETBD) department, which
-          investigates
-          the theories and practice of interactive design and front-end web development. We also explore topics such as
-          ethics
-          of online interactions, and inclusive design for every person on every device. </p>
+          investigates the theories and practice of interactive design and front-end web development. We also explore topics such as
+          ethics of online interactions, and inclusive design for every person on every device. </p>
         <p>Cohorts alternates between first-year students starting their ETBD program and upper class students
-          incorporating
-          interaction design into their primary majors ranging from psychology to fashion design. Due to the needs of my
+          incorporating interaction design into their primary majors ranging from psychology to fashion design. Due to the needs of my
           students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online
-          both
-          synchronous and asynchronous.</p>
+          both synchronous and asynchronous.</p>
         <hr />
         <h3 id="montgomery-county-community-college">Montgomery County Community College</h3>
         <p>Blue Bell, Pennsylvania :: Serving 12,000 students in suburban Philadelphia.</p>
@@ -120,15 +98,12 @@ importance: 4
         <h4 id="technology">Technology</h4>
         <ul>
           <li>Design and maintain library web services (LibGuides CMS 2.0) to emphasize clarity of use for new students.
-            Work
-            included maintaining and customizing research databases.</li>
+            Work included maintaining and customizing research databases.</li>
           <li>Customized function and appearance of library’s online catalog (Sirsi Enterprise and Sirsi eLibrary).</li>
           <li>Planned and implemented library technology services and workflows including online chat reference,
-            intercampus
-            loan, and library computer lab services.</li>
+            intercampus loan, and library computer lab services.</li>
           <li>Collaborated with college archivist and faculty to create digital projects for an historic silent film and
-            college
-            newspaper archives. Coordinated web development, digitization, and grant writing.</li>
+            college newspaper archives. Coordinated web development, digitization, and grant writing.</li>
           <li>Curate technology and exhibit design for unique multimedia gallery housed in our library.</li>
         </ul>
         <h4 id="instruction-and-reference-services">Instruction and Reference Services</h4>
@@ -136,16 +111,14 @@ importance: 4
           <li>Teach information literacy workshops customized to faculty and student needs.</li>
           <li>Create multimedia tutorials and LibGuides for online students.</li>
           <li>Provide one-on-one research and technology assistance and training for students, faculty, administration,
-            staff,
-            and community members in person, by phone, and online chat.</li>
+            staff, and community members in person, by phone, and online chat.</li>
           <li>Assist faculty in researching and assessing open educational resources.</li>
           <li>Outreach and collection development for online learning, STEM, and Business divisions.</li>
         </ul>
         <h4 id="management">Management</h4>
         <ul>
           <li>Served as interim director during college reorganization. Director-level position replaced by division
-            dean-level
-            position.</li>
+            dean-level position.</li>
           <li>Manage day-to-day operations and facilities of libraries on two campuses.</li>
           <li>Supervise, coordinate, and evaluate staff of 20 including full-time and adjunct librarians and technical
             services.
@@ -164,47 +137,34 @@ importance: 4
           <li><strong>Chair, All-College Student Life Committee</strong>, September 2016 to December 2017</li>
           <li><strong>Chair, All-College Distance Education Committee</strong>, September 2011 to June 2014.<ul>
               <li>Duties include chairing meetings, coordinating agenda and committee workflow, and lead editor on
-                policy and
-                documents emerging from the committee.</li>
+                policy and documents emerging from the committee.</li>
             </ul>
           </li>
           <li>Member, <strong>President’s Leadership Council</strong> September 2012 to May 2014; September 2016 to
-            December
-            2017.</li>
+            December 2017.</li>
           <li>Member, <strong>Shared Governance Committee</strong> September 2012 to May 2014; September 2016 to
             December 2017.
             <ul>
               <li>These committees provide a final 365-degree review of college policy prior to review by the college
-                board of
-                trustees and coordinate the college’s administration/faculty shared governance process.</li>
+                board of trustees and coordinate the college’s administration/faculty shared governance process.</li>
             </ul>
           </li>
           <li><strong>Middle States Self-Study Steering Committee</strong>: Member of steering committee and co-chaired
-            working
-            group examining our college’s standing against the commission’s Standard 13 “Related Educational Activities:
-            The
-            institution’s programs or activities that are characterized by particular content, focus, location, mode of
+            working group examining our college’s standing against the commission’s Standard 13 “Related Educational Activities:
+            The institution’s programs or activities that are characterized by particular content, focus, location, mode of
             delivery, or sponsorship meet appropriate standards”.</li>
           <li><strong>Conducted research and writing</strong> benefiting the Gates Foundation-funded study “<a
               href="http://www.sr.ithaka.org/research-publications/barriers-adoption-online-learning-systems-us-higher-education">Barriers
-              to Adoption of Online Learning Systems in Higher Education</a>.” Ithaka S+R conducted the study that
-            combined a
-            broad set of interviews at colleges across the nation with in-depth studies at five colleges including
-            Montgomery
-            County Community College.</li>
+              to Adoption of Online Learning Systems in Higher Education</a>.” Ithaka S+R conducted the study that combined a broad set of interviews at colleges across the nation with in-depth studies at five colleges including Montgomery County Community College.</li>
           <li><strong>Commencement faculty volunteer.</strong> Reader in 2011 and 2013, student marshal in 2012, and
-            faculty
-            marshal in 2017.</li>
+            faculty marshal in 2017.</li>
           <li><strong>Sabbatical Committee</strong>, Spring 2016</li>
           <li><strong>Student Commencement Prizes Committees</strong>, Spring 2017.</li>
         </ul>
         <h3 id="awards-and-honors">Awards and Honors</h3>
         <ul>
-          <li>Awarded a 2014 <a href="http://www.league.org/exawards/">John and Suzanne Roueche Excellence Award</a> for
-            exceptional institutional leadership. This is a national award through the League of Innovation in Community
-            Colleges alliance as nominated by Montgomery County Community College.</li>
-          <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a
-              href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
+          <li>Awarded a 2014 <a href="http://www.league.org/exawards/">John and Suzanne Roueche Excellence Award</a> for exceptional institutional leadership. This is a national award through the League of Innovation in Community Colleges alliance as nominated by Montgomery County Community College.</li>
+          <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
         </ul>
         <hr />
         <h3 id="madison-jefferson-county-public-library">Madison-Jefferson County Public Library</h3>
@@ -217,23 +177,18 @@ importance: 4
         </ul>
         <ul>
           <li>Designed and managed library web presence. Redesigned library web site received ALA recognition in 2006 as
-            traffic
-            increased more than doubled.</li>
+            traffic increased more than doubled.</li>
           <li>Created digital history projects in collaboration with local history department. Established best
-            practices,
-            designed websites, and coordinated technology, content management, metadata creation and image scanning.
+            practices, designed websites, and coordinated technology, content management, metadata creation and image scanning.
           </li>
           <li>Wrote library’s state mandated 2005-07 and 2008-11 Long Range Technology Plans.</li>
           <li>Wrote and coordinated grants for public access computing and wireless Internet services. Collaborated on
-            LSTA and
-            foundation grants for digitization projects.</li>
+            LSTA and foundation grants for digitization projects.</li>
           <li>Planned and maintained technology projects and public access computing.</li>
           <li>Provided reference services utilizing print, Internet, database and human sources for inquiries made in
-            person, by
-            email and via library web site.</li>
+            person, by email and via library web site.</li>
           <li>Trained patrons and staff in use of technology including Internet and database searching, Microsoft Office
-            and
-            content management systems.</li>
+            and content management systems.</li>
           <li>Supervised library on Sundays.</li>
           <li>Developed video and music collections. Created library’s new DVD collection and wrote new video borrowing
             policy.
@@ -260,16 +215,12 @@ importance: 4
         <p><strong>ReAL Design</strong>: March 2007 to March 2013</p>
         <ul>
           <li>HTML/CSS/PHP/Javascript/jQuery/MySQL development with Drupal, WordPress, Textpattern, and Concrete5
-            content
-            management systems.</li>
+            content management systems.</li>
           <li>Collaborated with graphic/UI designer Rick Lostutter of ReAL Design to create websites for clients in
-            southern
-            Indiana including Holiday World theme park, Madison Consolidated Schools, Jefferson County Historical
-            Society,
-            Southeast Indiana Regional Planning Commission, and the Switzerland County Public Library.</li>
+            southern Indiana including Holiday World theme park, Madison Consolidated Schools, Jefferson County Historical
+            Society, Southeast Indiana Regional Planning Commission, and the Switzerland County Public Library.</li>
           <li>Solo projects include websites for the Indiana Hot Luck and Fiery Food Festival, Thomas Family Winery,
-            Madison
-            Main Street Program, and Mudcat Pottery.</li>
+            Madison Main Street Program, and Mudcat Pottery.</li>
         </ul>
         <hr />
         <h3 id="journalism">Journalism</h3>
@@ -278,8 +229,7 @@ importance: 4
         <ul>
           <li>Reported on area politics, government and school activities.</li>
           <li>Trained news staff for technology advances including new software, Internet research and the transition
-            from
-            manual paste-up to computerized design.</li>
+            from manual paste-up to computerized design.</li>
           <li>Redesigned newspaper and helped restructure procedures for the paper’s move to color printing.</li>
           <li>Designed special sections in collaboration with news and advertising staffs.</li>
           <li>Managed daily news product as acting managing editor.</li>
@@ -374,8 +324,6 @@ importance: 4
     </div>
   </div>
 </div>
-</div>
-
 
 <div class="card">
   <div class="card-header" id="headingFive">
@@ -484,35 +432,17 @@ importance: 4
   <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#cv-accordion">
     <div class="card-body">
       <h3 id="technology">Technology</h3>
-      <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using
-        content management and digital collection systems including LibGuides CMS, Drupal, WordPress, SharePoint,
-        Textpattern,
-        Omeka and ContentDM. Experience with accessibility and LAMP server administration and application installation.
-        Knowledge of usability, and UX design.</p>
-      <p><strong>Integrated library systems:</strong> Customization Sirsi Enterprise OPAC and Workflows, familiar with
-        Ebsco
-        Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and MARC/AACR2
-        cataloging.</p>
-      <p><strong>Computer troubleshooting:</strong> Windows and Macintosh troubleshooting. Knowledge of Linux
-        distributions
-        and servers, basic ethernet and wireless networking.</p>
-      <p><strong>Graphic, Multimedia and Print Design:</strong> Design software including Adobe Photoshop and InDesign.
-        Multimedia editing, scanning, digital photography, sound and video editing using Apple and Adobe software.
-        Experience
-        using and teaching Microsoft, Apple, and Google productivity software including Word, Excel, PowerPoint, and
-        Keynote.
+      <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using content management and digital collection systems including LibGuides CMS, Drupal, WordPress, SharePoint, Textpattern,  Omeka and ContentDM. Experience with accessibility and LAMP server administration and application installation. Knowledge of usability, and UX design.</p>
+      <p><strong>Integrated library systems:</strong> Customization Sirsi Enterprise OPAC and Workflows, familiar with Ebsco Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and MARC/AACR2 cataloging.</p>
+      <p><strong>Computer troubleshooting:</strong> Windows and Macintosh troubleshooting. Knowledge of Linux distributions and servers, basic ethernet and wireless networking.</p>
+      <p><strong>Graphic, Multimedia and Print Design:</strong> Design software including Adobe Photoshop and InDesign. Multimedia editing, scanning, digital photography, sound and video editing using Apple and Adobe software. Experience using and teaching Microsoft, Apple, and Google productivity software including Word, Excel, PowerPoint, and Keynote.
       </p>
       <h3 id="reference-and-instruction">Reference and Instruction</h3>
-      <p>Information literacy, research strategy, and technology instruction to audiences ranging from college students
-        to
-        senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and
-        tutorial
-        creation. Reference interviewing. Research using print, Internet, database and human sources. Reader’s advisory.
+      <p>Information literacy, research strategy, and technology instruction to audiences ranging from college students to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and tutorial creation. Reference interviewing. Research using print, Internet, database and human sources. Reader’s advisory.
       </p>
       <h3 id="management-and-other-skills">Management and other skills</h3>
-      <p>Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and
-        public
-        relations and conversational Spanish.</p>
+      <p>Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and public relations and conversational Spanish.</p>
     </div>
   </div>
+</div>
 </div>
