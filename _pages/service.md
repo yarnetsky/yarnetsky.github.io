@@ -59,10 +59,19 @@ importance: 2
 
 <h3 id="ims-222">IMS 222: Introduction to Interaction Design and Development</h3>
 <p><strong>Spring 2020 to present</strong></p>
-<p>I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics such as responsive design, accessibility, and the design thinking also discussed. Modes of instruction have included in-person, online synchronous, and hybrid depending on pandemic demands. Five to six instructors teach IMS 222 each semester. I have been an active member of service to this group.</p>
-<p><strong>In 2021,</strong> I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty. Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.</p>
-<p><strong>Charting student feedback</strong></p>
+<p>I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics include responsive design, accessibility, and design thinking. Modes of instruction have included in-person, online synchronous, and hybrid depending on pandemic demands.</p> 
 
+<p><strong>In 2021,</strong> I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty.Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.</p>
+
+<h4>Student Feedback from Spring 2021</h4>
+<p><a href="assets/pdf/IMS222A-Yarnetsky-202110-Ratings.pdf">Spring 2021 Student Feedback Ratings</a> (pdf file). For the most part my rating exceeded departmental and university means. Following are comments from the feedback forms. Mostly positive, which I found cheering.</p>
+<ul>
+ <li>"This was one of my best classes this semester because of the way the professor helped us. He always made time for any questions and addressed them in full, and would even give us resources to help us understand further. He was extremely helpful in helping in and outside of class."</li>
+ <li>"This class was great and the instructor was very passionate about the topics and always more than willing to help. He did a great job at making sure all students felt comfortable asking for help and had a good understanding of the meterial."</li>
+<li>"I learned way more during the course than I thought I would. I knew very little about HTML and Java Script before this class and I didn't even know what CSS was. Despite that, by the end of the class, I now have the ability to make a functioning webpage from scratch! I was shocked at how quickly and effectively he was able to teach the material. I feel like I got a lot out of the class."</li>
+<li>"My professor was very kind and open to questions and always helped me (consistently providing personal assistance) when I needed it."</li>
+<li>"I think Mr. Yarnetsky was the most understanding and helpful teacher I had this semester. He was always free for one on ones and gives up so much of his free time for people who don't understand."</li>
+</ul>
       </div>
     </div>
   </div>

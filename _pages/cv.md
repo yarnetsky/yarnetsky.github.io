@@ -98,81 +98,55 @@ importance: 4
         </ul>
         <h4 id="technology">Technology</h4>
         <ul>
-          <li>Design and maintain library web services (LibGuides CMS 2.0) to emphasize clarity of use for new students.
-            Work included maintaining and customizing research databases.</li>
-          <li>Customized function and appearance of library’s online catalog (Sirsi Enterprise and Sirsi eLibrary).</li>
-          <li>Planned and implemented library technology services and workflows including online chat reference,
-            intercampus loan, and library computer lab services.</li>
-          <li>Collaborated with college archivist and faculty to create digital projects for an historic silent film and
-            college newspaper archives. Coordinated web development, digitization, and grant writing.</li>
-          <li>Curate technology and exhibit design for unique multimedia gallery housed in our library.</li>
+          <li>Design and maintain library web services using LibGuides CMS 2. Emphasized clarity of use for new students.</li>
+          <li>Customized function and appearance of library’s online catalog (Sirsi Enterprise and eLibrary) and Ebsco Discovery Service.</li>
+          <li>Planned and implemented library technology services and workflows including online chat reference, intercampus loan, and library computer lab services.</li>
+          <li>Collaborated with college archivist and faculty to create digital projects for an historic silent film and college newspaper archives. Coordinated web development, digitization, and grant writing.</li>
+          <li>Curated technology and exhibit design for unique multimedia gallery housed in our library.</li>
         </ul>
         <h4 id="instruction-and-reference-services">Instruction and Reference Services</h4>
         <ul>
-          <li>Teach information literacy workshops customized to faculty and student needs.</li>
-          <li>Create multimedia tutorials and LibGuides for online students.</li>
-          <li>Provide one-on-one research and technology assistance and training for students, faculty, administration,
-            staff, and community members in person, by phone, and online chat.</li>
-          <li>Assist faculty in researching and assessing open educational resources.</li>
+          <li>Taught information literacy workshops customized to faculty and student needs.</li>
+          <li>Created multimedia tutorials and research guides for online students.</li>
+          <li>Provided one-on-one research and technology assistance and training for students, faculty, administration, staff, and community members in person, by phone, and online chat.</li>
+          <li>Assisted faculty in researching and assessing open educational resources.</li>
           <li>Outreach and collection development for online learning, STEM, and Business divisions.</li>
         </ul>
         <h4 id="management">Management</h4>
         <ul>
-          <li>Served as interim director during college reorganization. Director-level position replaced by division
-            dean-level position.</li>
-          <li>Manage day-to-day operations and facilities of libraries on two campuses.</li>
-          <li>Supervise, coordinate, and evaluate staff of 20 including full-time and adjunct librarians and technical
-            services.
-          </li>
-          <li>Coordinated staff transition during a large cohort of employee retirement maintaining staff cohesion and
-            communication while restructuring duties and procedures for the new environment.</li>
+          <li>Served as interim director during college early-retirement buyout and reorganization.</li>
+          <li>Managed day-to-day operations and facilities of libraries on two campuses.</li>
+          <li>Supervised, coordinated, and evaluated staff of 20 including full-time and adjunct librarians and technical services.</li>
+          <li>Coordinated staff transition during a large cohort of employee retirement maintaining staff cohesion and communication while restructuring duties and procedures for the new environment.</li>
           <li>Involved in hiring eight new staff members from circulation staff to a new librarian.</li>
-          <li>Coordinated major projects and writing library policy and procedures including creation of a new
-            circulation desk
-            manual.</li>
-          <li>Directly managed $265,00 operating budget (balance of $2 million budget pre-set as personnel/benefits).
-          </li>
+          <li>Coordinated major projects and writing library policy and procedures including creation of a new circulation desk manual.</li>
+          <li>Directly managed $265,000 operating budget, balance of $2 million budget pre-set in personnel and facilities budgets set at college level.</li>
         </ul>
         <h4 id="service-to-the-college">Service to the College</h4>
         <ul>
           <li><strong>Chair, All-College Student Life Committee</strong>, September 2016 to December 2017</li>
           <li><strong>Chair, All-College Distance Education Committee</strong>, September 2011 to June 2014.<ul>
-              <li>Duties include chairing meetings, coordinating agenda and committee workflow, and lead editor on
-                policy and documents emerging from the committee.</li>
+              <li>Duties include chairing meetings, coordinating agenda and committee workflow, and lead editor on policy and documents emerging from the committee.</li>
             </ul>
           </li>
-          <li>Member, <strong>President’s Leadership Council</strong> September 2012 to May 2014; September 2016 to
-            December 2017.</li>
-          <li>Member, <strong>Shared Governance Committee</strong> September 2012 to May 2014; September 2016 to
-            December 2017.
+          <li>Member, <strong>President’s Leadership Council</strong> September 2012 to May 2014; September 2016 to December 2017.</li>
+          <li>Member, <strong>Shared Governance Committee</strong> September 2012 to May 2014; September 2016 to December 2017.
             <ul>
-              <li>These committees provide a final 365-degree review of college policy prior to review by the college
-                board of trustees and coordinate the college’s administration/faculty shared governance process.</li>
+              <li>These committees provide a final 365-degree review of college policy prior to review by the college board of trustees and coordinate the college’s administration/faculty shared governance process.</li>
             </ul>
           </li>
-          <li><strong>Middle States Self-Study Steering Committee</strong>: Member of steering committee and co-chaired
-            working group examining our college’s standing against the commission’s Standard 13 “Related Educational
-            Activities:
-            The institution’s programs or activities that are characterized by particular content, focus, location, mode
-            of
-            delivery, or sponsorship meet appropriate standards”.</li>
+          <li><strong>Middle States Self-Study Steering Committee</strong>: Member of steering committee and co-chaired working group.</li>
           <li><strong>Conducted research and writing</strong> benefiting the Gates Foundation-funded study “<a
               href="http://www.sr.ithaka.org/research-publications/barriers-adoption-online-learning-systems-us-higher-education">Barriers
-              to Adoption of Online Learning Systems in Higher Education</a>.” Ithaka S+R conducted the study that
-            combined a broad set of interviews at colleges across the nation with in-depth studies at five colleges
-            including Montgomery County Community College.</li>
-          <li><strong>Commencement faculty volunteer.</strong> Reader in 2011 and 2013, student marshal in 2012, and
-            faculty marshal in 2017.</li>
+              to Adoption of Online Learning Systems in Higher Education</a>.” Ithaka S+R conducted the study that combined a broad set of interviews at colleges across the nation with in-depth studies at five colleges including Montgomery County Community College.</li>
+          <li><strong>Commencement faculty volunteer.</strong> Reader in 2011 and 2013, student marshal in 2012, and faculty marshal in 2017.</li>
           <li><strong>Sabbatical Committee</strong>, Spring 2016</li>
           <li><strong>Student Commencement Prizes Committees</strong>, Spring 2017.</li>
         </ul>
         <h3 id="awards-and-honors">Awards and Honors</h3>
         <ul>
-          <li>Awarded a 2014 <a href="http://www.league.org/exawards/">John and Suzanne Roueche Excellence Award</a> for
-            exceptional institutional leadership. This is a national award through the League of Innovation in Community
-            Colleges alliance as nominated by Montgomery County Community College.</li>
-          <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a
-              href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
+          <li>Awarded a 2014 <a href="http://www.league.org/exawards/">John and Suzanne Roueche Excellence Award</a> for exceptional institutional leadership. This is a national award through the League of Innovation in Community Colleges alliance as nominated by Montgomery County Community College.</li>
+          <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
         </ul>
         <hr />
         <h3 id="madison-jefferson-county-public-library">Madison-Jefferson County Public Library</h3>
@@ -184,23 +158,16 @@ importance: 4
             January 2002 to December 2006</li>
         </ul>
         <ul>
-          <li>Designed and managed library web presence. Redesigned library web site received ALA recognition in 2006 as
-            traffic increased more than doubled.</li>
-          <li>Created digital history projects in collaboration with local history department. Established best
-            practices, designed websites, and coordinated technology, content management, metadata creation and image
-            scanning.
+          <li>Designed and managed library web presence. Redesigned library web site received ALA recognition in 2006 as traffic increased more than doubled.</li>
+          <li>Created digital history projects in collaboration with local history department. Established best practices, designed websites, and coordinated technology, content management, metadata creation and image scanning.
           </li>
           <li>Wrote library’s state mandated 2005-07 and 2008-11 Long Range Technology Plans.</li>
-          <li>Wrote and coordinated grants for public access computing and wireless Internet services. Collaborated on
-            LSTA and foundation grants for digitization projects.</li>
+          <li>Wrote and coordinated grants for public access computing and wireless Internet services. Collaborated on LSTA and foundation grants for digitization projects.</li>
           <li>Planned and maintained technology projects and public access computing.</li>
-          <li>Provided reference services utilizing print, Internet, database and human sources for inquiries made in
-            person, by email and via library web site.</li>
-          <li>Trained patrons and staff in use of technology including Internet and database searching, Microsoft Office
-            and content management systems.</li>
+          <li>Provided reference services utilizing print, Internet, database and human sources for inquiries made in person, by email and via library web site.</li>
+          <li>Trained patrons and staff in use of technology including Internet and database searching, Microsoft Office and content management systems.</li>
           <li>Supervised library on Sundays.</li>
-          <li>Developed video and music collections. Created library’s new DVD collection and wrote new video borrowing
-            policy.
+          <li>Developed video and music collections. Created library’s new DVD collection and wrote new video borrowing policy.
           </li>
           <li>Planned and promoted library events from movie festivals to poetry slams.</li>
           <li>Developed library communication materials including newsletters, press releases, posters and blogging.
@@ -223,14 +190,9 @@ importance: 4
         <h3 id="web-development">Web development</h3>
         <p><strong>ReAL Design</strong>: March 2007 to March 2013</p>
         <ul>
-          <li>HTML/CSS/PHP/Javascript/jQuery/MySQL development with Drupal, WordPress, Textpattern, and Concrete5
-            content management systems.</li>
-          <li>Collaborated with graphic/UI designer Rick Lostutter of ReAL Design to create websites for clients in
-            southern Indiana including Holiday World theme park, Madison Consolidated Schools, Jefferson County
-            Historical
-            Society, Southeast Indiana Regional Planning Commission, and the Switzerland County Public Library.</li>
-          <li>Solo projects include websites for the Indiana Hot Luck and Fiery Food Festival, Thomas Family Winery,
-            Madison Main Street Program, and Mudcat Pottery.</li>
+          <li>HTML/CSS/PHP/Javascript/jQuery/MySQL development with Drupal, WordPress, Textpattern, and Concrete5 content management systems.</li>
+          <li>Collaborated with graphic/UI designer Rick Lostutter of ReAL Design to create websites for clients in southern Indiana including Holiday World theme park, Madison Consolidated Schools, Jefferson County Historical Society, Southeast Indiana Regional Planning Commission, and the Switzerland County Public Library.</li>
+          <li>Solo projects include websites for the Indiana Hot Luck and Fiery Food Festival, Thomas Family Winery, Madison Main Street Program, and Mudcat Pottery.</li>
         </ul>
         <hr />
         <h3 id="journalism">Journalism</h3>
@@ -238,8 +200,7 @@ importance: 4
         <p>Special Projects Editor and Staff Writer for daily newspaper in Madison, Indiana.</p>
         <ul>
           <li>Reported on area politics, government and school activities.</li>
-          <li>Trained news staff for technology advances including new software, Internet research and the transition
-            from manual paste-up to computerized design.</li>
+          <li>Trained news staff for technology advances including new software, Internet research and the transition from manual paste-up to computerized design.</li>
           <li>Redesigned newspaper and helped restructure procedures for the paper’s move to color printing.</li>
           <li>Designed special sections in collaboration with news and advertising staffs.</li>
           <li>Managed daily news product as acting managing editor.</li>
@@ -268,65 +229,36 @@ importance: 4
     <div class="card-body">
       <h3>Presentations</h3>
       <ul>
-        <li>Yarnetsky, J (2022, March). <em><a
-              href="https://computersinlibraries.infotoday.com/2022/program.aspx#15132">Developing With a Static Site
-              Generator</a>.</em> Computers in Libraries 2022. Arlington, Virginia. Information Today, Inc.</li>
-        <li>Yarnetsky, J., Irwin, K., &amp; Qu, M. (April 2021). <em>Free Yourself From the Database: Developing With a
-            Static Site Generator.</em> WebCon 2021: An online conference for web professionals within higher education
-          and beyond. University of Illinois Webmasters.</li>
-        <li>Yarnetsky, J. (2019, October). <em>The Last Mile for Web Accessibility: Help Making Our Content Universally
-            Accessible</em>. <a href="https://www.alaoweb.org/conferences/2019/program">ALAO 2019 Conference</a>.
-          Nationwide
-          Hotel and Conference Center, Columbus, Ohio: Academic Library Association of Ohio.</li>
-        <li>Revelle, A. A., &amp; Yarnetsky, J. (2019, October). <em>Do You Need Help? The Implementation of Proactive
-            Chat and its Effect on the Quantity and Quality of Reference Interactions</em>. <a
-            href="https://www.alaoweb.org/conferences/2019/program">ALAO 2019 Conference</a>. Nationwide Hotel and
-          Conference Center, Columbus, Ohio: Academic Libraries Association of Ohio.</li>
-        <li>Yarnetsky, J. (2019, April). <em>Make your online content accessible to all (not just those who can see your
-            library website)</em>. ACRL 2019 Conference. Cleveland, Ohio: Association of College and Research Libraries.
+        <li>Yarnetsky, J (2022, March). <em><a href="https://computersinlibraries.infotoday.com/2022/program.aspx#15132">Developing With a Static Site Generator</a>.</em> Computers in Libraries 2022. Arlington, Virginia. Information Today, Inc.</li>
+        <li>Yarnetsky, J., Irwin, K., &amp; Qu, M. (April 2021). <em>Free Yourself From the Database: Developing With a Static Site Generator.</em> WebCon 2021: An online conference for web professionals within higher education and beyond. University of Illinois Webmasters.</li>
+        <li>Yarnetsky, J. (2019, October). <em>The Last Mile for Web Accessibility: Help Making Our Content Universally Accessible</em>. <a href="https://www.alaoweb.org/conferences/2019/program">ALAO 2019 Conference</a>. Nationwide Hotel and Conference Center, Columbus, Ohio: Academic Library Association of Ohio.</li>
+        <li>Revelle, A. A., &amp; Yarnetsky, J. (2019, October). <em>Do You Need Help? The Implementation of Proactive Chat and its Effect on the Quantity and Quality of Reference Interactions</em>. <a href="https://www.alaoweb.org/conferences/2019/program">ALAO 2019 Conference</a>. Nationwide Hotel and Conference Center, Columbus, Ohio: Academic Libraries Association of Ohio.</li>
+        <li>Yarnetsky, J. (2019, April). <em>Make your online content accessible to all (not just those who can see your library website)</em>. ACRL 2019 Conference. Cleveland, Ohio: Association of College and Research Libraries.
         </li>
-        <li>Yarnetsky J. (2013, October) <em>Betzwood Film Archives Project</em>. VUStuff digital humanities conference.
-          Villanova University, Villanova PA.</li>
-        <li>Yarnetsky, J. &amp; Greene, L. (2012, October) <em>Digital history best practices</em>. MC3 Tech Conference.
-          Montgomery County Community College, Blue Bell PA.</li>
-        <li>Yarnetsky, J. &amp; Barnes, J. (2009, April) <em>Digital history: Lessons learned</em> [invited
-          presentation]. 2009 ILF Distrit Conference. Indiana Library Federation, Columbus IN.</li>
-        <li>Yarnetsky, J. (2008, October) <em>Digital Projects using Omeka</em> [invited presentation]. Open Source
-          Repositories and Digital Libraries Conference. Indiana Online Users Group, Indianapolis IN.</li>
-        <li>Yarnetsky, J. &amp; Barnes, J. (2008, August) <em>River to Rails and our digital history projects lessons
-            learned</em>. [invited presentation] ILF Reference Division Conference. Indiana Library Federation, Fort
-          Wayne IN.
+        <li>Yarnetsky J. (2013, October) <em>Betzwood Film Archives Project</em>. VUStuff digital humanities conference. Villanova University, Villanova PA.</li>
+        <li>Yarnetsky, J. &amp; Greene, L. (2012, October) <em>Digital history best practices</em>. MC3 Tech Conference. Montgomery County Community College, Blue Bell PA.</li>
+        <li>Yarnetsky, J. &amp; Barnes, J. (2009, April) <em>Digital history: Lessons learned</em> [invited presentation]. 2009 ILF Distrit Conference. Indiana Library Federation, Columbus IN.</li>
+        <li>Yarnetsky, J. (2008, October) <em>Digital Projects using Omeka</em> [invited presentation]. Open Source Repositories and Digital Libraries Conference. Indiana Online Users Group, Indianapolis IN.</li>
+        <li>Yarnetsky, J. &amp; Barnes, J. (2008, August) <em>River to Rails and our digital history projects lessons learned</em>. [invited presentation] ILF Reference Division Conference. Indiana Library Federation, Fort Wayne IN.
         </li>
-        <li>Yarnetsky, J. (2008, April) <em>Open Source: Free Lunch or Free Kittens?</em> ILF District Conference.
-          Indiana Library Federation, Madison IN.</li>
+        <li>Yarnetsky, J. (2008, April) <em>Open Source: Free Lunch or Free Kittens?</em> ILF District Conference. Indiana Library Federation, Madison IN.</li>
       </ul>
       <h3>Poster Sessions</h3>
       <ul>
-        <li>Morgan, A. &amp; Yarnetsky, J (2020, October) <em><a
-              href="https://2020.alaoweb.org/posters/hs-location">Poster: Effects of high school location on first-year
-              students’ research confidence and college readiness</a>.</em> ALAO 2020 Conference. Online: Academic
-          Library Association of Ohio.</li>
+        <li>Morgan, A. &amp; Yarnetsky, J (2020, October) <em><a href="https://2020.alaoweb.org/posters/hs-location">Poster: Effects of high school location on first-year students’ research confidence and college readiness</a>.</em> ALAO 2020 Conference. Online: Academic Library Association of Ohio.</li>
       </ul>
       <h3>Panel Discussions</h3>
       <ul>
-        <li>Yarnetsky, J. (2015, March) <em>Annotating digital exhibits</em> [panel discussion and moderator]. THATCamp
-          CC: The Humanities and Technologies Community Colleges, Philadelphia PA.</li>
-        <li>Yarnetsky, J. (2014, September). <em>Digital Humanities on a Dime</em>. [panel discussion and moderator]
-          THATcamp Philly. The Humanities and Technologies, Philadelphia PA.</li>
-        <li>Yarnetsky, J. (2010, October) <em>Digital Campus Academy: a multimedia faculty training camp</em>.
-          [discussion panel] MC3 Tech Conference. Montgomery County Community College, Blue Bell PA.</li>
+        <li>Yarnetsky, J. (2015, March) <em>Annotating digital exhibits</em> [panel discussion and moderator]. THATCamp CC: The Humanities and Technologies Community Colleges, Philadelphia PA.</li>
+        <li>Yarnetsky, J. (2014, September). <em>Digital Humanities on a Dime</em>. [panel discussion and moderator] THATcamp Philly. The Humanities and Technologies, Philadelphia PA.</li>
+        <li>Yarnetsky, J. (2010, October) <em>Digital Campus Academy: a multimedia faculty training camp</em>. [discussion panel] MC3 Tech Conference. Montgomery County Community College, Blue Bell PA.</li>
       </ul>
       <h3>Technology Workshops</h3>
       <ul>
-        <li>Yarnetsky, J. (2017, July) <a href="https://library.mc3.edu/friendly.php?s=css">CSS with Floaties On:
-            Cascading style sheets for beginners</a> [technology workshop]. TCLC Summer Camp. Tri-State College Library
-          Cooperative, Gwynedd Valley PA</li>
-        <li>Yarnetsky, J. (2017, July) <em>Customing LibGuides</em> [technology workshop]. TCLC Summer Camp. Tri-State
-          College Library Cooperative, Gwynedd Valley PA.</li>
-        <li>Yarnetsky, J. (2014, July) <em>WordPress for your library</em> [technology workshop]. TCLC Summer Camp.
-          Tri-State College Library Cooperative, Blue Bell PA</li>
-        <li>Yarnetsky, J. (2010, July) <em>Using Facebook pages to promote your library</em> [technology workshop]. TCLC
-          Summer Camp. Tri-State College Library Cooperative, Blue Bell PA.</li>
+        <li>Yarnetsky, J. (2017, July) <a href="https://library.mc3.edu/friendly.php?s=css">CSS with Floaties On: Cascading style sheets for beginners</a> [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Gwynedd Valley PA</li>
+        <li>Yarnetsky, J. (2017, July) <em>Customing LibGuides</em> [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Gwynedd Valley PA.</li>
+        <li>Yarnetsky, J. (2014, July) <em>WordPress for your library</em> [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Blue Bell PA</li>
+        <li>Yarnetsky, J. (2010, July) <em>Using Facebook pages to promote your library</em> [technology workshop]. TCLC Summer Camp. Tri-State College Library Cooperative, Blue Bell PA.</li>
       </ul>
     </div>
   </div>
@@ -349,8 +281,7 @@ importance: 4
             <li>November 2021 to present.<strong></strong></li>
           </ul>
         </li>
-        <li><strong><a href="https://www.alaoweb.org/igs/tedsig/index.html/">Technical, Electronic, and Digital Services
-              Interest Group</a> (TEDSIG) of the Academic Library Association of Ohio</strong>.
+        <li><strong><a href="https://www.alaoweb.org/igs/tedsig/index.html/">Technical, Electronic, and Digital Services Interest Group</a> (TEDSIG) of the Academic Library Association of Ohio</strong>.
           <ul>
             <li>Co-chair</li>
             <li>elected spring 2021 for term through summer 2023.</li>
@@ -435,29 +366,16 @@ importance: 4
   <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#cv-accordion">
     <div class="card-body">
       <h3 id="technology">Technology</h3>
-      <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using
-        content management and digital collection systems including LibGuides CMS, Drupal, WordPress, SharePoint,
-        Textpattern, Omeka and ContentDM. Experience with accessibility and LAMP server administration and application
-        installation. Knowledge of usability, and UX design.</p>
-      <p><strong>Integrated library systems:</strong> Customization Sirsi Enterprise OPAC and Workflows, familiar with
-        Ebsco Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and
-        MARC/AACR2 cataloging.</p>
-      <p><strong>Computer troubleshooting:</strong> Windows and Macintosh troubleshooting. Knowledge of Linux
-        distributions and servers, basic ethernet and wireless networking.</p>
-      <p><strong>Graphic, Multimedia and Print Design:</strong> Design software including Adobe Photoshop and InDesign.
-        Multimedia editing, scanning, digital photography, sound and video editing using Apple and Adobe software.
-        Experience using and teaching Microsoft, Apple, and Google productivity software including Word, Excel,
-        PowerPoint, and Keynote.
+      <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using content management and digital collection systems including LibGuides CMS, Drupal, WordPress, SharePoint, Textpattern, Omeka and ContentDM. Experience with accessibility and LAMP server administration and application installation. Knowledge of usability, and UX design.</p>
+      <p><strong>Integrated library systems:</strong> Customization Sirsi Enterprise OPAC and Workflows, familiar with Ebsco Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and MARC/AACR2 cataloging.</p>
+      <p><strong>Computer troubleshooting:</strong> Windows and Macintosh troubleshooting. Knowledge of Linux distributions and servers, basic ethernet and wireless networking.</p>
+      <p><strong>Graphic, Multimedia and Print Design:</strong> Design software including Adobe Photoshop and InDesign. Multimedia editing, scanning, digital photography, sound and video editing using Apple and Adobe software. Experience using and teaching Microsoft, Apple, and Google productivity software including Word, Excel, PowerPoint, and Keynote.
       </p>
       <h3 id="reference-and-instruction">Reference and Instruction</h3>
-      <p>Information literacy, research strategy, and technology instruction to audiences ranging from college students
-        to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and
-        tutorial creation. Reference interviewing. Research using print, Internet, database and human sources. Reader’s
-        advisory.
+      <p>Information literacy, research strategy, and technology instruction to audiences ranging from college students to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and tutorial creation. Reference interviewing. Research using print, Internet, database and human sources. Reader’s advisory.
       </p>
       <h3 id="management-and-other-skills">Management and other skills</h3>
-      <p>Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and
-        public relations and conversational Spanish.</p>
+      <p>Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and public relations and conversational Spanish.</p>
     </div>
   </div>
 </div>
