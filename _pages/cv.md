@@ -255,12 +255,11 @@ importance: 4
       </div>
     </div>
   </div>
-</div>
+
 <div class="card">
   <div class="card-header" id="headingFour">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
-        data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"  data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
         Scholarship
       </button>
     </h2>
