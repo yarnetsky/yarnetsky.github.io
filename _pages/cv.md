@@ -8,13 +8,11 @@ importance: 4
 ---
 
 <div class="accordion" id="cv-accordion">
-
-
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
-          data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Education
         </button>
       </h2>
@@ -41,7 +39,6 @@ importance: 4
       </div>
     </div>
   </div>
-
   <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
@@ -59,8 +56,10 @@ importance: 4
         <p>January 2018 to present</p>
         <ul>
           <li>Worked in team environment to redevelop libraries web services from the Drupal content management system
-            to the Jekyll static site generator in a JAMstack environment (javascript, APIs, markdown). The transition resulted
-            in major security and performance improvements and allowed our team to better collaborate and peer review code
+            to the Jekyll static site generator in a JAMstack environment (javascript, APIs, markdown). The transition
+            resulted
+            in major security and performance improvements and allowed our team to better collaborate and peer review
+            code
             via Github.</li>
           <li>Created and upgraded online platforms, from online reference chat to reservation systems, customized to
             the needs of library departments transitioning to online services due to the COVID-19 pandemic.</li>
@@ -77,10 +76,12 @@ importance: 4
         <p>January 2020 to present</p>
         <p><strong>IMS 222: Introduction to Interactive Design and Development</strong> </p>
         <p>Teach this 3-credit course for the Emerging Technologies in Business and Design (ETBD) department, which
-          investigates the theories and practice of interactive design and front-end web development. We also explore topics such as
+          investigates the theories and practice of interactive design and front-end web development. We also explore
+          topics such as
           ethics of online interactions, and inclusive design for every person on every device. </p>
         <p>Cohorts alternates between first-year students starting their ETBD program and upper class students
-          incorporating interaction design into their primary majors ranging from psychology to fashion design. Due to the needs of my
+          incorporating interaction design into their primary majors ranging from psychology to fashion design. Due to
+          the needs of my
           students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online
           both synchronous and asynchronous.</p>
         <hr />
@@ -150,12 +151,16 @@ importance: 4
             </ul>
           </li>
           <li><strong>Middle States Self-Study Steering Committee</strong>: Member of steering committee and co-chaired
-            working group examining our college’s standing against the commission’s Standard 13 “Related Educational Activities:
-            The institution’s programs or activities that are characterized by particular content, focus, location, mode of
+            working group examining our college’s standing against the commission’s Standard 13 “Related Educational
+            Activities:
+            The institution’s programs or activities that are characterized by particular content, focus, location, mode
+            of
             delivery, or sponsorship meet appropriate standards”.</li>
           <li><strong>Conducted research and writing</strong> benefiting the Gates Foundation-funded study “<a
               href="http://www.sr.ithaka.org/research-publications/barriers-adoption-online-learning-systems-us-higher-education">Barriers
-              to Adoption of Online Learning Systems in Higher Education</a>.” Ithaka S+R conducted the study that combined a broad set of interviews at colleges across the nation with in-depth studies at five colleges including Montgomery County Community College.</li>
+              to Adoption of Online Learning Systems in Higher Education</a>.” Ithaka S+R conducted the study that
+            combined a broad set of interviews at colleges across the nation with in-depth studies at five colleges
+            including Montgomery County Community College.</li>
           <li><strong>Commencement faculty volunteer.</strong> Reader in 2011 and 2013, student marshal in 2012, and
             faculty marshal in 2017.</li>
           <li><strong>Sabbatical Committee</strong>, Spring 2016</li>
@@ -163,8 +168,11 @@ importance: 4
         </ul>
         <h3 id="awards-and-honors">Awards and Honors</h3>
         <ul>
-          <li>Awarded a 2014 <a href="http://www.league.org/exawards/">John and Suzanne Roueche Excellence Award</a> for exceptional institutional leadership. This is a national award through the League of Innovation in Community Colleges alliance as nominated by Montgomery County Community College.</li>
-          <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
+          <li>Awarded a 2014 <a href="http://www.league.org/exawards/">John and Suzanne Roueche Excellence Award</a> for
+            exceptional institutional leadership. This is a national award through the League of Innovation in Community
+            Colleges alliance as nominated by Montgomery County Community College.</li>
+          <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a
+              href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
         </ul>
         <hr />
         <h3 id="madison-jefferson-county-public-library">Madison-Jefferson County Public Library</h3>
@@ -179,7 +187,8 @@ importance: 4
           <li>Designed and managed library web presence. Redesigned library web site received ALA recognition in 2006 as
             traffic increased more than doubled.</li>
           <li>Created digital history projects in collaboration with local history department. Established best
-            practices, designed websites, and coordinated technology, content management, metadata creation and image scanning.
+            practices, designed websites, and coordinated technology, content management, metadata creation and image
+            scanning.
           </li>
           <li>Wrote library’s state mandated 2005-07 and 2008-11 Long Range Technology Plans.</li>
           <li>Wrote and coordinated grants for public access computing and wireless Internet services. Collaborated on
@@ -217,7 +226,8 @@ importance: 4
           <li>HTML/CSS/PHP/Javascript/jQuery/MySQL development with Drupal, WordPress, Textpattern, and Concrete5
             content management systems.</li>
           <li>Collaborated with graphic/UI designer Rick Lostutter of ReAL Design to create websites for clients in
-            southern Indiana including Holiday World theme park, Madison Consolidated Schools, Jefferson County Historical
+            southern Indiana including Holiday World theme park, Madison Consolidated Schools, Jefferson County
+            Historical
             Society, Southeast Indiana Regional Planning Commission, and the Switzerland County Public Library.</li>
           <li>Solo projects include websites for the Indiana Hot Luck and Fiery Food Festival, Thomas Family Winery,
             Madison Main Street Program, and Mudcat Pottery.</li>
@@ -246,7 +256,6 @@ importance: 4
     </div>
   </div>
 </div>
-
 <div class="card">
   <div class="card-header" id="headingFour">
     <h2 class="mb-0">
@@ -256,7 +265,6 @@ importance: 4
       </button>
     </h2>
   </div>
-
   <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#cv-accordion">
     <div class="card-body">
       <h3>Presentations</h3>
@@ -320,11 +328,10 @@ importance: 4
           Tri-State College Library Cooperative, Blue Bell PA</li>
         <li>Yarnetsky, J. (2010, July) <em>Using Facebook pages to promote your library</em> [technology workshop]. TCLC
           Summer Camp. Tri-State College Library Cooperative, Blue Bell PA.</li>
-          </ul> 
+      </ul>
     </div>
   </div>
 </div>
-
 <div class="card">
   <div class="card-header" id="headingFive">
     <h2 class="mb-0">
@@ -333,72 +340,74 @@ importance: 4
         Service </button>
     </h2>
   </div>
-
   <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#cv-accordion">
     <div class="card-body">
       <h3 id="service-to-our-profession">Service to our Profession</h3>
       <ul>
-<li><strong><a href="https://2022.code4lib.org">2022 Code4Lib National Conference website</a> committee</strong>
-<ul>
-<li>Design Team Member</li>
-<li>November 2021 to present.<strong></strong></li>
-</ul>
-</li>
-<li><strong><a href="https://www.alaoweb.org/igs/tedsig/index.html/">Technical, Electronic, and Digital Services Interest Group</a> (TEDSIG) of the Academic Library Association of Ohio</strong>.
-<ul>
-<li>Co-chair</li>
-<li>elected spring 2021 for term through summer 2023.</li>
-</ul>
-</li>
-<li><strong>Creating Radical Hope: Artistic and Speculative Library Responses to Climate Change</strong>
-<ul>
-<li>Planning committee and workshop volunteer.</li>
-<li>October 2021-January 2022</li>
-</ul>
-</li>
-<li><strong><a href="https://2021.code4lib.org">2021 Code4Lib National Conference website</a> committee</strong>
-<ul>
-<li>Accessibility tester and documentarian for conference website.</li>
-<li>November 20-March 2021</li>
-</ul>
-</li>
-<li><a href="https://futures.alaoweb.org/"><strong>Speculative Futures on Post-Pandemic Libraries</strong></a>
-<ul>
-<li>Editorial assistant for digital project TEDSIG of ALAO. <a href="https://futures.alaoweb.org/"></a></li>
-<li>Summer 2021</li>
-</ul>
-</li>
-<li><a href="https://journals.publishing.umich.edu/weaveux/"><strong>Weave: Journal of Library User Experience</strong></a>
-<ul>
-<li>Member of advisory board for this open-access, peer-reviewed journal for library user experience practitioners published by University of Michigan Publishing.</li>
-<li>2019-present</li>
-</ul>
-</li>
-<li><strong>Code4Lib Midwest Conference Planning Committee</strong>
-<ul>
-<li>Committee member for event planning, scheduling, budgeting, and website creation/maintenance.</li>
-<li>2018</li>
-</ul>
-</li>
-<li><strong>Tri-State College Library Cooperative<br /></strong>
-<ul>
-<li>member of board of directors</li>
-<li>September 2015 to June 2016</li>
-</ul>
-</li>
-<li><em><strong>Barriers to Adoption of Online Learning Systems in Higher Education</strong></em>
-<ul>
-<li>Researcher and report contributor for this Gates Foundation-funded study.</li>
-<li>January 2015 to June 2016</li>
-</ul>
-</li>
-<li><strong>ILF Reference Division Board of Directors</strong>
-<ul>
-<li>Indiana Library Federation division</li>
-<li>2008-2010</li>
-</ul>
-</li>
-</ul>
+        <li><strong><a href="https://2022.code4lib.org">2022 Code4Lib National Conference website</a> committee</strong>
+          <ul>
+            <li>Design Team Member</li>
+            <li>November 2021 to present.<strong></strong></li>
+          </ul>
+        </li>
+        <li><strong><a href="https://www.alaoweb.org/igs/tedsig/index.html/">Technical, Electronic, and Digital Services
+              Interest Group</a> (TEDSIG) of the Academic Library Association of Ohio</strong>.
+          <ul>
+            <li>Co-chair</li>
+            <li>elected spring 2021 for term through summer 2023.</li>
+          </ul>
+        </li>
+        <li><strong>Creating Radical Hope: Artistic and Speculative Library Responses to Climate Change</strong>
+          <ul>
+            <li>Planning committee and workshop volunteer.</li>
+            <li>October 2021-January 2022</li>
+          </ul>
+        </li>
+        <li><strong><a href="https://2021.code4lib.org">2021 Code4Lib National Conference website</a> committee</strong>
+          <ul>
+            <li>Accessibility tester and documentarian for conference website.</li>
+            <li>November 20-March 2021</li>
+          </ul>
+        </li>
+        <li><a href="https://futures.alaoweb.org/"><strong>Speculative Futures on Post-Pandemic Libraries</strong></a>
+          <ul>
+            <li>Editorial assistant for digital project TEDSIG of ALAO. <a href="https://futures.alaoweb.org/"></a></li>
+            <li>Summer 2021</li>
+          </ul>
+        </li>
+        <li><a href="https://journals.publishing.umich.edu/weaveux/"><strong>Weave: Journal of Library User
+              Experience</strong></a>
+          <ul>
+            <li>Member of advisory board for this open-access, peer-reviewed journal for library user experience
+              practitioners published by University of Michigan Publishing.</li>
+            <li>2019-present</li>
+          </ul>
+        </li>
+        <li><strong>Code4Lib Midwest Conference Planning Committee</strong>
+          <ul>
+            <li>Committee member for event planning, scheduling, budgeting, and website creation/maintenance.</li>
+            <li>2018</li>
+          </ul>
+        </li>
+        <li><strong>Tri-State College Library Cooperative<br /></strong>
+          <ul>
+            <li>member of board of directors</li>
+            <li>September 2015 to June 2016</li>
+          </ul>
+        </li>
+        <li><em><strong>Barriers to Adoption of Online Learning Systems in Higher Education</strong></em>
+          <ul>
+            <li>Researcher and report contributor for this Gates Foundation-funded study.</li>
+            <li>January 2015 to June 2016</li>
+          </ul>
+        </li>
+        <li><strong>ILF Reference Division Board of Directors</strong>
+          <ul>
+            <li>Indiana Library Federation division</li>
+            <li>2008-2010</li>
+          </ul>
+        </li>
+      </ul>
       <h3 id="memberships">Memberships</h3>
       <ul>
         <li>Member, American Libraries Association.<ul>
@@ -413,13 +422,9 @@ importance: 4
         </li>
         <li>Member Indiana Library Federation, 2003 to 2010.</li>
       </ul>
-  </div>
+    </div>
   </div>
 </div>
-
-
-
-
 <div class="card">
   <div class="card-header" id="headingSix">
     <h2 class="mb-0">
@@ -428,20 +433,32 @@ importance: 4
         Skills </button>
     </h2>
   </div>
-
   <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#cv-accordion">
     <div class="card-body">
       <h3 id="technology">Technology</h3>
-      <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using content management and digital collection systems including LibGuides CMS, Drupal, WordPress, SharePoint, Textpattern,  Omeka and ContentDM. Experience with accessibility and LAMP server administration and application installation. Knowledge of usability, and UX design.</p>
-      <p><strong>Integrated library systems:</strong> Customization Sirsi Enterprise OPAC and Workflows, familiar with Ebsco Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and MARC/AACR2 cataloging.</p>
-      <p><strong>Computer troubleshooting:</strong> Windows and Macintosh troubleshooting. Knowledge of Linux distributions and servers, basic ethernet and wireless networking.</p>
-      <p><strong>Graphic, Multimedia and Print Design:</strong> Design software including Adobe Photoshop and InDesign. Multimedia editing, scanning, digital photography, sound and video editing using Apple and Adobe software. Experience using and teaching Microsoft, Apple, and Google productivity software including Word, Excel, PowerPoint, and Keynote.
+      <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using
+        content management and digital collection systems including LibGuides CMS, Drupal, WordPress, SharePoint,
+        Textpattern, Omeka and ContentDM. Experience with accessibility and LAMP server administration and application
+        installation. Knowledge of usability, and UX design.</p>
+      <p><strong>Integrated library systems:</strong> Customization Sirsi Enterprise OPAC and Workflows, familiar with
+        Ebsco Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and
+        MARC/AACR2 cataloging.</p>
+      <p><strong>Computer troubleshooting:</strong> Windows and Macintosh troubleshooting. Knowledge of Linux
+        distributions and servers, basic ethernet and wireless networking.</p>
+      <p><strong>Graphic, Multimedia and Print Design:</strong> Design software including Adobe Photoshop and InDesign.
+        Multimedia editing, scanning, digital photography, sound and video editing using Apple and Adobe software.
+        Experience using and teaching Microsoft, Apple, and Google productivity software including Word, Excel,
+        PowerPoint, and Keynote.
       </p>
       <h3 id="reference-and-instruction">Reference and Instruction</h3>
-      <p>Information literacy, research strategy, and technology instruction to audiences ranging from college students to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and tutorial creation. Reference interviewing. Research using print, Internet, database and human sources. Reader’s advisory.
+      <p>Information literacy, research strategy, and technology instruction to audiences ranging from college students
+        to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and
+        tutorial creation. Reference interviewing. Research using print, Internet, database and human sources. Reader’s
+        advisory.
       </p>
       <h3 id="management-and-other-skills">Management and other skills</h3>
-      <p>Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and public relations and conversational Spanish.</p>
+      <p>Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and
+        public relations and conversational Spanish.</p>
     </div>
   </div>
 </div>
