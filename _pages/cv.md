@@ -14,13 +14,13 @@ importance: 4
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne"
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne"
           aria-expanded="false" aria-controls="collapseOne">
           Education
         </button>
       </h2>
     </div>
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#cv-accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#cv-accordion">
       <div class="card-body">
 
         <h3 id="master-of-library-science">Master of Library Science</h3>
@@ -311,14 +311,14 @@ importance: 4
 <div class="card">
   <div class="card-header" id="headingFour">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour"
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour"
         aria-expanded="false" aria-controls="collapseFour">
         Scholarship
       </button>
     </h2>
   </div>
 
-  <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#cv-accordion">
+  <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#cv-accordion">
     <div class="card-body">
 
       <ul>
@@ -399,13 +399,13 @@ importance: 4
 <div class="card">
   <div class="card-header" id="headingFive">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFive"
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive"
         aria-expanded="false" aria-controls="collapseFive">
         Service </button>
     </h2>
   </div>
 
-  <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#cv-accordion">
+  <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#cv-accordion">
     <div class="card-body">
       <h3 id="service-to-our-profession">Service to our Profession</h3>
       <ul>
@@ -470,13 +470,13 @@ importance: 4
 <div class="card">
   <div class="card-header" id="headingSix">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseSix"
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix"
         aria-expanded="false" aria-controls="collapseSix">
         Skills </button>
     </h2>
   </div>
 
-  <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#cv-accordion">
+  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#cv-accordion">
     <div class="card-body">
       <h3 id="technology">Technology</h3>
       <p><strong>Web development and content management:</strong> HTML/CSS/Javascript/jQuery/PHP site development using
