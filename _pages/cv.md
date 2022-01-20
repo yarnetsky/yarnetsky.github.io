@@ -299,14 +299,13 @@ importance: 4
             <li>November 20-March 2021</li>
           </ul>
         </li>
-        <li><a href="https://futures.alaoweb.org/"><strong>Speculative Futures on Post-Pandemic Libraries</strong></a>
+        <li><strong><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a></strong>
           <ul>
             <li>Editorial assistant for digital project TEDSIG of ALAO. <a href="https://futures.alaoweb.org/"></a></li>
             <li>Summer 2021</li>
           </ul>
         </li>
-        <li><a href="https://journals.publishing.umich.edu/weaveux/"><strong>Weave: Journal of Library User
-              Experience</strong></a>
+        <li><strong><a href="https://journals.publishing.umich.edu/weaveux/">Weave: Journal of Library User Experience</a></strong>
           <ul>
             <li>Member of advisory board for this open-access, peer-reviewed journal for library user experience
               practitioners published by University of Michigan Publishing.</li>
