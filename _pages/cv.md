@@ -63,8 +63,6 @@ importance: 4
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#cv-accordion">
       <div class="card-body">
-
-
         <h3 id="miami-university">Miami University</h3>
         <p>Oxford, Ohio :: state university serving 20,000 students.</p>
         <h4 id="web-services-librarian-assistant-librarian">Web Services Librarian/Assistant Librarian</h4>
@@ -107,10 +105,7 @@ importance: 4
           students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online
           both
           synchronous and asynchronous.</p>
-
-
         <hr />
-
         <h3 id="montgomery-county-community-college">Montgomery County Community College</h3>
         <p>Blue Bell, Pennsylvania :: Serving 12,000 students in suburban Philadelphia.</p>
         <ul>
@@ -211,9 +206,7 @@ importance: 4
           <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a
               href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
         </ul>
-
         <hr />
-
         <h3 id="madison-jefferson-county-public-library">Madison-Jefferson County Public Library</h3>
         <p>Madison, Indiana. County library with 32,500 service population</p>
         <ul>
@@ -249,16 +242,9 @@ importance: 4
           <li>Developed library communication materials including newsletters, press releases, posters and blogging.
           </li>
         </ul>
-
-
       </div>
     </div>
   </div>
-
-
-
-
-
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
@@ -270,7 +256,6 @@ importance: 4
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#cv-accordion">
       <div class="card-body">
-
         <h3 id="web-development">Web development</h3>
         <p><strong>ReAL Design</strong>: March 2007 to March 2013</p>
         <ul>
@@ -286,9 +271,7 @@ importance: 4
             Madison
             Main Street Program, and Mudcat Pottery.</li>
         </ul>
-
         <hr />
-
         <h3 id="journalism">Journalism</h3>
         <p><strong>The Madison Courier</strong>: November 1993 to May 2002</p>
         <p>Special Projects Editor and Staff Writer for daily newspaper in Madison, Indiana.</p>
@@ -309,14 +292,10 @@ importance: 4
         <p><strong>WMUB-FM</strong>: January 1989-December 1991</p>
         <p>Reporter, program engineer, and program host for public radio station at Miami University in Oxford, Ohio.
         </p>
-
       </div>
     </div>
   </div>
 </div>
-
-
-
 
 <div class="card">
   <div class="card-header" id="headingFour">
@@ -364,7 +343,7 @@ importance: 4
         <li>Yarnetsky, J. (2008, April) <em>Open Source: Free Lunch or Free Kittens?</em> ILF District Conference.
           Indiana Library Federation, Madison IN.</li>
       </ul>
-      <h3>Panel Discussions</h3>
+      <h3>Poster Sessions</h3>
       <ul>
         <li>Morgan, A. &amp; Yarnetsky, J (2020, October) <em><a
               href="https://2020.alaoweb.org/posters/hs-location">Poster: Effects of high school location on first-year
@@ -391,10 +370,11 @@ importance: 4
           Tri-State College Library Cooperative, Blue Bell PA</li>
         <li>Yarnetsky, J. (2010, July) <em>Using Facebook pages to promote your library</em> [technology workshop]. TCLC
           Summer Camp. Tri-State College Library Cooperative, Blue Bell PA.</li>
+          </ul> 
     </div>
   </div>
 </div>
-
+</div>
 
 
 <div class="card">
@@ -471,7 +451,6 @@ importance: 4
 </ul>
 </li>
 </ul>
-
       <h3 id="memberships">Memberships</h3>
       <ul>
         <li>Member, American Libraries Association.<ul>
@@ -486,7 +465,7 @@ importance: 4
         </li>
         <li>Member Indiana Library Federation, 2003 to 2010.</li>
       </ul>
-    </div>
+  </div>
   </div>
 </div>
 

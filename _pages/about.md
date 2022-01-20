@@ -16,7 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 <div class="box" markdown="1">
-## Web Services Librarian at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>
+## Web Services Librarian
+at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>
 
 Supplement Materials for my 2021 Miami University Libraries Annual Report of Professional Activities
 
