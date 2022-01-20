@@ -15,7 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
+<div class="box" markdown="1">
 ## Web Services Librarian at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>
 
 Supplement Materials for my 2021 Miami University Libraries Annual Report of Professional Activities
@@ -24,13 +24,16 @@ Supplement Materials for my 2021 Miami University Libraries Annual Report of Pro
 - **Review Year**: 4th
 - **Date of Hire**: 1 January 2018
 - **Intended Area of Very Strong performance**: Service
+</div>
 
+<div class="box" markdown="1">
 ### Contact information 
 
 - <a href="mailto:jerry.yarnetsky@miamioh.edu">jerry.yarnetsky@miamioh.edu</a> 
 - (513) 529-2129
+</div>
 
----
+<div class="box" markdown="1">
 
 <img src="assets/img/datasmog.jpg" class="" alt="" style="width:100%;height:auto;">
 
@@ -49,3 +52,5 @@ Shenk, D. (1997, May). Data smog. MIT’s Technology Review. p. 18.
 **Image for illustration**
 
 The George Washington Bridge in Heavy Smog. View toward the New Jersey Side of the Hudson River. (n.d.). Retrieved April 21, 2015, from http://research.archives.gov/description/548335
+
+</div>
