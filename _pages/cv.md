@@ -13,8 +13,8 @@ importance: 4
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne"
-          aria-expanded="false" aria-controls="collapseOne">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+          data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           Education
         </button>
       </h2>
@@ -24,25 +24,25 @@ importance: 4
 
         <h3 id="master-of-library-science">Master of Library Science</h3>
 
-        <p><strong>Indiana University School of Library and Information Science.</strong> Indianapolis, Indiana.<br/>
-        Master of Library Science, 2006.</p>
+        <p><strong>Indiana University School of Library and Information Science.</strong><br /> Indianapolis,
+          Indiana.<br />
+          Master of Library Science, 2006.</p>
         <p><strong>Coursework</strong>: Information Sources and Services, Information Architecture for the Web,
-          Collaborative
-          and High Tech Learning, Evaluation of Resources and Services, Collection Development and Management, Resources
-          and
-          Technologies for Patrons with Special Needs, Bibliographic Access &amp; Control, Management of Libraries and
-          Information Centers, Issues in Public Library Management, Library Materials and Services for Adults, Library
-          Materials
-          and Services for Children and Young Adults, Genealogy and Indiana Resources.</p>
+          Collaborative and High Tech Learning, Evaluation of Resources and Services, Collection Development and
+          Management, Resources and Technologies for Patrons with Special Needs, Bibliographic Access &amp; Control,
+          Management of Libraries and Information Centers, Issues in Public Library Management, Library Materials and
+          Services for Adults, Library Materials and Services for Children and Young Adults, Genealogy and Indiana
+          Resources.</p>
 
         <h3 id="undergraduate">Undergraduate</h3>
-        
-        <p><strong>Miami University.</strong> Oxford, Ohio.<br/>
-        Bachelor of Arts in English/Journalism, 1991.<br/>
-        Minor in political science.</p>
-        
-        <p><strong>Bowling Green State University.</strong> Bowling Green, Ohio.<br/>
-        Journalism. 1985-1987.</p>
+
+        <p><strong>Miami University.</strong><br />
+          Oxford, Ohio.<br />
+          Bachelor of Arts in English/Journalism, 1991.<br />
+          Minor in political science.</p>
+
+        <p><strong>Bowling Green State University.</strong> Bowling Green, Ohio.<br />
+          Journalism. 1985-1987.</p>
 
       </div>
     </div>
@@ -109,16 +109,16 @@ importance: 4
           synchronous and asynchronous.</p>
 
 
-<hr/>
+        <hr />
 
         <h3 id="montgomery-county-community-college">Montgomery County Community College</h3>
         <p>Blue Bell, Pennsylvania :: Serving 12,000 students in suburban Philadelphia.</p>
         <ul>
-          <li><strong>Emerging Technologies Librarian/assistant professor</strong><br/>
-            February 2010 to January 2015 and July 2016 to December 2017.<br/>
-             Promoted to assistant professor, January 2014.<br/>
-             Tenured in September 2016.</li>
-            <li><strong>Director of Libraries (interim)</strong><br/> 
+          <li><strong>Emerging Technologies Librarian/assistant professor</strong><br />
+            February 2010 to January 2015 and July 2016 to December 2017.<br />
+            Promoted to assistant professor, January 2014.<br />
+            Tenured in September 2016.</li>
+          <li><strong>Director of Libraries (interim)</strong><br />
             January 2015 to June 2016.
           </li>
         </ul>
@@ -212,14 +212,16 @@ importance: 4
               href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
         </ul>
 
-<hr/>
+        <hr />
 
         <h3 id="madison-jefferson-county-public-library">Madison-Jefferson County Public Library</h3>
         <p>Madison, Indiana. County library with 32,500 service population</p>
-        <p><strong>Reference and Web Services Librarian</strong></p>
-        <p>January 2007 to January 2010</p>
-        <p><strong>Reference Assistant</strong></p>
-        <p>January 2002 to December 2006</p>
+        <ul>
+          <li><strong>Reference and Web Services Librarian</strong><br />
+            January 2007 to January 2010</li>
+          <li><strong>Reference Assistant</strong><br />
+            January 2002 to December 2006</li>
+        </ul>
         <ul>
           <li>Designed and managed library web presence. Redesigned library web site received ALA recognition in 2006 as
             traffic
@@ -285,7 +287,7 @@ importance: 4
             Main Street Program, and Mudcat Pottery.</li>
         </ul>
 
-<hr/>
+        <hr />
 
         <h3 id="journalism">Journalism</h3>
         <p><strong>The Madison Courier</strong>: November 1993 to May 2002</p>
@@ -319,8 +321,8 @@ importance: 4
 <div class="card">
   <div class="card-header" id="headingFour">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour"
-        aria-expanded="false" aria-controls="collapseFour">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
         Scholarship
       </button>
     </h2>
@@ -328,64 +330,31 @@ importance: 4
 
   <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#cv-accordion">
     <div class="card-body">
-
+      <h3>Presentations</h3>
       <ul>
         <li>Yarnetsky, J (2022, March). <em><a
               href="https://computersinlibraries.infotoday.com/2022/program.aspx#15132">Developing With a Static Site
               Generator</a>.</em> Computers in Libraries 2022. Arlington, Virginia. Information Today, Inc.</li>
         <li>Yarnetsky, J., Irwin, K., &amp; Qu, M. (April 2021). <em>Free Yourself From the Database: Developing With a
-            Static
-            Site Generator.</em> WebCon 2021: An online conference for web professionals within higher education and
-          beyond.
-          University of Illinois Webmasters.</li>
-        <li>Morgan, A. &amp; Yarnetsky, J (2020, October) <em><a
-              href="https://2020.alaoweb.org/posters/hs-location">Poster:
-              Effects of high school location on first-year students’ research confidence and college
-              readiness</a>.</em> ALAO
-          2020 Conference. Online: Academic Library Association of Ohio.</li>
+            Static Site Generator.</em> WebCon 2021: An online conference for web professionals within higher education
+          and beyond. University of Illinois Webmasters.</li>
         <li>Yarnetsky, J. (2019, October). <em>The Last Mile for Web Accessibility: Help Making Our Content Universally
             Accessible</em>. <a href="https://www.alaoweb.org/conferences/2019/program">ALAO 2019 Conference</a>.
           Nationwide
           Hotel and Conference Center, Columbus, Ohio: Academic Library Association of Ohio.</li>
         <li>Revelle, A. A., &amp; Yarnetsky, J. (2019, October). <em>Do You Need Help? The Implementation of Proactive
-            Chat
-            and its Effect on the Quantity and Quality of Reference Interactions</em>. <a
+            Chat and its Effect on the Quantity and Quality of Reference Interactions</em>. <a
             href="https://www.alaoweb.org/conferences/2019/program">ALAO 2019 Conference</a>. Nationwide Hotel and
-          Conference
-          Center, Columbus, Ohio: Academic Libraries Association of Ohio.</li>
+          Conference Center, Columbus, Ohio: Academic Libraries Association of Ohio.</li>
         <li>Yarnetsky, J. (2019, April). <em>Make your online content accessible to all (not just those who can see your
             library website)</em>. ACRL 2019 Conference. Cleveland, Ohio: Association of College and Research Libraries.
         </li>
-        <li>Yarnetsky, J. (2017, July) <a href="https://library.mc3.edu/friendly.php?s=css">*CSS with Floaties On:
-            Cascading
-            style sheets for beginners</a>* [technology workshop]. TCLC Summer Camp. Tri-State College Library
-          Cooperative,
-          Gwynedd Valley PA</li>
-        <li>Yarnetsky, J. (2017, July) <em>Customing LibGuides</em> [technology workshop]. TCLC Summer Camp. Tri-State
-          College
-          Library Cooperative, Gwynedd Valley PA.</li>
-        <li>Yarnetsky, J. (2015, March) <em>Annotating digital exhibits</em> [panel discussion moderator]. THATCamp CC:
-          The
-          Humanities and Technologies Community Colleges, Philadelphia PA.</li>
-        <li>Yarnetsky, J. (2014, September). <em>Digital Humanities on a Dime</em>. [panel discussion moderator]
-          THATcamp
-          Philly. The Humanities and Technologies, Philadelphia PA.</li>
-        <li>Yarnetsky, J. (2014, July) <em>WordPress for your library</em> [technology workshop]. TCLC Summer Camp.
-          Tri-State
-          College Library Cooperative, Blue Bell PA</li>
         <li>Yarnetsky J. (2013, October) <em>Betzwood Film Archives Project</em>. VUStuff digital humanities conference.
           Villanova University, Villanova PA.</li>
         <li>Yarnetsky, J. &amp; Greene, L. (2012, October) <em>Digital history best practices</em>. MC3 Tech Conference.
           Montgomery County Community College, Blue Bell PA.</li>
-        <li>Yarnetsky, J. (2010, October) <em>Digital Campus Academy: a multimedia faculty training camp</em>.
-          [discussion
-          panel] MC3 Tech Conference. Montgomery County Community College, Blue Bell PA.</li>
-        <li>Yarnetsky, J. (2010, July) <em>Using Facebook pages to promote your library</em> [technology workshop]. TCLC
-          Sum-
-          mer Camp. Tri-State College Library Cooperative, Blue Bell PA.</li>
         <li>Yarnetsky, J. &amp; Barnes, J. (2009, April) <em>Digital history: Lessons learned</em> [invited
-          presentation].
-          2009 ILF Distrit Conference. Indiana Library Federation, Columbus IN.</li>
+          presentation]. 2009 ILF Distrit Conference. Indiana Library Federation, Columbus IN.</li>
         <li>Yarnetsky, J. (2008, October) <em>Digital Projects using Omeka</em> [invited presentation]. Open Source
           Repositories and Digital Libraries Conference. Indiana Online Users Group, Indianapolis IN.</li>
         <li>Yarnetsky, J. &amp; Barnes, J. (2008, August) <em>River to Rails and our digital history projects lessons
@@ -393,11 +362,35 @@ importance: 4
           Wayne IN.
         </li>
         <li>Yarnetsky, J. (2008, April) <em>Open Source: Free Lunch or Free Kittens?</em> ILF District Conference.
-          Indiana
-          Library Federation, Madison IN.</li>
+          Indiana Library Federation, Madison IN.</li>
       </ul>
-
-
+      <h3>Panel Discussions</h3>
+      <ul>
+        <li>Morgan, A. &amp; Yarnetsky, J (2020, October) <em><a
+              href="https://2020.alaoweb.org/posters/hs-location">Poster: Effects of high school location on first-year
+              students’ research confidence and college readiness</a>.</em> ALAO 2020 Conference. Online: Academic
+          Library Association of Ohio.</li>
+      </ul>
+      <h3>Panel Discussions</h3>
+      <ul>
+        <li>Yarnetsky, J. (2015, March) <em>Annotating digital exhibits</em> [panel discussion and moderator]. THATCamp
+          CC: The Humanities and Technologies Community Colleges, Philadelphia PA.</li>
+        <li>Yarnetsky, J. (2014, September). <em>Digital Humanities on a Dime</em>. [panel discussion and moderator]
+          THATcamp Philly. The Humanities and Technologies, Philadelphia PA.</li>
+        <li>Yarnetsky, J. (2010, October) <em>Digital Campus Academy: a multimedia faculty training camp</em>.
+          [discussion panel] MC3 Tech Conference. Montgomery County Community College, Blue Bell PA.</li>
+      </ul>
+      <h3>Technology Workshops</h3>
+      <ul>
+        <li>Yarnetsky, J. (2017, July) <a href="https://library.mc3.edu/friendly.php?s=css">CSS with Floaties On:
+            Cascading style sheets for beginners</a> [technology workshop]. TCLC Summer Camp. Tri-State College Library
+          Cooperative, Gwynedd Valley PA</li>
+        <li>Yarnetsky, J. (2017, July) <em>Customing LibGuides</em> [technology workshop]. TCLC Summer Camp. Tri-State
+          College Library Cooperative, Gwynedd Valley PA.</li>
+        <li>Yarnetsky, J. (2014, July) <em>WordPress for your library</em> [technology workshop]. TCLC Summer Camp.
+          Tri-State College Library Cooperative, Blue Bell PA</li>
+        <li>Yarnetsky, J. (2010, July) <em>Using Facebook pages to promote your library</em> [technology workshop]. TCLC
+          Summer Camp. Tri-State College Library Cooperative, Blue Bell PA.</li>
     </div>
   </div>
 </div>
@@ -407,8 +400,8 @@ importance: 4
 <div class="card">
   <div class="card-header" id="headingFive">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive"
-        aria-expanded="false" aria-controls="collapseFive">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
         Service </button>
     </h2>
   </div>
@@ -417,42 +410,67 @@ importance: 4
     <div class="card-body">
       <h3 id="service-to-our-profession">Service to our Profession</h3>
       <ul>
-        <li><strong>Technical, Electronic, and Digital Services Interest Group (TEDSIG) of the Academic Library
-              Association of Ohio</strong>.
-          <ul>
-            <li>Elected co-chair in Spring 2021 for term running July 2021-June 2023.</li>
-          </ul>
-        </li>
-        <li><strong>2022 Code4Lib National Conference website committee</strong>
-          <ul>
-            <li>Design Team Member, November 2021 to present</li>
-          </ul>
-        </li>
-        <li><strong>Creating Radical Hope: Artistic and Speculative Library Responses to Climate
-              Change</strong>
-          <ul>
-            <li>Planning committee and workshop volunteer, October 2021 to January 2022.</li>
-          </ul>
-        </li>
-        <li>Code4Lib National Conference website committee (2021) documentarian and accessibility tester for conference
-          website. <a href="https://2021.code4lib.org/">https://2021.code4lib.org/</a></li>
-        <li>Speculative Futures on Post-Pandemic Libraries (2021), editorial assistant for digital project from the
-          Technical,
-          Electronic, and Digital Services Interest Group of the Academic Library Association of Ohio. <a
-            href="https://futures.alaoweb.org/">https://futures.alaoweb.org/</a></li>
-        <li>Weave: Journal of Library User Experience (2019-present). Member of advisory board for this open-access,
-          peer-reviewed journal for library user experience practitioners published by Uni- versity of Michigan
-          Publishing.
-        </li>
-        <li>Code4Lib Midwest Conference Planning Committee (2018) Committee member for with event planning and
-          scheduling,
-          budgeting, and website creation/maintenance.</li>
-        <li>Tri-State College Library Cooperative (2015-16) member of board of directors.</li>
-        <li>Barriers to Adoption of Online Learning Systems in Higher Education (2011) Researcher and report contributor
-          for
-          this Gates Foundation-funded study.</li>
-        <li>ILF Reference Division Board of Directors (2008-2010). Indiana Library Federation.</li>
-      </ul>
+<li><strong><a href="https://2022.code4lib.org">2022 Code4Lib National Conference website</a> committee</strong>
+<ul>
+<li>Design Team Member</li>
+<li>November 2021 to present.<strong></strong></li>
+</ul>
+</li>
+<li><strong><a href="https://www.alaoweb.org/igs/tedsig/index.html/">Technical, Electronic, and Digital Services Interest Group</a> (TEDSIG) of the Academic Library Association of Ohio</strong>.
+<ul>
+<li>Co-chair</li>
+<li>elected spring 2021 for term through summer 2023.</li>
+</ul>
+</li>
+<li><strong>Creating Radical Hope: Artistic and Speculative Library Responses to Climate Change</strong>
+<ul>
+<li>Planning committee and workshop volunteer.</li>
+<li>October 2021-January 2022</li>
+</ul>
+</li>
+<li><strong><a href="https://2021.code4lib.org">2021 Code4Lib National Conference website</a> committee</strong>
+<ul>
+<li>Accessibility tester and documentarian for conference website.</li>
+<li>November 20-March 2021</li>
+</ul>
+</li>
+<li><a href="https://futures.alaoweb.org/"><strong>Speculative Futures on Post-Pandemic Libraries</strong></a>
+<ul>
+<li>Editorial assistant for digital project TEDSIG of ALAO. <a href="https://futures.alaoweb.org/"></a></li>
+<li>Summer 2021</li>
+</ul>
+</li>
+<li><a href="https://journals.publishing.umich.edu/weaveux/"><strong>Weave: Journal of Library User Experience</strong></a>
+<ul>
+<li>Member of advisory board for this open-access, peer-reviewed journal for library user experience practitioners published by University of Michigan Publishing.</li>
+<li>2019-present</li>
+</ul>
+</li>
+<li><strong>Code4Lib Midwest Conference Planning Committee</strong>
+<ul>
+<li>Committee member for event planning, scheduling, budgeting, and website creation/maintenance.</li>
+<li>2018</li>
+</ul>
+</li>
+<li><strong>Tri-State College Library Cooperative<br /></strong>
+<ul>
+<li>member of board of directors</li>
+<li>September 2015 to June 2016</li>
+</ul>
+</li>
+<li><em><strong>Barriers to Adoption of Online Learning Systems in Higher Education</strong></em>
+<ul>
+<li>Researcher and report contributor for this Gates Foundation-funded study.</li>
+<li>January 2015 to June 2016</li>
+</ul>
+</li>
+<li><strong>ILF Reference Division Board of Directors</strong>
+<ul>
+<li>Indiana Library Federation division</li>
+<li>2008-2010</li>
+</ul>
+</li>
+</ul>
 
       <h3 id="memberships">Memberships</h3>
       <ul>
@@ -478,8 +496,8 @@ importance: 4
 <div class="card">
   <div class="card-header" id="headingSix">
     <h2 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix"
-        aria-expanded="false" aria-controls="collapseSix">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
         Skills </button>
     </h2>
   </div>
