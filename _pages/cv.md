@@ -104,6 +104,10 @@ importance: 4
           students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online
           both
           synchronous and asynchronous.</p>
+
+
+<hr/>
+
         <h3 id="montgomery-county-community-college">Montgomery County Community College</h3>
         <p>Blue Bell, Pennsylvania :: Serving 12,000 students in suburban Philadelphia.</p>
         <ul>
@@ -209,6 +213,9 @@ importance: 4
           <li>Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our <a
               href="http://mc3betzwood.wordpress.com/">Betzwood digital history project</a> in 2012.</li>
         </ul>
+
+<hr/>
+
         <h3 id="madison-jefferson-county-public-library">Madison-Jefferson County Public Library</h3>
         <p>Madison, Indiana. County library with 32,500 service population</p>
         <p><strong>Reference and Web Services Librarian</strong></p>
@@ -279,6 +286,9 @@ importance: 4
             Madison
             Main Street Program, and Mudcat Pottery.</li>
         </ul>
+
+<hr/>
+
         <h3 id="journalism">Journalism</h3>
         <p><strong>The Madison Courier</strong>: November 1993 to May 2002</p>
         <p>Special Projects Editor and Staff Writer for daily newspaper in Madison, Indiana.</p>
@@ -409,19 +419,19 @@ importance: 4
     <div class="card-body">
       <h3 id="service-to-our-profession">Service to our Profession</h3>
       <ul>
-        <li><strong><em>Technical, Electronic, and Digital Services Interest Group (TEDSIG) of the Academic Library
-              Association of Ohio</em></strong>.
+        <li><strong>Technical, Electronic, and Digital Services Interest Group (TEDSIG) of the Academic Library
+              Association of Ohio</strong>.
           <ul>
             <li>Elected co-chair in Spring 2021 for term running July 2021-June 2023.</li>
           </ul>
         </li>
-        <li><strong><em>2022 Code4Lib National Conference website committee</em></strong>
+        <li><strong>2022 Code4Lib National Conference website committee</strong>
           <ul>
             <li>Design Team Member, November 2021 to present</li>
           </ul>
         </li>
-        <li><strong><em>Creating Radical Hope: Artistic and Speculative Library Responses to Climate
-              Change</em></strong>
+        <li><strong>Creating Radical Hope: Artistic and Speculative Library Responses to Climate
+              Change</strong>
           <ul>
             <li>Planning committee and workshop volunteer, October 2021 to January 2022.</li>
           </ul>

@@ -20,8 +20,25 @@ h1, h2, h3, h4, h5, h6 {
 .post article {
 }
 
-.card-body {
+.accordion .card-body {
   padding: 50px 75px;
+}
+
+.card-body h3 {
+  font-weight: 900;
+}
+
+.card-header button {
+  font-size: 0.75em;
+  text-transform: capitalize;
+  background-color: none;
+}
+
+.presentation {
+  border: 1px solid #ccc;
+  padding: 30px 50px;
+  margin: 35px 0;
+  box-shadow: 3px 3px 10px #ddd;
 }
 
 // Typography
