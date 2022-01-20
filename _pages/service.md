@@ -24,12 +24,12 @@ importance: 2
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#service-accordion">
       <div class="card-body">
         
-        <h3 id="professional-development-working-group"><strong><em>Strategic Initiatives Professional Development working group (AY 2020-21)</em></strong></h3>
+        <h3 id="professional-development-working-group"><em>Strategic Initiatives Professional Development working group (AY 2020-21)</em></h3>
 <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.  </p>
 <p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional Development Workgroup Findings and Recommendations</a></p>
 <hr/>
 
-<h3 id="library-games-night-committee"><strong><em>Library Games Night Committee (summer 2018 to present)</em></strong></h3>
+<h3 id="library-games-night-committee"><em>Library Games Night Committee (summer 2018 to present)</em></h3>
 <ul>
 <li>Member of this outreach committee which sponsors tabletop gaming evenings for the university community held in each of our libraries.</li>
 <li><a href="https://libguides.lib.miamioh.edu/board-games">Games Night website</a> which I co-manage</li>
@@ -57,7 +57,7 @@ importance: 2
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#service-accordion">
       <div class="card-body">
 
-<h3 id="ims-222"><strong><em>IMS 222: Introduction to Interaction Design and Development</em></strong></h3>
+<h3 id="ims-222"><em>IMS 222: Introduction to Interaction Design and Development</em></h3>
 <p><strong>Spring 2020 to present</strong></p>
 <p>I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics such as responsive design, accessibility, and the design thinking also discussed. Modes of instruction have included in-person, online synchronous, and hybrid depending on pandemic demands. Five to six instructors teach IMS 222 each semester. I have been an active member of service to this group.</p>
 <p><strong>In 2021,</strong> I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty. Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.</p>
