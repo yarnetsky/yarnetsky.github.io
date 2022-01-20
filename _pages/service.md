@@ -83,9 +83,9 @@ importance: 2
 
 <p>National and State professional organizational websites where I’ve contributed design, code, and accessibility testing.</p>
 
-<p><a href="https://2022.code4lib.org/"><strong>Code4Lib 2022 National Conference</strong></a>: Design and content contributor including front page design. Accessibility testing. </p>
-<p><a href="https://2021.code4lib.org/"><strong>Code4Lib 2021 National Conference</strong></a> : Accessibility testing</p>
-<p><a href="https://futures.alaoweb.org/"><strong>Speculative Futures on Post-Pandemic Libraries</strong></a>: Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
+<p><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a>: Design and content contributor including front page design. Accessibility testing. </p>
+<p><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a> : Accessibility testing</p>
+<p><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a>: Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
 
       </div>
     </div>
