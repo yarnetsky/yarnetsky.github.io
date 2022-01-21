@@ -25,18 +25,18 @@ Supplement Materials for my 2021 Miami University Libraries Annual Report of Pro
 - **Review Year**: 4th
 - **Date of Hire**: 1 January 2018
 - **Intended Area of Very Strong performance**: Service
-</div>
 
-<div class="box" markdown="1">
 ### Contact information 
 
 - <a href="mailto:jerry.yarnetsky@miamioh.edu">jerry.yarnetsky@miamioh.edu</a> 
 - (513) 529-2129
+
 </div>
+
 
 <div class="box" markdown="1">
 
-<img src="assets/img/datasmog.jpg" class="" alt="" style="width:100%;height:auto;">
+<img src="assets/img/data-smog.png" class="" alt="" style="width:100%; height:auto;">
 
 ## Philosophy of Librarianship
 
@@ -52,6 +52,6 @@ Shenk, D. (1997, May). Data smog. MIT’s Technology Review. p. 18.
 
 **Image for illustration**
 
-The George Washington Bridge in Heavy Smog. View toward the New Jersey Side of the Hudson River. (n.d.). Retrieved April 21, 2015, from http://research.archives.gov/description/548335
+<p><a href="https://historicpittsburgh.org/islandora/object/pitt%3ASCLS003">Corner of Liberty and Fifth Avenues 10:55 AM</a>. (c.1940). Smoke Control Lantern Slide Collection, Historic Pittsburgh hosted by the University of Pittsburgh Library System. A photo from a series of images taken to document the city of Pittsburgh before and after smoke control ordinances were passed regulating the burning of coal.</p>
 
 </div>
