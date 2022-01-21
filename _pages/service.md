@@ -6,6 +6,7 @@ description:
 nav: true
 importance: 2
 ---
+**Reports and annotation from selected service.** 
 <div class="accordion" id="service-accordion">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -47,10 +48,10 @@ importance: 2
       <div class="card-body">
         <h3 id="ims-222">IMS 222: Introduction to Interaction Design and Development</h3>
         <p><strong>Spring 2020 to present</strong></p>
-        <p>I have taught this 3-credit foundational web development course for ETBD each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics include responsive design, accessibility, and design thinking. Modes of instruction have included in-person, online synchronous,and hybrid depending on pandemic demands.</p>
+        <p>I've taught this 3-credit foundational interaction design/web development course for the <a href="https://miamioh.edu/cca/academics/departments/etbd/">Emerging Technologies in Business and Design</a> department each Spring and Fall semester since January 2020. Instruction includes theories and best practices of interaction design, and coding these interactions for the web using HTML, Cascading Style Sheets, and Javascript. Related topics include responsive design, accessibility, and design thinking. Modes of instruction have included in-person, online synchronous,and hybrid depending on pandemic demands.</p>
         <p><strong>In 2021,</strong> I piloted using GitHub Classroom for assignment management and grading and shared my findings and trained other IMS 222 faculty on its use. Developed assignments and instruction materials to dovetail with these tools. I piloted the first version of accessibility instructional materials with my class and shared my materials with faculty.Expect to share revisions in Spring 2022. In Summer 2020, I collaborated with the IMS 222 instructors to develop a common set of learning objectives for our course.</p>
         <h4>Student Feedback from Spring 2021</h4>
-        <p><a href="assets/pdf/IMS222A-Yarnetsky-202110-Ratings.pdf" download>Spring 2021 Student Feedback Ratings</a> (pdf file). For the most part my rating exceeded departmental and university means. Following are comments from the feedback forms. They were <em>mostly</em> positive...</p>
+        <p><a href="https://github.com/yarnetsky/yarnetsky.github.io/blob/master/assets/pdf/IMS222A-Yarnetsky-202110-Ratings.pdf">Spring 2021 Student Feedback Ratings</a>. For the most part my rating exceeded departmental and university means. Following are comments from the feedback forms. They were <em>mostly</em> positive...</p>
         <ul>
           <li>"This was one of my best classes this semester because of the way the professor helped us. He always made time for any questions and addressed them in full, and would even give us resources to help us understand further. He was extremely helpful in helping in and outside of class."</li>
           <li>"This class was great and the instructor was very passionate about the topics and always more than willing to help. He did a great job at making sure all students felt comfortable asking for help and had a good understanding of the meterial."</li>
@@ -67,29 +68,29 @@ importance: 2
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
           data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Service to our Profession
+          Service Projects
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#service-accordion">
       <div class="card-body">
-        <p>National and State professional organizational web projects I’ve contributed to.</p>  
+        <p>National and State professional organizational and community web projects I’ve contributed to.</p>  
         <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <h3><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a></h3>
-        <p>Design and content contributor including front page design. Accessibility testing. </p>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <h3><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a></h3>
-        <p>Accessibility testing</p>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a><h3>
-        <p>Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
-    </div>
-</div>
-      </div>
-    </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                <h3><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a></h3>
+                <p>Design and content contributor including front page design. Accessibility testing. </p>
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                <h3><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a></h3>
+                <p>Accessibility testing</p>
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a><h3>
+                <p>Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
+            </div>
+  </div>
+  </div>
+  </div>
   </div>
 </div>
 
