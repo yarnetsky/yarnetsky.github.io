@@ -339,14 +339,15 @@ importance: 4
       </ul>
       <h3 id="memberships">Memberships</h3>
       <ul>
-        <li>Member, American Libraries Association.<ul>
-            <li>ACRL</li>
+        <li>American Libraries Association.<ul>
             <li>Web4Libraries Interest Group</li>
+        <li>ACRL</li>
           </ul>
         </li>
         <li>Member, Academic Libraries Association of Ohio.<ul>
-            <li>TEDSIG</li>
-            <li>other interest groups?</li>
+<li>Technical, Electronic, and Digital Services Interest Group (TEDSIG)</li>            
+            <li>Distance Learning Interest Group (DLIG)</li>
+<li>Promotion, Outreach, and Marketing Interest Group (PROMIG)</li>
           </ul>
         </li>
         <li>Member Indiana Library Federation, 2003 to 2010.</li>
