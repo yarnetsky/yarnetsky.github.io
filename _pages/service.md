@@ -27,7 +27,7 @@ importance: 2
           <li><strong>2021 contributions</strong> included creating eye-catching graphics for print and online promotional materials, co-maintaining Games Night guide, analyzing results of attendee surveys, and volunteering during each games night to welcome gamers, train on game play, and aid with event setup and cleanup.</li>
           <li>Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021.</li> 
           <li><a href="https://libguides.lib.miamioh.edu/board-games">Games Night website with guide to online gaming</a></li>
-          <li><a href="https://muohio.libinsight.com/games-night">Games Night Survey results dashboard</a>
+          <li><a href="https://muohio.libinsight.com/games-night">Games Night Survey results dashboard</a></li>
           <li>Committee Annual Reports: <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>, <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, and <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a>.
           </li>
         </ul>
