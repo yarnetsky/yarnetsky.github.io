@@ -13,8 +13,7 @@ importance: 2
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne"
-          aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Service to our Libraries
         </button>
       </h2>
@@ -23,11 +22,8 @@ importance: 2
       <div class="card-body">
         <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY
           2020-21)</h3>
-        <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for
-          professional development documentation. We made a series of recommendations for this guide that emphasized
-          editorial representation from all parts of the library to help keep the guide current and sustainable. </p>
-        <p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional
-            Development Workgroup Findings and Recommendations</a></p>
+        <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.</p>
+        <p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional Development Workgroup Findings and Recommendations</a></p>
         <hr />
         <h3 id="library-games-night-committee">Library Games Night Committee (summer 2018 to present)</h3>
         <ul>
@@ -39,9 +35,9 @@ importance: 2
           <li>Committee Annual Reports: <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>, <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, and <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a>.
           </li>
         </ul>
-      </div>
-    </div>
-  </div>
+        </div>
+        </div>
+        </div>
 
   <!-- UNIVERSITY -->
 
