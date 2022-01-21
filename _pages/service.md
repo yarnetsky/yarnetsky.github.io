@@ -18,7 +18,7 @@ importance: 2
         </button>
       </h2>
     </div>
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#service-accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#service-accordion">
       <div class="card-body">
         <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY
           2020-21)</h3>
