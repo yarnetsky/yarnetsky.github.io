@@ -6,8 +6,6 @@ description:
 nav: true
 importance: 2
 ---
-
-
 <div class="accordion" id="service-accordion">
 
   <!-- LIBRARIES -->
@@ -76,9 +74,8 @@ importance: 2
     </div>
   </div>
 
-
   <!-- PROFESSION -->
-
+  
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
@@ -90,17 +87,10 @@ importance: 2
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#service-accordion">
       <div class="card-body">
-
-        <p>National and State professional organizational websites where I’ve contributed design, code, and
-          accessibility testing.</p>
-
-        <p><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a>: Design and content contributor
-          including front page design. Accessibility testing. </p>
+        <p>National and State professional organizational websites where I’ve contributed design, code, and accessibility testing.</p>
+        <p><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a>: Design and content contributor including front page design. Accessibility testing. </p>
         <p><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a> : Accessibility testing</p>
-        <p><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a>: Editorial
-          assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and
-          Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
-
+        <p><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a>: Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
       </div>
     </div>
   </div>
