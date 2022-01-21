@@ -29,7 +29,7 @@ importance: 2
           <li>Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021.</li> 
           <li><a href="https://libguides.lib.miamioh.edu/board-games">Games Night website with guide to online gaming</a></li>
           <li><a href="https://muohio.libinsight.com/games-night">Games Night Survey results dashboard</a></li>
-          <li>Committee Annual Reports: <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>, <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, and <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a>.
+          <li>Committee Annual Reports: <a href="https://docs.google.com/document/d/1gl5JCfI4uzBEz51-e06vMFo4PpHyjE9dG3Erzhzun3E/edit#">2021 Summary</a>, <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>, <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, and <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a>.
           </li>
         </ul>
         </div>
@@ -75,24 +75,23 @@ importance: 2
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#service-accordion">
       <div class="card-body">
         <p>National and State professional organizational and community web projects I’ve contributed to.</p>  
-        <div class="row justify-content-sm-center">
-            <div class="col-sm-4 mt-3 mt-md-0">
+            <div class="box">
                 <h3><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a></h3>
                 <p>Design and content contributor including front page design. Accessibility testing. </p>
             </div>
-            <div class="col-sm-4 mt-3 mt-md-0">
+            <div class="box">
                 <h3><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a></h3>
                 <p>Accessibility testing</p>
             </div>
-            <div class="col-sm-4 mt-3 mt-md-0">
-                <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a><h3>
+            <div class="box">
+                <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a></h3>
                 <p>Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
             </div>
-  </div>
-  </div>
-  </div>
-  </div>
-</div>
+              </div>
+                </div>
+                  </div>
+                    </div>
+                   
 
 
 
