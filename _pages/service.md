@@ -7,9 +7,6 @@ nav: true
 importance: 2
 ---
 <div class="accordion" id="service-accordion">
-
-  <!-- LIBRARIES -->
-
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
@@ -20,8 +17,7 @@ importance: 2
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#service-accordion">
       <div class="card-body">
-        <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY
-          2020-21)</h3>
+        <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY 2020-21)</h3>
         <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.</p>
         <p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional Development Workgroup Findings and Recommendations</a></p>
         <hr />
@@ -38,9 +34,6 @@ importance: 2
         </div>
         </div>
         </div>
-
-  <!-- UNIVERSITY -->
-
   <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
@@ -69,9 +62,6 @@ importance: 2
       </div>
     </div>
   </div>
-
-  <!-- PROFESSION -->
-  
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
@@ -83,11 +73,26 @@ importance: 2
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#service-accordion">
       <div class="card-body">
-        <p>National and State professional organizational websites where I’ve contributed design, code, and accessibility testing.</p>
-        <p><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a>: Design and content contributor including front page design. Accessibility testing. </p>
-        <p><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a> : Accessibility testing</p>
-        <p><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a>: Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
+        <p>National and State professional organizational web projects I’ve contributed to.</p>  
+        <div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <h3><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a></h3>
+        <p>Design and content contributor including front page design. Accessibility testing. </p>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <h3><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a></h3>
+        <p>Accessibility testing</p>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a><h3>
+        <p>Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
+    </div>
+</div>
       </div>
     </div>
   </div>
 </div>
+
+
+
+
