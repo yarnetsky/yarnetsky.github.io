@@ -6,6 +6,9 @@ description: Curriculum Vitae
 nav: true
 importance: 4
 ---
+<div class="download-link">
+<p><a href="#" download>Download pdf version of my CV</a></p>
+</div>
 
 <div class="accordion" id="cv-accordion">
   <div class="card">

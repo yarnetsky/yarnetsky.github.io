@@ -15,11 +15,11 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<div class="box" markdown="1">
-## Web Services Librarian
-at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>
+<h2>Web Services Librarian at<br><a href="https://www.lib.miamioh.edu">Miami University Libraries</a></h2>
 
-Supplement Materials for my 2021 Miami University Libraries Annual Report of Professional Activities
+<div class="box" markdown="1">
+
+**Supplement materials for my 2021 Annual Report of Professional Activities**
 
 - **Rank**: Assistant Librarian
 - **Review Year**: 4th
@@ -34,9 +34,11 @@ Supplement Materials for my 2021 Miami University Libraries Annual Report of Pro
 </div>
 
 
-<div class="box" markdown="1">
+<div class="hero-box" markdown="1">
 
-<img src="assets/img/data-smog.png" class="" alt="" style="width:100%; height:auto;">
+<img src="assets/img/data-smog.png" class="hero-image" alt="" style="width:100%; height:auto;">
+
+<div class="box-content" markdown="1">
 
 ## Philosophy of Librarianship
 
@@ -53,5 +55,5 @@ Shenk, D. (1997, May). Data smog. MIT’s Technology Review. p. 18.
 **Image for illustration**
 
 <p><a href="https://historicpittsburgh.org/islandora/object/pitt%3ASCLS003">Corner of Liberty and Fifth Avenues 10:55 AM</a>. (c.1940). Smoke Control Lantern Slide Collection, Historic Pittsburgh hosted by the University of Pittsburgh Library System. A photo from a series of images taken to document the city of Pittsburgh before and after smoke control ordinances were passed regulating the burning of coal.</p>
-
+</div>
 </div>

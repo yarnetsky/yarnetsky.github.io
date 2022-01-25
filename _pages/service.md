@@ -6,13 +6,14 @@ description:
 nav: true
 importance: 2
 ---
-**Reports and annotation from selected service.** 
+<h2 class="page-header">Reports and annotation from selected service.</h2>
+
 <div class="accordion" id="service-accordion">
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Service to our Libraries
+         Service to our Libraries
         </button>
       </h2>
     </div>

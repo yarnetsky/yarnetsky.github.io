@@ -18,6 +18,18 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 3px 3px 12px #ddd;
 }
 
+.hero-box {
+  padding: 0px;
+  border: 1px solid #ddd;
+  margin: 35px 0;
+  box-shadow: 3px 3px 12px #ddd;
+}
+
+.box-content {
+  padding: 30px 50px;
+}
+
+
 .box h2 {
   font-weight:bold;
 }
@@ -35,11 +47,18 @@ h1, h2, h3, h4, h5, h6 {
 .post-title {
   font-weight: bold;
   font-size: 3.5em;
-  margin-bottom: -0.25em;
+  margin: -0.25em 0 -0.15em 0;
 }
 
-.post article {
+h2.page-header {
+  margin-bottom:1.25em;
 }
+
+.download-link p {
+    margin: -0.75em 0 1.5em 0;}
+.download-link a {    
+    font-weight: 500;
+    font-family: 'Bitter';}
 
 .accordion .card-body {
   padding: 50px 75px;
@@ -51,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .card-header button {
   font-size: 0.75em;
-  text-transform: capitalize;
+  text-transform: none;
   background-color: none;
 }
 
