@@ -55,7 +55,7 @@ Publishing tools for strategic communications team: For the first major revision
         
 ![Makerspace reservation system screenshot](/assets/img/reservations.png#featured)
 
-The Covid-19 pandemic posed a slew of challenges for providing equitable library services. How would in-person services translate online? How do we allow researchers and makers to use the libraries while keeping everyone safe? We needed to quickly plan and implement several new and upgraded virtual services. For each of these projects I collaborated with staff to best understand their needs. I then focused not solely on the needed functionality, but on how our students and staff would interact with the functionality to eliminate as much friction as possible.
+The Covid-19 pandemic posed a slew of challenges for providing equitable library services. How would in-person services translate online? How do we allow researchers and makers to use the libraries while keeping everyone safe? We needed to quickly plan and implement several new and upgraded virtual services. For each of these projects I collaborated with staff to best understand their needs. I then focused not solely on the needed functionality, but on how our students and staff would interact with the functionality to eliminate as much friction as possible. Here are examples of the various custom projects required to keep our system running during Covid.
 
 ### Appointment systems for Special Collections and University Archives
 
@@ -104,6 +104,8 @@ Due to pandemic limitations, when the art museum reopened for fall semester, vie
 ### OneCampus Project
 
 In December 2021, I was trained on the new system slated to replace the MyMiami portal in 2022. Using an iPad-like interface of icons you click to quickly reach your destination, you can search or browse sets of tasks and destinations. The libraries were chosen as a pioneering partner in the system and I was designated as the content leader. I collaborated with Nick Kneer to select our top tasks for the system.
+
+![Training for Freedom screenshot](/assets/img/train4freedom.png#interior)
 
 ### Training for Freedom documentary website
 
