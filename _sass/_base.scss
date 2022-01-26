@@ -75,14 +75,17 @@ h2.page-header {
 }
 
 img[src*="#featured"] {
-   width:100%;
-   height:auto;
-}
-img[src*="#featured"] {
     width: 100%;
     height: auto;
     box-shadow: 5px 5px 15px #ccc;
     margin: 0 0 1.25em 0;
+}
+
+img[src*="#right"] {
+    float:right;
+    width: 50%;
+    box-shadow: 5px 5px 15px #ccc;
+    margin: 0.5em 0 1em 1em;
 }
 
 // Typography
