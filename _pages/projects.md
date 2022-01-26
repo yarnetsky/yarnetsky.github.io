@@ -21,7 +21,7 @@ importance: 1
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#projects-accordion">
       <div class="card-body" markdown="1">
 
-
+![Miami University Libraries website screenshot](/assets/img/lib-miamioh.png#featured)
 
 After beta testing in early 2020, our team released our new libraries website in summer 2000. Contributed more than 50,000 lines of code and editing to the project. During spring we conducted usability testing to identify areas needing remediation prior to full release. I co-wrote the IRB-approved testing regime, analyzed results of live and recorded tests, wrote the initial set of recommendations, and collaborated with the team to craft solutions.
 
