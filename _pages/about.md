@@ -26,11 +26,6 @@ social: false  # includes social icons at the bottom of the page
 - **Date of Hire**: 1 January 2018
 - **Intended Area of Very Strong performance**: Service
 
-### Contact information 
-
-- <a href="mailto:jerry.yarnetsky@miamioh.edu">jerry.yarnetsky@miamioh.edu</a> 
-- (513) 529-2129
-
 </div>
 
 
