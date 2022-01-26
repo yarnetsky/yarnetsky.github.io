@@ -23,6 +23,11 @@ importance: 1
 
 ![Miami University Libraries website screenshot](/assets/img/lib-miamioh.png#featured)
 
+### A reflection upon a new libraries website
+
+Upon arrival in 2018, our team found the libraries' online applications had aged poorly and needed significant accessibility remediation. Collaborated with librarian Melissa Cherry to fix critical accessibility issues in multiple library systems. We also dramatically improved our services' performance on mobile devices, simplified the publishing workflow for our strategic communications team, and enhanced site security and patron privacy by encrypting our site traffic.
+
+
 After beta testing in early 2020, our team released our new libraries website in summer 2000. Contributed more than 50,000 lines of code and editing to the project. During spring we conducted usability testing to identify areas needing remediation prior to full release. I co-wrote the IRB-approved testing regime, analyzed results of live and recorded tests, wrote the initial set of recommendations, and collaborated with the team to craft solutions.
 
 Our web services team of Ken Irwin, Meng Qu, and I collaborated to release our beta version in early 2020. From there we spent the spring semester debugging, fixing accessibility issues, and usability testing. We released our new site for primary use in summer 2020. I contributed more than 50,000 lines of code to the project via our Git-based collaboration system.
@@ -37,6 +42,17 @@ Continuous accessibility: Our team worked with Laura Fathauer of AccessMU to ens
 University Libraries website remediation: When the web services team joined the libraries in 2018, we found the website had aged poorly over the last decade. It needed significant accessibility remediation and suffered from extensive code overlaps and lack of a cohesive design. Librarian Melissa Cherry and I fixed critical accessibility issues in multiple library systems. I repaired our primary website while Melissa did extensive work upgrading our room booking system. We also dramatically improved our services' performance on mobile devices, simplified the publishing workflow for our strategic communications team, and enhanced site security and patron privacy by encrypting our site traffic. I also developed a system where guests could access our online catalog and results from our Ebscohost databases.
 
 Publishing tools for strategic communications team: For the first major revision to our new libraries website, I created a set of tools that allow our library strategic communications team to publish directly to our website and have detailed control over news and promotional aspects of the site. New tools also provide an editorial workflow with content review and publication staging. I configured the Netlify content management system and Jekyll static site generator for the project and reprogrammed our website page templates to pull content from this new system. Collaborated with Meng Qu on design and Pat Hawk on server configuration.
+
+New platform for library website chosen: When our content management system, Drupal 7, reached the end of it's development cycle, our web services team explored new platforms that supported collaborative coding at its core. We chose Jekyll, a static-site generator, which builds the entire site up front. These static pages are much faster to serve and eliminate many common security exploits, such as denial of service attacks.
+New site infrastructure created: Meng Qu and I collaborated in crafting our new site, Meng focused our the site’s visual design while I programmed the site infrastructure, such as the page templates. Once the templates were completed, I shifted to organizing site content in collaboration with library staff.
+
+New site accessibility: Throughout the process we repeatedly tested the site to ensure it remained fully accessible even as we added new content and functionality. We did this in collaboration with the university’s AccessMU accessibility center.
+Beta site released: As the year closed, librarian Ken Irwin joined our team, and we released a beta version of our new website to the university community. I constructed a feedback mechanism that elicited more than three dozen responses from all levels of the university community from undergraduates to faculty members.
+Applied to IRB to conduct usability testing: Our team applied to the Institutional Research Board to conduct in-person usability studies. 
+A-Z Database Listing: I moved our database listing from Drupal to LibGuides for its robust interface featuring faceting by academic subject, database type, and searching by title and description. Worked with librarians to customize the interface and apply subject taxonomy to our database listing.
+New digital collections landing page: Developed new landing page leveraging the wonderful images found within our digital collections. The new page not only promotes the collections to students and researchers, but also visually conveys the care we give to our collections to prospective donors.
+New website staff page automation: Created our new libraries staff page which features the ability to filter staff by department, liaison duties, and building. I collaborated with systems staff Mike Bomholt and Pat Hawk to automate maintenance of this page, which starts with a form submitted by the supervisor.
+
 
   </div>
   </div>
