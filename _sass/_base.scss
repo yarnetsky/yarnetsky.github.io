@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .box {
   padding: 30px 50px;
-  border: 1px solid #ddd;
+  border: 1px solid #{$orange-color-dark};
   margin: 35px 0;
   box-shadow: 3px 3px 12px #ddd;
 }
