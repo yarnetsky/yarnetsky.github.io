@@ -32,31 +32,9 @@ That experience was the genesis of our website's three-menu system. Happily, in 
 
 That's my favorite contribution to our libraries website. I love its clarity and that it just works. In my four years here at Miami, I've continued to strive for this level of clarity for our web services. Though it's fair to say clarity is a process — I'm always seeing a dozen places to test to see if further clarity can be attained.
 
-### A-Z Database Listing (pictured)
+### [A-Z Database Listing](https://libguides.lib.miamioh.edu/az.php) (pictured)
 
-For years our 500+ databases were only accessibly by title. I moved our A-Z Database listing its Drupal home to LibGuides which enabled for its robust interface featuring faceting by academic subject, database type, and searching by title and description. Worked with librarians to customize the interface and apply subject taxonomy to our database listing. This data later became the core
-
-### Site accessibility
-
-When the web services team joined the libraries in 2018, we found the website had aged poorly over the last decade. It needed significant accessibility remediation and suffered from extensive code overlaps and lack of a cohesive design. Librarian Melissa Cherry and I fixed critical accessibility issues in multiple library systems. I repaired our primary website while Melissa did extensive work upgrading our room booking system. We also dramatically improved our services' performance on mobile devices, simplified the publishing workflow for our strategic communications team, and enhanced site security and patron privacy by encrypting our site traffic. I also developed a system where guests could access our online catalog and results from our Ebscohost databases.
-
-The university was under a US Department of Justice Consent Decree for accessibility, fix critical accessibility issues in multiple library systems was our first-year priority.
-
-Our team worked with Laura Fathauer of AccessMU to ensure our site remains fully accessible as we designed and developed our site. For example, re-coding our navigation to ensure proper keyboard control and working with third-party vendors to remediate embedded content such as event calendars from Localist.
-
-
-
-
-### Usability testing and remediation
-
-We conducted IRB-approved usability tests with the goal of finding usability and findability issues needing remediation before its general releasing. We also collaborated with Emerging Technology in Design and Business students on eye-track testing of our new site. In addition to in-person usability, we also solicited and received many comments from our website feedback form.
-Challenges: The pandemic forced us to move our testing to tele-conferencing and screen sharing. This switch was actually beneficial as it was difficult to simultaneously run the test and take detailed notes in our live sessions. The recorded sessions allowed us to repeat interactions and pinpoint issues. 
-
-Multiple testers were unable to find the location of our third-floor King Library Makerspace so we redesigned the page (and our other service points pages) to include a highly visible box dedicated to just location and contact information. 
-
-I edited and rewrote portions of our IRB application. Analyzed live and recorded usability tests. From my analysis, I wrote an initial set of recommendations our team collaboratively debated and crafted solutions.
-
-
+For years our 500+ databases were only accessibly by title. I moved our A-Z Database listing its Drupal home to LibGuides which enabled for its robust interface featuring faceting by academic subject, database type, and searching by title and description. Worked with librarians to customize the interface and apply subject taxonomy to our database listing. This later provided core data to the MyGuide project created by web services librarian Ken Irwin.
 
 ### Proactive Chat Service
 
