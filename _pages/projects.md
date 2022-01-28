@@ -8,7 +8,7 @@ nav: true
 horizontal: false
 importance: 1
 ---
-![Miami University Libraries website screenshot](/assets/img/lib-miamioh.png#featured)
+![Miami University Libraries website screenshot](/assets/img/databases-az.png#featured)
 <h2 class="page-header">Annotation on select projects.</h2>
 <div class="accordion" id="projects-accordion">
   <div class="card">
@@ -118,9 +118,9 @@ Like everyone else, when the Miami University Art Museum reopened it was by appo
 
 myMiami will be retiring in 2022. I was trained on this new upcoming system as the project lead for the libraries, which is one of the very first partners on the new system. OneCampus is super simple in that it **only** provides sets of task tiles you can search or browse through to quickly reach your destination. It will be fascinating to see how this new system changes how the libraries acquire university online traffic. 
 
-![Training for Freedom screenshot](/assets/img/train4freedom.png#interior)
-
 ### [Training for Freedom documentary website](https://trainingforfreedom.lib.miamioh.edu)
+
+[![Training for Freedom screenshot](/assets/img/train4freedom.png#interior)](https://trainingforfreedom.lib.miamioh.edu)
 
 In late 2021, we learned this locally-produced documentary will be distributed nationally by PBS. To prepare the supporting website, created by university archivist Jackie Johnson, for greater traffic, I conducted an accessibility remediation and implemented code updates to make the site mobile friendly. I also provided design assistance in the site's creation phase in 2019.
 
