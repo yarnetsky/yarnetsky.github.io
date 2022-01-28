@@ -8,8 +8,10 @@ nav: true
 horizontal: false
 importance: 1
 ---
-![Miami University Libraries website screenshot](/assets/img/databases-az.png#featured)
 <h2 class="page-header">Annotations on select projects.</h2>
+
+![Miami University Libraries website screenshot](/assets/img/databases-az.png#featured)
+
 <div class="accordion" id="projects-accordion">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -21,7 +23,6 @@ importance: 1
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#projects-accordion">
       <div class="card-body" markdown="1">
-
 ### My favorite contribution
 
 My experience designing online library services included seven years at a community college. Frequently working the reference desk, I found our incoming students had little understanding of library terminology or knowledge of what libraries could do to support their education. To bridge that gap, I designed our library online services specifically with simplicity and clarity in mind.

@@ -6,8 +6,10 @@ description:
 nav: true
 importance: 2
 ---
+<h2 class="page-header">Reports and annotations from selected service.</h2>
+
 ![Code 4 Lib national conference website screenshot](/assets/img/code4lib.png#featured)
-<h2 class="page-header">Reports and annotation from selected service.</h2>
+
 <div class="accordion" id="service-accordion">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -92,9 +94,7 @@ importance: 2
                 </div>
                   </div>
                     </div>
-
-                    ---
-
+---
 **Image for illustration**
 
 Screenshot of the [Code4Lib national conference website](https://2022.code4lib.org) for which I designed the photo illustration featuring the lighting bolts and stars from the unique Buffalo NY flag. I'm a core member of the design team of this year's conference website.
