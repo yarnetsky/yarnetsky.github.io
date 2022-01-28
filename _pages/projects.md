@@ -38,13 +38,12 @@ For years our 500+ databases were only accessibly by title. I moved our A-Z Data
 
 ### Site accessibility
 
-When I arrived in January 2018, my colleagues and I found the libraries' online applications had aged poorly over the last decade and seriously needed reinvention.
+When the web services team joined the libraries in 2018, we found the website had aged poorly over the last decade. It needed significant accessibility remediation and suffered from extensive code overlaps and lack of a cohesive design. Librarian Melissa Cherry and I fixed critical accessibility issues in multiple library systems. I repaired our primary website while Melissa did extensive work upgrading our room booking system. We also dramatically improved our services' performance on mobile devices, simplified the publishing workflow for our strategic communications team, and enhanced site security and patron privacy by encrypting our site traffic. I also developed a system where guests could access our online catalog and results from our Ebscohost databases.
 
 The university was under a US Department of Justice Consent Decree for accessibility, fix critical accessibility issues in multiple library systems was our first-year priority.
 
-Continuous accessibility: Our team worked with Laura Fathauer of AccessMU to ensure our site remains fully accessible as we designed and developed our site. For example, re-coding our navigation to ensure proper keyboard control and working with third-party vendors to remediate embedded content such as event calendars from Localist.
+Our team worked with Laura Fathauer of AccessMU to ensure our site remains fully accessible as we designed and developed our site. For example, re-coding our navigation to ensure proper keyboard control and working with third-party vendors to remediate embedded content such as event calendars from Localist.
 
-University Libraries website remediation: When the web services team joined the libraries in 2018, we found the website had aged poorly over the last decade. It needed significant accessibility remediation and suffered from extensive code overlaps and lack of a cohesive design. Librarian Melissa Cherry and I fixed critical accessibility issues in multiple library systems. I repaired our primary website while Melissa did extensive work upgrading our room booking system. We also dramatically improved our services' performance on mobile devices, simplified the publishing workflow for our strategic communications team, and enhanced site security and patron privacy by encrypting our site traffic. I also developed a system where guests could access our online catalog and results from our Ebscohost databases.
 
 
 
