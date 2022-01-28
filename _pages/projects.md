@@ -8,6 +8,7 @@ nav: true
 horizontal: false
 importance: 1
 ---
+![Miami University Libraries website screenshot](/assets/img/lib-miamioh.png#featured)
 <h2 class="page-header">Annotation on select projects.</h2>
 <div class="accordion" id="projects-accordion">
   <div class="card">
@@ -20,8 +21,6 @@ importance: 1
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#projects-accordion">
       <div class="card-body" markdown="1">
-
-![Miami University Libraries website screenshot](/assets/img/lib-miamioh.png#featured)
 
 ### A reflection upon a new libraries website
 
