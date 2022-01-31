@@ -7,7 +7,7 @@ nav: true
 importance: 4
 ---
 <div class="download-link">
-<p><a href="#" download>Download pdf version of my CV</a></p>
+<p><a href="https://github.com/yarnetsky/yarnetsky.github.io/raw/master/assets/pdf/Yarnetsky-CV-Feb22.pdf" download>Download pdf version of my CV</a> (last updated 31 Jan 2022)</p>
 </div>
 
 <div class="accordion" id="cv-accordion">
