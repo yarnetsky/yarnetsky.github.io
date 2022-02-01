@@ -11,34 +11,36 @@ importance: 2
 ![Code 4 Lib national conference website screenshot](/assets/img/code4lib.png#featured)
 
 <div class="accordion" id="service-accordion">
-  <div class="card">
-    <div class="card-header" id="headingOne">
+
+<div class="card">
+    <div class="card-header" id="headingThree">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-         Service to our Libraries
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+          data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+          Service to our Profession
         </button>
       </h2>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#service-accordion">
+    <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#service-accordion">
       <div class="card-body">
-        <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY 2020-21)</h3>
-        <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.</p>
-        <p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional Development Workgroup Findings and Recommendations</a></p>
-        <hr />
-        <h3 id="library-games-night-committee">Library Games Night Committee (summer 2018 to present)</h3>
-        <ul>
-          <li>Member of this outreach committee which sponsors tabletop gaming evenings for the university community held in each of our libraries.</li>
-          <li><strong>2021 contributions</strong> included creating eye-catching graphics for print and online promotional materials, co-maintaining Games Night guide, analyzing results of attendee surveys, and volunteering during each games night to welcome gamers, train on game play, and aid with event setup and cleanup.</li>
-          <li>Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021.</li> 
-          <li><a href="https://libguides.lib.miamioh.edu/board-games">Games Night website with guide to online gaming</a></li>
-          <li><a href="https://muohio.libinsight.com/games-night">Games Night Survey results dashboard</a></li>
-          <li>Committee Annual Reports: <a href="https://docs.google.com/document/d/1gl5JCfI4uzBEz51-e06vMFo4PpHyjE9dG3Erzhzun3E/edit#">2021 Summary</a>, <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>, <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, and <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a>.
-          </li>
-        </ul>
-        </div>
-        </div>
-        </div>
-  <div class="card">
+        <p>Links to national and State professional organizational and community web projects I’ve contributed to.</p>  
+            <div class="box">
+                <h3><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a></h3>
+                <p>Design and content contributor including front page design. Accessibility testing. </p>
+            </div>
+            <div class="box">
+                <h3><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a></h3>
+                <p>Accessibility testing</p>
+            </div>
+            <div class="box">
+                <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a></h3>
+                <p>Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
+            </div>
+              </div>
+                </div>
+                  </div>
+
+ <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
@@ -66,33 +68,37 @@ importance: 2
       </div>
     </div>
   </div>
+
   <div class="card">
-    <div class="card-header" id="headingThree">
+    <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
-          data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Service Projects
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+         Service to our Libraries
         </button>
       </h2>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#service-accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#service-accordion">
       <div class="card-body">
-        <p>National and State professional organizational and community web projects I’ve contributed to.</p>  
-            <div class="box">
-                <h3><a href="https://2022.code4lib.org/">Code4Lib 2022 National Conference</a></h3>
-                <p>Design and content contributor including front page design. Accessibility testing. </p>
-            </div>
-            <div class="box">
-                <h3><a href="https://2021.code4lib.org/">Code4Lib 2021 National Conference</a></h3>
-                <p>Accessibility testing</p>
-            </div>
-            <div class="box">
-                <h3><a href="https://futures.alaoweb.org/">Speculative Futures on Post-Pandemic Libraries</a></h3>
-                <p>Editorial assistant and accessibility testing for this digital project from the TEDSIG (Technical, Electronic, and Digital Services Interest Group) of the Academic Library Association of Ohio.</p>
-            </div>
-              </div>
-                </div>
-                  </div>
+        <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY 2020-21)</h3>
+        <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.</p>
+        <p><a href="https://drive.google.com/file/d/1Ptw1w1uspJTyH6wZ9mS1p1HWflu2XqVs/view?usp=sharing">Professional Development Workgroup Findings and Recommendations</a></p>
+        <hr />
+        <h3 id="library-games-night-committee">Library Games Night Committee (summer 2018 to present)</h3>
+        <ul>
+          <li>Member of this outreach committee which sponsors tabletop gaming evenings for the university community held in each of our libraries.</li>
+          <li><strong>2021 contributions</strong> included creating eye-catching graphics for print and online promotional materials, co-maintaining Games Night guide, analyzing results of attendee surveys, and volunteering during each games night to welcome gamers, train on game play, and aid with event setup and cleanup.</li>
+          <li>Previous contributions have included working with Assistant Professor of Applied Game Design Bob De Schutter on opportunities for game design students to play test their work with our event participants. Tested virtual tabletop gaming environments in preparation for our virtual games night held in spring 2021.</li> 
+          <li><a href="https://libguides.lib.miamioh.edu/board-games">Games Night website with guide to online gaming</a></li>
+          <li><a href="https://muohio.libinsight.com/games-night">Games Night Survey results dashboard</a></li>
+          <li>Committee Annual Reports: <a href="https://docs.google.com/document/d/1gl5JCfI4uzBEz51-e06vMFo4PpHyjE9dG3Erzhzun3E/edit#">2021 Summary</a>, <a href="https://drive.google.com/file/d/1I0G0UQup3xqG2Jbt6mxq2gKnCr1FZegu/view?usp=sharing">2020 Summary</a>, <a href="https://drive.google.com/file/d/19G0hzjyJe5Ym1Xq_GLdsd85GBHfXBdXS/view?usp=sharing">Fall 2019</a>, <a href="https://drive.google.com/file/d/1P0VJe74XjairJqzyKVuRQWipKO1Ek1YH/view?usp=sharing">Spring 2019</a>, and <a href="https://drive.google.com/file/d/1khlma_KuCudmOBDFKRhKStqgPk7FGNM-/view?usp=sharing">Fall 2018</a>.
+          </li>
+        </ul>
+        </div>
+        </div>
+        </div>
+ 
+  
+  
                     </div>
 ---
 **Image for illustration**

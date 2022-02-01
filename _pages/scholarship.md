@@ -10,11 +10,44 @@ importance: 3
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTG2G3fwmcnddCc9R8lYzd93YDN34HQGS_DrWdYgmPdog4ewI03z7oc-2Advf2WQLgH4DIE6-LC3Gmg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="773" height="475" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="margin-bottom:2em;"></iframe>
 
-<div class="accordion" id="scholarship-accordion" markdown="1">
+<div class="accordion" id="scholarship-accordion">
+
+<div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link  btn-block text-left collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Research Study: Effects of regional poverty on incoming student preparedness</button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#scholarship-accordion">
+      <div class="card-body" markdown="1">
+
+In Ohio, public school funding models have been ruled unconstitutional four times due to the great discrepancies among districts from different economic and geographic areas. One of these discrepancies is often the availability of librarians and library services. When I heard librarian Abi Morgan was doing research that delved into this topic I jumped to join in because Pennsylvania, where I had worked as a community college librarian, also had one of the worst school funding models in the nation. Having personally worked with students coming from the richest and poorest school districts in the state, I saw this diachotomy first hand. In our research, we aimed to examine how these discrepancies may alter preparedness for college-level research for incoming first-year students from various backgrounds.
+
+**Methodology**: On our first round of research, we worked with the Office of Institutional Research to compile a list of students from Appalachian-designated counties. We narrowed this list to Ohio counties that were considered at risk economically. We then sent a survey to these students and to a control group of students from other Ohio counties from our incoming first-year class. We received 117 responses in total.
+
+**Findings**: We asked students about their high school library experiences and their confidence to do universitylibrary research. We found that students from poorer Appalachian counties were more likely to receiveinformation literacy and research skills in high school from someone other than a librarian. These samestudents also reported being less confident in their ability to do university-level library research.
+
+I co-authoring the survey. After the survey's completion I took the lead in analyzing theresults. I co-authored our presentations.
+
+Results Sharing: Abi and I presented our team's findings as a virtual poster session at the AcademicLibraries Association of Ohio 2020 Conference. We have also submitted a poster for the Association of College& Research Libraries' 2021 Conference.
+
+### 2021 Update
+
+In October 2021, social sciences librarian Abi Morgan and I conducted an updated version of this research with this year's incoming class. This time, we based our evaluation of poverty on the Ohio Department of Education's [Typology of Ohio School Districts](https://education.ohio.gov/Topics/Data/Frequently-Requested-Data/Typology-of-Ohio-School-Districts), which divides Ohio's 650+ public school districts by their rural-urban-suburban and poverty characteristics. We also asked questions about remote learning in this survey. Librarians from Ohio State University-Newark also participated between our surveys we have more than 200 respondants. In spring 2022, we will be analyzing our results and endeavor to publish and present on our findings.
+
+### Output
+
+Morgan, A. & Yarnetsky, J (2020, October) *[Poster: Effects of high school location on first-year students’ research confidence and college readiness](https://2020.alaoweb.org/posters/hs-location)*. ALAO 2020 Conference. Online:  Academic Library Association of Ohio.
+
+  </div>
+</div>
+  </div>
+
+
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Web Services Best Practices</button>
+        <button class="btn btn-link btn-block text-left collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Web Services Best Practices</button>
       </h2>
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#scholarship-accordion">
@@ -74,34 +107,7 @@ Yarnetsky, J. (2019). [LibA11y: A guide for making our library content accessibl
 </div>
     </div>
   </div>
-  <div class="card">
-    <div class="card-header" id="headingThree">
-      <h2 class="mb-0">
-        <button class="btn btn-link  btn-block text-left collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Research Study: Effects of regional poverty on incoming student preparedness</button>
-      </h2>
-    </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#scholarship-accordion">
-      <div class="card-body" markdown="1">
 
-In Ohio, public school funding models have been ruled unconstitutional four times due to the great discrepancies among districts from different economic and geographic areas. One of these discrepancies is often the availability of librarians and library services. When I heard librarian Abi Morgan was doing research that delved into this topic I jumped to join in because Pennsylvania, where I had worked as a community college librarian, also had one of the worst school funding models in the nation. Having personally worked with students coming from the richest and poorest school districts in the state, I saw this diachotomy first hand. In our research, we aimed to examine how these discrepancies may alter preparedness for college-level research for incoming first-year students from various backgrounds.
 
-**Methodology**: On our first round of research, we worked with the Office of Institutional Research to compile a list of students from Appalachian-designated counties. We narrowed this list to Ohio counties that were considered at risk economically. We then sent a survey to these students and to a control group of students from other Ohio counties from our incoming first-year class. We received 117 responses in total.
-
-**Findings**: We asked students about their high school library experiences and their confidence to do universitylibrary research. We found that students from poorer Appalachian counties were more likely to receiveinformation literacy and research skills in high school from someone other than a librarian. These samestudents also reported being less confident in their ability to do university-level library research.
-
-I co-authoring the survey. After the survey's completion I took the lead in analyzing theresults. I co-authored our presentations.
-
-Results Sharing: Abi and I presented our team's findings as a virtual poster session at the AcademicLibraries Association of Ohio 2020 Conference. We have also submitted a poster for the Association of College& Research Libraries' 2021 Conference.
-
-### 2021 Update
-
-In October 2021, social sciences librarian Abi Morgan and I conducted an updated version of this research with this year's incoming class. This time, we based our evaluation of poverty on the Ohio Department of Education's [Typology of Ohio School Districts](https://education.ohio.gov/Topics/Data/Frequently-Requested-Data/Typology-of-Ohio-School-Districts), which divides Ohio's 650+ public school districts by their rural-urban-suburban and poverty characteristics. We also asked questions about remote learning in this survey. Librarians from Ohio State University-Newark also participated between our surveys we have more than 200 respondants. In spring 2022, we will be analyzing our results and endeavor to publish and present on our findings.
-
-### Output
-
-Morgan, A. & Yarnetsky, J (2020, October) *[Poster: Effects of high school location on first-year students’ research confidence and college readiness](https://2020.alaoweb.org/posters/hs-location)*. ALAO 2020 Conference. Online:  Academic Library Association of Ohio.
-
-  </div>
-</div>
-  </div>
+  
 </div>
