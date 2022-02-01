@@ -50,7 +50,7 @@ Morgan, A. & Yarnetsky, J (2020, October) *[Poster: Effects of high school locat
         <button class="btn btn-link btn-block text-left collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Web Services Best Practices</button>
       </h2>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#scholarship-accordion">
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#scholarship-accordion">
       <div class="card-body" markdown="1">
 
 Sharing best practices is at the core of our profession's work and a number of specialized technology inlibraries/higher education conferences exist for this very purpose — including Computers in Libraries,Code4Lib, and WebCon. I present and volunteer at these conference when at all possible to learn the latestbest practices. Here are two topics I've recently presented on...
