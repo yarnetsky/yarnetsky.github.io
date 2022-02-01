@@ -26,6 +26,8 @@ social: false  # includes social icons at the bottom of the page
 - **Date of Hire**: 1 January 2018
 - **Intended Area of Very Strong performance**: Service
 
+[Download pdf version of my CV](https://github.com/yarnetsky/yarnetsky.github.io/raw/master/assets/pdf/Yarnetsky-CV-Feb22.pdf)
+
 </div>
 
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: CV
 description: Curriculum Vitae
-nav: true
+nav: false
 importance: 4
 ---
 <div class="download-link">
