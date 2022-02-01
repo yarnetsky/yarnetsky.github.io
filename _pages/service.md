@@ -19,7 +19,7 @@ importance: 2
         </button>
       </h2>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#service-accordion">
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#service-accordion">
       <div class="card-body">
         <h3 id="professional-development-working-group">Strategic Initiatives Professional Development working group (AY 2020-21)</h3>
         <p>Our working group collaboratively created and analyzed results from a survey that explored staff needs for professional development documentation. We made a series of recommendations for this guide that emphasized editorial representation from all parts of the library to help keep the guide current and sustainable.</p>

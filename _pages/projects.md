@@ -21,9 +21,9 @@ importance: 1
         </button>
       </h2>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#projects-accordion">
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#projects-accordion">
       <div class="card-body" markdown="1">
-### My favorite contribution
+### My favorite contributions
 
 My experience designing online library services included seven years at a community college. Frequently working the reference desk, I found our incoming students had little understanding of library terminology or knowledge of what libraries could do to support their education. To bridge that gap, I designed our library online services specifically with simplicity and clarity in mind.
 
