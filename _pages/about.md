@@ -24,9 +24,8 @@ social: false  # includes social icons at the bottom of the page
 - **Rank**: Assistant Librarian
 - **Review Year**: 4th
 - **Date of Hire**: 1 January 2018
+- **CV**: [View CV](https://github.com/yarnetsky/yarnetsky.github.io/blob/master/assets/pdf/Yarnetsky-CV-Feb22.pdf) or [download pdf version](https://github.com/yarnetsky/yarnetsky.github.io/raw/master/assets/pdf/Yarnetsky-CV-Feb22.pdf)
 - **Intended Area of Very Strong performance**: Service
-
-[Download pdf version of my CV](https://github.com/yarnetsky/yarnetsky.github.io/raw/master/assets/pdf/Yarnetsky-CV-Feb22.pdf)
 
 </div>
 
