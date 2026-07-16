@@ -1,0 +1,85 @@
+content:
+  - name: blog
+    label: Blog
+    type: collection
+    path: src/content/blog
+    format: yaml-frontmatter
+    view:
+      fields: [title, publishDate, tags, draft]
+      primary: title
+      sort: [publishDate, title]
+      default:
+        sort: publishDate
+        order: desc
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: publishDate
+        label: Publish Date
+        type: date
+        required: true
+      - name: tags
+        type: string
+        list: true
+        default: []
+      - name: description
+        type: text
+        required: true
+      - name: draft
+        type: boolean
+        default: false
+      - name: heroImage
+        label: Hero Image
+        type: image
+        # Images live next to the entry (Astro's `image()` helper resolves
+        # a relative path), so skip Pages CMS's media-library rewriting.
+        options:
+          media: false
+      - name: body
+        label: Body
+        type: rich-text
+
+  - name: works
+    label: Works
+    type: collection
+    path: src/content/works
+    format: yaml-frontmatter
+    view:
+      fields: [title, order, publishDate]
+      primary: title
+      sort: [order, publishDate]
+      default:
+        sort: order
+        order: asc
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: description
+        type: text
+        required: true
+      - name: tech
+        type: string
+        list: true
+        required: true
+      - name: link
+        type: string
+        pattern: ^https?:\/\/\S+$
+      - name: repo
+        label: Repository
+        type: string
+        pattern: ^https?:\/\/\S+$
+      - name: thumbnail
+        type: image
+        options:
+          media: false
+      - name: order
+        type: number
+      - name: publishDate
+        label: Publish Date
+        type: date
+        required: true
+      - name: body
+        label: Body
+        type: rich-text
