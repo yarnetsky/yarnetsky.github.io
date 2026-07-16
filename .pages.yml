@@ -39,7 +39,6 @@ content:
       - name: body
         label: Body
         type: rich-text
-
   - name: works
     label: Works
     type: collection
