@@ -4,7 +4,7 @@ description: Services implemented for the pandemic have now become expected
   tools for our students
 tech:
   - LibApps
-thumbnail: /assets/code-reading-kit.jpg
+thumbnail: /assets/makerspace.png
 order: 3
 publishDate: 2026-03-09
 ---
