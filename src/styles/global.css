@@ -1,7 +1,7 @@
 :root {
   color-scheme: light;
   /* Change this one line to retune the theme accent. */
-  --color-accent: oklch(0.54 0.14 35);
+  --color-accent: oklch(0.69 0.15 42);
   --color-accent-hover: color-mix(in oklch, var(--color-accent), black 12%);
   --color-accent-soft: color-mix(in oklch, var(--color-accent), transparent 84%);
   --color-bg: oklch(0.99 0.003 100);
@@ -25,7 +25,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    --color-accent: oklch(0.72 0.13 42);
+    --color-accent: oklch(0.69 0.15 42);
     --color-accent-hover: color-mix(in oklch, var(--color-accent), white 10%);
     --color-accent-soft: color-mix(in oklch, var(--color-accent), transparent 78%);
     --color-bg: oklch(0.18 0.009 250);
@@ -40,7 +40,7 @@
 
 :root[data-theme='light'] {
   color-scheme: light;
-  --color-accent: oklch(0.54 0.14 35);
+  --color-accent: oklch(0.69 0.15 42);
   --color-accent-hover: color-mix(in oklch, var(--color-accent), black 12%);
   --color-accent-soft: color-mix(in oklch, var(--color-accent), transparent 84%);
   --color-bg: oklch(0.99 0.003 100);
@@ -54,7 +54,7 @@
 
 :root[data-theme='dark'] {
   color-scheme: dark;
-  --color-accent: oklch(0.72 0.13 42);
+  --color-accent: oklch(0.69 0.15 42);
   --color-accent-hover: color-mix(in oklch, var(--color-accent), white 10%);
   --color-accent-soft: color-mix(in oklch, var(--color-accent), transparent 78%);
   --color-bg: oklch(0.18 0.009 250);
