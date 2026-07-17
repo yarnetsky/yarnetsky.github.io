@@ -11,10 +11,7 @@ thumbnail: /assets/lived-experiences.webp
 order: 1
 publishDate: 2026-01-22
 ---
-# **Lived Experiences — Race at Miami University**
-
-**[Lived Experiences: Race at Miami**](https://web.archive.org/web/20240523113710/https://livedmu.lib.miamioh.edu/)  
-November 2022-present
+**November 2022-present**
 
 The Lived Experiences project strives to bring the experiences of minority students, staff and faculty here at Miami University to life in a website. It does this by elevating their stories through more than 75 documentaries, oral histories, and biographies and 10,000 pages of digitized primary source documents. This university-grant funded website was constructed on an extremely tight deadline by our web services team — Meng Qu, Ken Irwin, and myself— for the Havighurst Special Collections and Archives led on this project by Digital Collections Librarian Alia Levar Wegner and University Archivist Jacqueline Johnson.
 
