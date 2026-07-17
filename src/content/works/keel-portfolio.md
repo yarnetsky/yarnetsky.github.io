@@ -1,7 +1,7 @@
 ---
-title: Lived Experiences— Race at Miami University
-description: Bringing the experiences of minority students, staff and faculty at
-  Miami University to life
+title: Lived Experiences Through Storytelling
+description: Digital heritage project bringing the experiences of minority
+  students, staff and faculty at Miami University to life
 tech:
   - Web Development
   - Static Site
