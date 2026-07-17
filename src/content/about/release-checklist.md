@@ -4,8 +4,7 @@ publishDate: 2026-03-18
 description: A compact checklist for shipping a portfolio update without drama.
 draft: false
 ---
-## **Earl G. “Jerry” Yarnetsky**
-
+**Earl G. “Jerry” Yarnetsky**
 Web Services Librarian  
 Associate librarian rank  
 Miami University Libraries
@@ -15,8 +14,9 @@ Oxford Ohio 45056
 (513) 529-2129  
 [jerry.yarnetsky@miamioh.edu](mailto:jerry.yarnetsky@miamioh.edu)
 
-### **Education**  
-**Master of Library Science, 2006.**
+## **Education**  
+
+### **Master of Library Science, 2006.**
 
 Indiana University, Indianapolis, Indiana.
 
