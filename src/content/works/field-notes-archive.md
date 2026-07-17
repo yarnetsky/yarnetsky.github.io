@@ -1,15 +1,15 @@
 ---
-title: "Field Notes Archive"
-description: "A searchable writing archive organized around tags, dates, and compact editorial summaries."
-thumbnail:
+title: Field Notes Archive
+description: A searchable writing archive organized around tags, dates, and
+  compact editorial summaries.
 tech:
   - Astro
   - Markdown
   - RSS
+thumbnail: /assets/field-notes-archive.jpg
 order: 2
 publishDate: 2026-02-16
 ---
-
 ## Brief
 
 The archive needed to make frequent, small updates feel intentional while still giving older notes a clear route back into the site.
