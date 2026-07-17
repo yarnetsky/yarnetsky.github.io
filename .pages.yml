@@ -2,7 +2,7 @@ media:
   - name: image
     label: Images
     input: src/assets
-    output: /media
+    output: /assets
 content:
   - name: blog
     label: Blog

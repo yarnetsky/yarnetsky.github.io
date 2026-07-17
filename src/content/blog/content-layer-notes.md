@@ -6,7 +6,7 @@ tags:
   - content
 description: Practical notes for keeping Astro content collections predictable.
 draft: false
-heroImage: ./src/assets/blog-hero.jpg
+heroImage: ../../assets/blog-hero.jpg
 ---
 ## Treat content as data
 
