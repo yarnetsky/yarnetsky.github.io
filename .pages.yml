@@ -1,4 +1,8 @@
-media: media
+media:
+  - name: image
+    label: Images
+    input: src/assets
+    output: /media
 content:
   - name: blog
     label: Blog
