@@ -6,6 +6,8 @@ tech:
   - Astro
   - Markdown
   - RSS
+link: https://www.yarnetsky.net
+repo: https://github.com/yarnetsky/yarnetsky-net
 thumbnail: /assets/field-notes-archive.jpg
 order: 2
 publishDate: 2026-02-16
