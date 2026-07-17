@@ -4,7 +4,6 @@ description: Academic libraries website utilizing static site generator
 tech:
   - Jekyll
   - Markdown
-  - RSS
 link: https://www.lib.miamioh.edu
 thumbnail: /assets/lib-miamioh.png
 order: 2
