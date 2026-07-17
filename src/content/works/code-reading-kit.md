@@ -1,14 +1,15 @@
 ---
-title: "Code Reading Kit"
-description: "A documentation pattern for explaining implementation decisions through concise examples and annotated prose."
+title: Code Reading Kit
+description: A documentation pattern for explaining implementation decisions
+  through concise examples and annotated prose.
 tech:
   - MDX
   - Shiki
   - Design Systems
+thumbnail: src/assets/code-reading-kit.jpg
 order: 3
 publishDate: 2026-03-09
 ---
-
 ## Brief
 
 Technical readers need code that scans cleanly in both light and dark modes, with surrounding prose that explains why the snippet exists.
@@ -23,3 +24,4 @@ export const describeDecision = (constraint: string) => ({
   outcome: 'Keep the public API small.',
 });
 ```
+
