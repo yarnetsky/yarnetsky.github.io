@@ -65,12 +65,12 @@ content:
         required: true
       - name: link
         type: string
-        pattern: ^https?:\/\/\S+$
+        # pattern: ^https?:\/\/\S+$
         required: false
       - name: repo
         label: Repository
         type: string
-        pattern: ^https?:\/\/\S+$
+        # pattern: ^https?:\/\/\S+$
         required: false
       - name: thumbnail
         type: image
