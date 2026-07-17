@@ -41,8 +41,8 @@ const pageTitle = page.currentPage === 1 ? 'About' : `About · Page ${page.curre
 
 <BaseLayout title={pageTitle} description="Notes and writing — Astro Keel, a minimal portfolio and blog theme for Astro.">
   <section class="page-head section">
-    <p class="eyebrow">About Me</p>
-    <h1>CV and Philosophy of Librarianship</h1>
+    <!-- <p class="eyebrow">About Me</p> -->
+    <h1>About me</h1>
     <!--<p class="lead">
       The blog collection supports tags, descriptions, draft filtering, publish dates,
       and optional hero images.
@@ -50,12 +50,12 @@ const pageTitle = page.currentPage === 1 ? 'About' : `About · Page ${page.curre
   </section>
 
   <section class="section content-index" aria-label="About articles">
-    <div class="index-sidebar">
+    <!--<div class="index-sidebar">
       <p class="eyebrow">Tags</p>
       <nav class="tag-cloud" aria-label="About tags">
         {allTags.map((tag) => <a href={withBase(`/about/tags/${tag}/`)}>{tag}</a>)}
       </nav>
-    </div>
+    </div>-->
 
     <div>
       <div class="entry-list">
