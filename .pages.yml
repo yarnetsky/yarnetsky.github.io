@@ -1,5 +1,5 @@
 media:
-  - name: images
+  - name: image
     label: Images
     input: src/assets
     output: /src/assets
