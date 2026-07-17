@@ -6,7 +6,7 @@ tech:
   - MDX
   - Shiki
   - Design Systems
-thumbnail: ../../assets/code-reading-kit.jpg
+thumbnail: /assets/code-reading-kit.jpg
 order: 3
 publishDate: 2026-03-09
 ---
