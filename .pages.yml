@@ -39,6 +39,8 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          editor: markdown
   - name: works
     label: Works
     type: collection
@@ -82,3 +84,5 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          editor: markdown
