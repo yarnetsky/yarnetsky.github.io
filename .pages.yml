@@ -87,3 +87,41 @@ content:
         type: rich-text
         options:
           editor: markdown
+  - name: about
+    label: About
+    type: collection
+    path: src/content/about
+    format: yaml-frontmatter
+    view:
+      fields: [title, publishDate, tags, draft]
+      primary: title
+      sort: [publishDate, title]
+      default:
+        sort: publishDate
+        order: desc
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: publishDate
+        label: Publish Date
+        type: date
+        required: true
+      - name: tags
+        type: string
+        list: true
+        default: []
+      - name: description
+        type: text
+        required: true
+      - name: draft
+        type: boolean
+        default: false
+      - name: heroImage
+        label: Hero Image
+        type: image
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          editor: markdown
