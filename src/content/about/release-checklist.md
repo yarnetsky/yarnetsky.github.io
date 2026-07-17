@@ -67,6 +67,7 @@ Cohorts alternates between first-year students starting their ETBD program and u
 
 ### **Awards and Recognitions**
 
+- Awarded Distinguished Service Award for the Miami University Libraries (2026, June).
 - Promoted to Associate Librarian (2024, July).
 - Awarded Continuing Contract (2024, July).
 - Nominated for the Miami University Libraries Distinguished Service Award (2023, April).
