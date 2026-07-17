@@ -37,10 +37,6 @@ content:
       - name: heroImage
         label: Hero Image
         type: image
-        # Images live next to the entry (Astro's `image()` helper resolves
-        # a relative path), so skip Pages CMS's media-library rewriting.
-        options:
-          media: false
       - name: body
         label: Body
         type: rich-text
@@ -76,8 +72,6 @@ content:
         pattern: ^https?:\/\/\S+$
       - name: thumbnail
         type: image
-        options:
-          media: false
       - name: order
         type: number
       - name: publishDate
