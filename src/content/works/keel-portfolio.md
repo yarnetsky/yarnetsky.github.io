@@ -8,7 +8,7 @@ tech:
   - CSS Variables
 link: https://example.com
 repo: https://github.com/example/keel-portfolio
-thumbnail: ../../assets/keel-portfolio.jpg
+thumbnail: /assets/keel-portfolio.jpg
 order: 1
 publishDate: 2026-01-22
 ---
