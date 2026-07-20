@@ -2,6 +2,7 @@
 title: Additional Service Projects
 description: Web projects for Code4Lib and ALAO
 tech:
+  - Service
   - Jekyll
 publishDate: 2026-07-20
 ---
