@@ -1,5 +1,5 @@
 ---
-title: Scholarshiip
+title: Scholarship
 publishDate: 2026-07-20
 description: A holistic career overview of my scholarship
 draft: false
