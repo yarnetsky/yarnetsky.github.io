@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-publishDate: 2026-03-18
+publishDate: 2026-07-20
 description: A compact checklist for shipping a portfolio update without drama.
 draft: false
 ---
@@ -14,7 +14,7 @@ Oxford Ohio 45056
 (513) 529-2129  
 [jerry.yarnetsky@miamioh.edu](mailto:jerry.yarnetsky@miamioh.edu)
 
-## **Education**  
+## **Education**
 
 ### **Master of Library Science, 2006.**
 
