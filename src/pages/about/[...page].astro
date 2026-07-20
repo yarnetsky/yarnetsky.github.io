@@ -62,11 +62,11 @@ const pageTitle = page.currentPage === 1 ? 'About' : `About · Page ${page.curre
         {
           posts.map((post) => (
             <article class="entry-card">
-           <!--   <div class="entry-meta">
+            {/* <div class="entry-meta">
             <time datetime={post.data.publishDate.toISOString()}>{formatDate(post.data.publishDate)}</time> 
                 <span>{readingTimes.get(post.id)}</span> 
                 <span>{post.data.tags.join(' / ')}</span>
-              </div> -->
+              </div>  */}
               <h2><a href={withBase(`/about/${post.id}/`)}>{post.data.title}</a></h2>
               <p>{post.data.description}</p>
             </article>
