@@ -42,10 +42,10 @@ content:
         type: rich-text
         options:
           editor: markdown
-  - name: works
-    label: Works
+  - name: projects
+    label: Projects
     type: collection
-    path: src/content/works
+    path: src/content/projects
     format: yaml-frontmatter
     view:
       fields: [title, order, publishDate]
