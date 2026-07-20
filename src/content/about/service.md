@@ -1,6 +1,6 @@
 ---
 title: Service
-publishDate: 2026-07-20
+publishDate: 2026-07-19
 description: A holistic overview of a career of service
 draft: false
 ---
