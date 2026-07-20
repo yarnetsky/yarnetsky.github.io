@@ -3,6 +3,8 @@ title: Web Accessibility Research and Guides
 description: Testing Big 10 LibGuides to see where common accessibility errors exist
 tech:
   - LibGuides
+  - Accessibility
+  - Research
 publishDate: 2026-07-20
 ---
 Web accessibility is technically challenging, but very satisfying because making our online content universally accessible to our entire academic community is integral to our professional ethics.
