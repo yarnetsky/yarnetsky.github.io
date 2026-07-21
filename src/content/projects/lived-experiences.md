@@ -3,10 +3,12 @@ title: Lived Experiences Through Storytelling
 description: Digital heritage project bringing the experiences of minority
   students, staff and faculty at Miami University to life
 tags:
+  - Service
   - Web Development
   - Static Site
+  - Jekyll
   - Sanity CMS
-  - Service
+  - accessibility
 link: https://livedmu.lib.miamioh.edu/
 thumbnail: /assets/lived-experiences.webp
 order: 1
