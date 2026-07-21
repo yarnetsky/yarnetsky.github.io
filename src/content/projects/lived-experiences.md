@@ -5,10 +5,10 @@ description: Digital heritage project bringing the experiences of minority
 tags:
   - Service
   - Web Development
+  - accessibility
   - Static Site
   - Jekyll
   - Sanity CMS
-  - accessibility
 link: https://livedmu.lib.miamioh.edu/
 thumbnail: /assets/lived-experiences.webp
 order: 1
