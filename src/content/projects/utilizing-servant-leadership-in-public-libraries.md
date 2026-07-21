@@ -3,6 +3,7 @@ title: Utilizing Servant-Leadership in Public Libraries
 description: Libraries are designed to serve their communities.
 tags:
   - Scholarship
+  - Leadership
 publishDate: 2026-07-21
 ---
 Libraries are designed to serve their communities. If the library, its services and its collections do not serve its patrons, then there is no reason for the library to exist in the first place. For this reason discussions about patron services framed in terms of retail customer service have always frustrated me. While we can certainly learn much from bookstores, their intent is to move merchandise, not necessarily to serve their communities. This caused me to research what I felt was missing from the conversation and explore Servant-Leadership.
