@@ -26,7 +26,13 @@ const projects = (await getCollection('projects')).sort((a, b) => {
       {
         projects.map((project) => (
           <article class="work-card">
-            <p class="entry-meta">{project.data.tags.join(' / ')}</p>
+            {project.data.tags.length > 0 && (
+              <ul class="tag-list" aria-label={`${project.data.title} tags`}>
+                {project.data.tags.map((tag) => (
+                  <li><a href={withBase(`/projects/${tag}/`)}>{tag}</a></li>
+                ))}
+              </ul>
+            )}
             <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
             <p>{project.data.description}</p>
           </article>
