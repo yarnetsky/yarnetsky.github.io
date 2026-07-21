@@ -29,7 +29,6 @@ draft: false
 - Yarnetsky, J., Irwin, K., & Qu, M. (April 2021). *Free Yourself From the Database: Developing With a Static Site Generator.* [Presentation] WebCon 2021: An online conference for web professionals within higher education and beyond. University of Illinois Webmasters.
 - Yarnetsky, J. (2019, October). *The Last Mile for Web Accessibility: Help Making Our Content Universally Accessible*. [Presentation] ALAO 2019 Conference. Nationwide Hotel and Conference Center, Columbus, Ohio: Academic Library Association of Ohio.
 - Revelle, A. A., & Yarnetsky, J. (2019, October). *[Do You Need Help? The Implementation of Proactive Chat and its Effect on the Quantity and Quality of Reference Interactions](https://web.archive.org/web/20240523123933/https://www.yarnetsky.net/proactive-chat/)*. [Presentation] ALAO 2019 Conference. Nationwide Hotel and Conference Center, Columbus, Ohio: Academic Libraries Association of Ohio.
-- Yarnetsky, J. (2019, April). *Make your online content accessible to all (not just those who can see your library website)*. [Presentation] ACRL 2019 Conference. Cleveland, Ohio: Association of College and Research Libraries.
 - Yarnetsky, J. & Greene, L. (2012, October) *Digital history best practices*. [Presentation] MC3 Tech Conference. Montgomery County Community College, Blue Bell PA.
 - Yarnetsky, J. & Barnes, J. (2009, April) *Digital history: Lessons learned* [invited presentation]. 2009 ILF District Conference. Indiana Library Federation, Columbus IN.
 - Yarnetsky, J. (2008, October) *Digital Projects using Omeka* [invited presentation]. Open Source Repositories and Digital Libraries Conference. Indiana Online Users Group, Indianapolis IN.
@@ -69,5 +68,7 @@ draft: false
 
 ## **Lightning Talks**
 
+- Yarnetsky, J. (2025, January). UX Testing Protocol of Discovery Services. [Lightning Talk] OhioLink UX Forum, Online.
+- Yarnetsky, J. (2019, April). Make your online content accessible to all (not just those who can see your library website). [Tech Talk] ACRL 2019 Conference. Cleveland, Ohio: Association of College and Research Libraries.
 - Yarnetsky J. (2013, October) *Betzwood Film Archives Project*. VUStuff digital humanities conference. Villanova University, Villanova PA.
 
