@@ -9,6 +9,7 @@ tags:
   - Static Site
   - Jekyll
   - Sanity CMS
+  - Digital History
 link: https://livedmu.lib.miamioh.edu/
 thumbnail: /assets/lived-experiences.webp
 order: 1
