@@ -7,8 +7,8 @@ import { withBase } from '../lib/url';
 const allProjects = await getCollection('projects');
 const projects = allProjects
   .sort((a, b) => {
-    const byDate = b.data.publishDate.getTime() - a.data.publishDate.getTime();
-    return byDate || (a.data.order ?? 999) - (b.data.order ?? 999);
+    const byOrder = (a.data.order ?? 999) - (b.data.order ?? 999);
+    return byOrder || b.data.publishDate.getTime() - a.data.publishDate.getTime();
   })
   .slice(0, 6);
 const projectTags = [...new Set(allProjects.flatMap((project) => project.data.tags ?? []))].sort();
