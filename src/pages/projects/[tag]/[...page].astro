@@ -57,7 +57,7 @@ const pageTitle =
       <p class="eyebrow">More tags</p>
       <nav class="tag-cloud" aria-label="Other project tags">
         <a href={withBase('/projects/')}>All posts</a>
-        {otherTags.map((item) => <a href={withBase(`/projects/tags/${item}/`)}>{item}</a>)}
+        {otherTags.map((item) => <a href={withBase(`/projects/${item}/`)}>{item}</a>)}
       </nav>
     </div>
 
