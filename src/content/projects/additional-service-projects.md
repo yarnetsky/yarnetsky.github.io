@@ -3,8 +3,8 @@ title: Additional Service Projects
 description: Web projects for Code4Lib and ALAO
 tags:
   - Service
-  - Jekyll
   - Web Development
+  - Jekyll
 publishDate: 2026-07-20
 ---
 ### **[Code4Lib 2022 National Conference](https://web.archive.org/web/20231202094652/https://2022.code4lib.org/)**
