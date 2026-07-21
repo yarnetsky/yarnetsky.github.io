@@ -4,6 +4,7 @@ description: Before Hollywood, there was Betzwood
 tags:
   - Web Development
   - LibGuides
+  - Digital History
 link: https://web.archive.org/web/20240523122024/https://library.mc3.edu/betzwood
 publishDate: 2026-07-20
 ---
