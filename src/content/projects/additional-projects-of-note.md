@@ -3,6 +3,7 @@ title: Additional Projects of Note
 description: Smaller projects with punch
 tags:
   - WordPress
+  - Web Development
 thumbnail: /assets/training-for-freedom.png
 order: 5
 publishDate: 2026-07-20
