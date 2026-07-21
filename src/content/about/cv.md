@@ -1,19 +1,13 @@
 ---
 title: Curriculum Vitae
 publishDate: 2026-07-20
-description: A compact checklist for shipping a portfolio update without drama.
+description: |-
+  Earl G. “Jerry” Yarnetsky
+  Web Services Librarian
+  Associate librarian rank
+  Miami University Libraries
 draft: false
 ---
-**Earl G. “Jerry” Yarnetsky**
-Web Services Librarian  
-Associate librarian rank  
-Miami University Libraries
-
-151 S. Campus Ave.  
-Oxford Ohio 45056  
-(513) 529-2129  
-[jerry.yarnetsky@miamioh.edu](mailto:jerry.yarnetsky@miamioh.edu)
-
 ## **Education**
 
 ### **Master of Library Science, 2006.**
