@@ -1,11 +1,8 @@
 ---
 title: Curriculum Vitae
 publishDate: 2026-07-20
-description: |-
-  Earl G. “Jerry” Yarnetsky
-  Web Services Librarian
-  Associate librarian rank
-  Miami University Libraries
+description: Earl G. “Jerry” Yarnetsky — Web Services Librarian (Associate
+  librarian rank) — Miami University Libraries
 draft: false
 ---
 ## **Education**
