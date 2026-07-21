@@ -1,5 +1,5 @@
 ---
-title: Long-range Technology Plan 2008-2011
+title: MJCPL Long-range Technology Plan 2008-2011
 description: Written for the Madison-Jefferson County Public Library’s
   state-mandated Technology Plan in 2007. It’s interesting to revisit what I
   wrote nearly two decades ago and see what has and has not come to fruition.
