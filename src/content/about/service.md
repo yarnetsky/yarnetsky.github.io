@@ -37,6 +37,15 @@ draft: false
 - **Speculative Futures on Post-Pandemic Libraries**
   - Editorial assistant for digital project TEDSIG of ALAO. Summer 2021
 
+### **Faculty Alliance of Miami, AAUP-AFT Local 375**
+
+- Treasurer for faculty-librarian union, June 2025-present
+- Joint negotiating team for both faculty and librarian contracts.
+  - First contract, June 2023 to March 2025.
+  - Second contract, October 2025 to July 2026.
+- Website administrator for famiami.org, April 2023 to present
+- Member of Bargaining Council and Communications committees
+
 ### **Additional Service**
 
 - **Code4Lib National Conference website committee**
