@@ -7,6 +7,7 @@ tags:
   - marketing
   - award-winning
 link: https://www.lib.miamioh.edu/games
+thumbnail: /assets/games-night.png
 order: 5
 publishDate: 2026-07-20
 ---
