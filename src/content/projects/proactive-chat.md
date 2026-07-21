@@ -2,6 +2,7 @@
 title: Proactive Chat
 description: "chat traffic climbed 181% "
 tags:
+  - Scholarship
   - LibAnswers
 thumbnail: /assets/proactive-chat.png
 publishDate: 2026-07-20
