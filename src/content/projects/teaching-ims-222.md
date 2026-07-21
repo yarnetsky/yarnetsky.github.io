@@ -3,8 +3,8 @@ title: Teaching IMS 222
 description: Adjunct professor for Miami University teaching "Introduction to
   interaction design and development"
 tags:
-  - Service
-  - Teaching
+  - service
+  - teaching
 order: 3
 publishDate: 2026-07-21
 ---

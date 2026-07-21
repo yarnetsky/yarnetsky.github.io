@@ -2,8 +2,8 @@
 title: Utilizing Servant-Leadership in Public Libraries
 description: Libraries are designed to serve their communities.
 tags:
-  - Scholarship
-  - Leadership
+  - scholarship
+  - leadership
 order: 14
 publishDate: 2026-07-21
 ---

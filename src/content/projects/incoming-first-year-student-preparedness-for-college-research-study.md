@@ -4,8 +4,8 @@ description: In Ohio, public school funding models have been ruled
   unconstitutional four times due to the great discrepancies among districts
   from different economic and geographic areas.
 tags:
-  - Scholarship
-  - Research
+  - scholarship
+  - research
 order: 11
 publishDate: 2026-07-20
 ---

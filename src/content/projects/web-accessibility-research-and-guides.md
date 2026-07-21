@@ -2,10 +2,10 @@
 title: Web Accessibility Research and Guides
 description: Testing Big 10 LibGuides to see where common accessibility errors exist
 tags:
-  - Scholarship
+  - scholarship
   - accessibility
-  - LibGuides
-  - Research
+  - libguides
+  - research
 order: 9
 publishDate: 2026-07-20
 ---

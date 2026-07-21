@@ -50,7 +50,7 @@ draft: false
 
 ### **Service to Miami University and Libraries (2018-present)**
 
-- Teaching *IMS 222: Interaction Design and Development* (Spring 2020 to Fall 2022): 3-credit course for the Emerging Technologies in Business and Design department.
+- teaching *IMS 222: Interaction Design and Development* (Spring 2020 to Fall 2022): 3-credit course for the Emerging Technologies in Business and Design department.
 - *Lived Experiences: Race at Miami* digital history project (October 2022 to present): member of web development team for this Boldly Creative funded project. Specialized in information architecture, content management, and accessibility on the project.
 - Co-facilitator, Strategic Initiatives Virtual Spaces and Services (Spring 2022)
 - RFP Review Committee for MUAccess Center’s Accessibility Management Software (November-December 2021)

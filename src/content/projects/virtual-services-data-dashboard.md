@@ -2,9 +2,9 @@
 title: Virtual Services Data Dashboard
 description: Data visualization on the cheap
 tags:
-  - Exploratory
-  - LibGuides
-  - Scholarship
+  - exploratory
+  - libguides
+  - scholarship
 order: 7
 publishDate: 2026-07-20
 ---

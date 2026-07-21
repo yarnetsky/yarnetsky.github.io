@@ -2,9 +2,9 @@
 title: Additional Service Projects
 description: Web projects for Code4Lib and ALAO
 tags:
-  - Service
-  - Web Development
-  - Jekyll
+  - service
+  - web development
+  - jekyll
 order: 9
 publishDate: 2026-07-20
 ---
