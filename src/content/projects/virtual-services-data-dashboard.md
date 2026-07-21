@@ -4,6 +4,7 @@ description: Data visualization on the cheap
 tags:
   - Exploratory
   - LibGuides
+  - Scholarship
 publishDate: 2026-07-20
 ---
 **[Miami University Libraries Virtual Services Data Dashboard**](https://web.archive.org/web/20240523124533/http://virtual-services-data-dashboard/)  
