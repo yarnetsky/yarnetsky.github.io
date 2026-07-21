@@ -10,7 +10,7 @@ const projects = allProjects
     const byDate = b.data.publishDate.getTime() - a.data.publishDate.getTime();
     return byDate || (a.data.order ?? 999) - (b.data.order ?? 999);
   })
-  .slice(0, 3);
+  .slice(0, 6);
 const projectTags = [...new Set(allProjects.flatMap((project) => project.data.tags ?? []))].sort();
 
 export async function getStaticPaths() {
@@ -79,9 +79,21 @@ const formatDate = (date: Date) =>
 
   <section class="section index-feed" aria-labelledby="latest-works">
     <div class="section-heading">
-      <p class="eyebrow">Primary work, service, and scholarship work</p>
+      <!-- <p class="eyebrow">Primary work, service, and scholarship work</p> -->
       <h2 id="latest-works">Latest Projects.</h2>
-
+         </div>
+        <div class="action-row">
+<!-- <ul>
+     <li>
+       <a class="text-link" href={withBase('/projects/')}>All Projects</a>
+     </li>
+      <li>
+        <a class="text-link" href={withBase('/projects/Service/')}>Service Projects</a>
+      </li>
+      <li>
+        <a class="text-link" href={withBase('/projects/Scholarship/')}>Scholarship</a>
+      </li>
+</ul> -->
       {projectTags.length > 0 && (
         <ul class="tag-list" aria-label="Project tags">
           {projectTags.map((tag) => (
@@ -89,13 +101,9 @@ const formatDate = (date: Date) =>
           ))}
         </ul>
       )}
+        </div>
+   
 
-     <div class="action-row">
-            <a class="text-link" href={withBase('/projects/')}>All Projects</a>
-      <a class="text-link" href={withBase('/projects/Service/')}>Service Projects</a>
-      <a class="text-link" href={withBase('/projects/Scholarship/')}>Scholarship</a>
-     </div>
-    </div>
 
     {
       projects.length > 0 ? (
@@ -139,7 +147,7 @@ const formatDate = (date: Date) =>
   <section class="section index-feed" aria-labelledby="About">
     <div class="section-heading">
       <h2 id="about">About Me</h2>
-      <a class="text-link" href={withBase('/about/')}>Read more</a>
+      <!-- <a class="text-link" href={withBase('/about/')}>Read more</a> -->
     </div>
 
     {

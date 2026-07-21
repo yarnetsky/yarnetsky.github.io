@@ -709,7 +709,7 @@ pre code {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
-  margin: var(--baseline) 0 0;
+  margin: var(--baseline) 0 var(--baseline) 0;
   padding: 0;
   list-style: none;
 }

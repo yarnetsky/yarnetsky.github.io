@@ -57,8 +57,12 @@ const pageTitle =
         {
           taggedProjects.map((project) => (
             <article class="entry-card">
+              
+              <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
+              <p>{project.data.description}</p>
+
               <div class="entry-meta">
-                <time datetime={project.data.publishDate.toISOString()}>{formatDate(project.data.publishDate)}</time>
+                {/* <time datetime={project.data.publishDate.toISOString()}>{formatDate(project.data.publishDate)}</time> */}
                 {project.data.tags.length > 0 && (
                   <ul class="tag-list" aria-label={`${project.data.title} tags`}>
                     {project.data.tags.map((t) => (
@@ -67,8 +71,7 @@ const pageTitle =
                   </ul>
                 )}
               </div>
-              <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
-              <p>{project.data.description}</p>
+              
             </article>
           ))
         }
