@@ -26,7 +26,7 @@ const projects = (await getCollection('projects')).sort((a, b) => {
       {
         projects.map((project) => (
           <article class="work-card">
-            <p class="entry-meta">{project.data.tech.join(' / ')}</p>
+            <p class="entry-meta">{project.data.tags.join(' / ')}</p>
             <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
             <p>{project.data.description}</p>
           </article>
