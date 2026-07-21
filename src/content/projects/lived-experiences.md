@@ -6,10 +6,10 @@ tags:
   - service
   - web development
   - accessibility
-  - static site
+  - static-site
   - jekyll
-  - sanity CMS
-  - digital history
+  - sanity-cms
+  - digital-history
 link: https://livedmu.lib.miamioh.edu/
 thumbnail: /assets/lived-experiences.webp
 order: 1

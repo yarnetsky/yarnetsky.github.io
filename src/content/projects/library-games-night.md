@@ -5,7 +5,7 @@ tags:
   - service
   - photoshop
   - marketing
-  - award winning
+  - award-winning
 link: https://www.lib.miamioh.edu/games
 order: 5
 publishDate: 2026-07-20

@@ -2,9 +2,9 @@
 title: Miami University Libraries website
 description: Academic libraries website utilizing static site generator
 tags:
-  - web development
+  - web-development
   - jekyll
-  - static site
+  - static-site
 link: https://www.lib.miamioh.edu
 thumbnail: /assets/lib-miamioh.png
 order: 2

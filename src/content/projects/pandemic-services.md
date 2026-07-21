@@ -3,7 +3,7 @@ title: Emergency pandemic online services
 description: Services implemented for the pandemic have now become expected
   tools for our students
 tags:
-  - web development
+  - web-development
   - libapps
 thumbnail: /assets/makerspace.png
 order: 4

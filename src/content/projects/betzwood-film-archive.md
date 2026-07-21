@@ -2,9 +2,9 @@
 title: Betzwood Film Archive
 description: Before Hollywood, there was Betzwood
 tags:
-  - web development
+  - web-development
   - libguides
-  - digital history
+  - digital-history
 order: 7
 link: https://web.archive.org/web/20240523122024/https://library.mc3.edu/betzwood
 publishDate: 2026-07-20

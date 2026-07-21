@@ -3,7 +3,7 @@ title: Digital History at the Madison-Jefferson County Public Library
 description: Collaborated with Jefferson County Historian on a series of website
   dedicated to the history of Madison and Jefferson County, Indiana.
 tags:
-  - digital history
+  - digital-history
   - textpattern
 order: 6
 thumbnail: /assets/digital-history.png

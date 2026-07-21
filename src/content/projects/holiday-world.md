@@ -2,7 +2,7 @@
 title: Holiday World
 description: Drupal with 100,000 views daily
 tags:
-  - web development
+  - web-development
   - drupal
 thumbnail: /assets/holiday-world.png
 order: 10
