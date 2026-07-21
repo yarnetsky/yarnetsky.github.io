@@ -61,7 +61,7 @@ content:
       - name: description
         type: text
         required: true
-      - name: tech
+      - name: tags
         type: string
         list: true
         required: true

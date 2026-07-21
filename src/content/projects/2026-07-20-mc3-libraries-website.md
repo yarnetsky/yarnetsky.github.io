@@ -1,7 +1,7 @@
 ---
 title: MC3 Libraries website
 description: Montgomery County Community College Libraries
-tech:
+tags:
   - LibGuides
 thumbnail: /assets/mc3library.png
 publishDate: 2026-07-20

@@ -1,7 +1,7 @@
 ---
 title: Web services best practices
 description: Sharing best practices is at the core of our profession’s work
-tech:
+tags:
   - Jekyll
   - LibAnswers
 publishDate: 2026-07-20

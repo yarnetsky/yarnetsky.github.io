@@ -1,7 +1,7 @@
 ---
 title: Web Accessibility Research and Guides
 description: Testing Big 10 LibGuides to see where common accessibility errors exist
-tech:
+tags:
   - LibGuides
   - Accessibility
   - Research

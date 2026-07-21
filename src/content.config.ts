@@ -9,7 +9,7 @@ const projects = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    tech: z.array(z.string()),
+    tags: z.array(z.string()),
     link: z.string().url().optional(),
     repo: z.string().url().optional(),
     thumbnail: z.string().optional(),

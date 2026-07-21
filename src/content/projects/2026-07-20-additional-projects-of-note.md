@@ -1,7 +1,7 @@
 ---
 title: Additional Projects of Note
 description: Smaller projects with punch
-tech:
+tags:
   - WordPress
 thumbnail: /assets/training-for-freedom.png
 order: 5

@@ -3,7 +3,7 @@ title: Incoming first-year student preparedness for college research study
 description: In Ohio, public school funding models have been ruled
   unconstitutional four times due to the great discrepancies among districts
   from different economic and geographic areas.
-tech:
+tags:
   - Scholarship
   - Research
 publishDate: 2026-07-20

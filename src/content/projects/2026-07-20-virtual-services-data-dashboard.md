@@ -1,7 +1,7 @@
 ---
 title: Virtual Services Data Dashboard
 description: Data visualization on the cheap
-tech:
+tags:
   - Exploratory
   - LibGuides
 publishDate: 2026-07-20

@@ -1,7 +1,7 @@
 ---
 title: Library Games Night
 description: Created an award-winning marketing campaign
-tech:
+tags:
   - Photoshop
   - Service
 link: https://www.lib.miamioh.edu/games

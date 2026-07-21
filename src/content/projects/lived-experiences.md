@@ -2,7 +2,7 @@
 title: Lived Experiences Through Storytelling
 description: Digital heritage project bringing the experiences of minority
   students, staff and faculty at Miami University to life
-tech:
+tags:
   - Web Development
   - Static Site
   - Sanity CMS

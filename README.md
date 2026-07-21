@@ -149,7 +149,7 @@ Add Markdown/MDX files under `src/content/`:
 ---
 title: Project name
 description: One-line summary.
-tech: ["Astro", "TypeScript"]
+tags: ["Astro", "TypeScript"]
 link: https://example.com        # optional — live link
 repo: https://github.com/...     # optional — source
 thumbnail: ./cover.png           # optional — relative image
