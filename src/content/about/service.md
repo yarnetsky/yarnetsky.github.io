@@ -8,31 +8,32 @@ draft: false
 
 ### **American Library Association**
 
-- **Accessibility Assembly of ALA**
-  - Co-chair, July 2023-June 2025. Member through June 2025.
-  - Committee advances ALA’s commitment to the accessibility of library and information services for all.
-
-- **Information Technology Advisory Committee (ITAC)**
-  - Member, Sept. 2022 to June 2026.
-  - Representative from Reference & User Services Association (RUSA).
-  - This top-level committee advises the ALA on the priorities and strategies of all ALA technology products and services, provides oversight for major ALA technology transitions, and advocates for universal access and superior user experience with ALA online content and services. Also assists with development of ALA tech policy, acts as communication channel on tech issues, and help ALA test tech products and services.
-
-- **RUSA Leadership Council**
-  - Member, spring 2023-present.
-  - Advises, in a non-voting capacity, the RUSA Board of Directors on RUSA goals, objectives, priorities, and policies. Member as RUSA representative to ITAC.
-
-- **Managing Emerging Technologies Committee of RUSA**
-  - Member, July 2022 to June 2023.
-  - Foster discussion, programming, and the development of tools and resources related to the management of emerging technology projects in libraries.
+- **Accessibility Assembly**, which advances ALA’s commitment to the accessibility of library and information services for all. 
+  - Co-chair, July 2023-June 2026.
+  - Coordinator of ADA Rules FAQ project
+  - Collaborating with ACRL EDI committee on planning a conference on staff disability in libraries. 
+- **ALA Accessibility**
+  - website project editor and designer, October 2024-present.
+- **Libraries Transforming Communities Grants for Accessible Small and Rural Communities**.
+  - Grant application peer-reviewer for the 2024, 2025, and 2026 grant cycles. 
+- **Information Technology Advisory Committee** (ITAC), committee of council advising the ALA on the priorities and strategies of all ALA technology products and services.
+  - Member, Sept. 2022 to June 2026. 
+  - Representative from Reference & User Services Association (RUSA). 
+  - Conducted extensive usability testing of the new 2024 ALA website and authoring interface. 
+  - Contributor-editor for AI Best Practices document being considered by ALA Council, spring 2025.
+  - Selected as committee chair for 25-26, but was unable to serve
+- **RUSA Leadership Council Member**, spring 2023-present. 
+  - Advises, in a non-voting capacity, the RUSA Board of Directors on RUSA goals, objectives, priorities, and policies. 
+- **Managing Emerging Technologies Committee** of RUSA 
+  - Member, July 2022 to June 2023. 
+  - Foster discussion, programming, and the development of tools and resources related to the management of emerging technology projects in libraries. 
 
 ### **Academic Library Association of Ohio**
 
 - **Technical, Electronic, and Digital Services Interest Group (TEDSIG)**
   - Co-chair July 2021 to June 2023.
-
 - **Creating Radical Hope: Artistic and Speculative Library Responses to Climate Change**
   - Planning committee and workshop volunteer. October 2021-January 2022
-
 - **Speculative Futures on Post-Pandemic Libraries**
   - Editorial assistant for digital project TEDSIG of ALAO. Summer 2021
 
