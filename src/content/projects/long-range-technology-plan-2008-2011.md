@@ -5,6 +5,7 @@ description: Written for the Madison-Jefferson County Public Library’s
   wrote nearly two decades ago and see what has and has not come to fruition.
 tags:
   - Strategic Planning
+thumbnail: /assets/tech-plan.jpg
 publishDate: 2026-07-21
 ---
 #### **Our Compass to the Future**
