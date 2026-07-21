@@ -2,6 +2,7 @@
 title: Madison-Jefferson County Public Library websites
 description: First database driven website for rural public library
 tags:
+  - Web Development
   - Textpattern
 thumbnail: /assets/mjcpl.jpg
 publishDate: 2026-07-20
