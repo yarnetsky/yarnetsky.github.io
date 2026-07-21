@@ -3,6 +3,7 @@ title: Additional Projects of Note
 description: Smaller projects with punch
 tags:
   - Web Development
+  - Digital History
   - WordPress
 thumbnail: /assets/training-for-freedom.png
 order: 5
