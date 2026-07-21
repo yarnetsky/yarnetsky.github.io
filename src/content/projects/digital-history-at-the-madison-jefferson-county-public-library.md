@@ -5,6 +5,7 @@ description: Collaborated with Jefferson County Historian on a series of website
 tags:
   - Digital History
   - Textpattern
+thumbnail: /assets/digital-history.png
 publishDate: 2026-07-21
 ---
 Over a period of seven years, I collaborated with Jefferson County Historian Janice Barnes to create a series of digital history projects at the Madison-Jefferson County Public Library.
