@@ -5,6 +5,7 @@ tags:
   - Web Development
   - Textpattern
 thumbnail: /assets/mjcpl.jpg
+order: 13
 publishDate: 2026-07-20
 ---
 The Madison-Jefferson County Public Library website was held captive in a static HTML site that could only be updated directly on the server. We desperately needed to create a dynamic site that could be edited by multiple staff members from anywhere in the world.

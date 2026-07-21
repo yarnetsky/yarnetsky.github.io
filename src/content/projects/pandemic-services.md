@@ -6,7 +6,7 @@ tags:
   - Web Development
   - LibApps
 thumbnail: /assets/makerspace.png
-order: 3
+order: 4
 publishDate: 2026-03-09
 ---
 **Note**: The services implemented for the pandemic have now become expected tools for our students. Indeed, our reservation systems have now expanded to multiple buildings across campus.

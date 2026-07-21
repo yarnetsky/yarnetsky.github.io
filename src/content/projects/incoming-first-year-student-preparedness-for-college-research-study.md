@@ -6,6 +6,7 @@ description: In Ohio, public school funding models have been ruled
 tags:
   - Scholarship
   - Research
+order: 11
 publishDate: 2026-07-20
 ---
 **Collaborators**: Abi Morgan, Social Sciences Librarian, Miami University and Janelle Verdream, Ohio State University at Newark.

@@ -5,6 +5,7 @@ description: Collaborated with Jefferson County Historian on a series of website
 tags:
   - Digital History
   - Textpattern
+order: 6
 thumbnail: /assets/digital-history.png
 publishDate: 2026-07-21
 ---

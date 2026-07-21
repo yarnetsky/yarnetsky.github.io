@@ -5,6 +5,7 @@ tags:
   - Scholarship
   - Jekyll
   - LibAnswers
+order: 15
 publishDate: 2026-07-20
 ---
 Sharing best practices is at the core of our profession’s work and a number of specialized technology in libraries/higher education conferences exist for this very purpose — including Computers in Libraries,Code4Lib, and WebCon. I present and volunteer at these conference when at all possible to learn the latest best practices. Here are two topics I’ve recently presented on…

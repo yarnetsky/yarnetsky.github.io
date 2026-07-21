@@ -5,6 +5,7 @@ description: Adjunct professor for Miami University teaching "Introduction to
 tags:
   - Service
   - Teaching
+order: 4
 publishDate: 2026-07-21
 ---
 **Spring 2020 to Fall 2022**

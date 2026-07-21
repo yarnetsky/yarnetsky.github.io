@@ -5,6 +5,7 @@ tags:
   - Scholarship
   - LibAnswers
 thumbnail: /assets/proactive-chat.png
+order: 6
 publishDate: 2026-07-20
 ---
 I worked with a team of librarians to improve our chat reference service by having it proactively ask students if they needed help on our library website. Our service now automatically invites students to chat if they spend more than 45 seconds on the same page.
