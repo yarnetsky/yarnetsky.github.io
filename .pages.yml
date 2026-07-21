@@ -49,9 +49,9 @@ content:
     format: yaml-frontmatter
     filename: '{title}.md'
     view:
-      fields: [title, order, publishDate]
+      fields: [title, tags, order, publishDate]
       primary: title
-      sort: [order, publishDate]
+      sort: [order, tags, publishDate]
       default:
         sort: order
         order: asc
