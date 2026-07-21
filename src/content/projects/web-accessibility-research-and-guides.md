@@ -3,7 +3,7 @@ title: Web Accessibility Research and Guides
 description: Testing Big 10 LibGuides to see where common accessibility errors exist
 tags:
   - Scholarship
-  - Accessibility
+  - accessibility
   - LibGuides
   - Research
 publishDate: 2026-07-20
