@@ -6,6 +6,7 @@ tags:
   - Web Development
   - Static Site
   - Sanity CMS
+  - Service
 link: https://livedmu.lib.miamioh.edu/
 thumbnail: /assets/lived-experiences.webp
 order: 1
