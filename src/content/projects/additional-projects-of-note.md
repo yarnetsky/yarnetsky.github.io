@@ -6,7 +6,7 @@ tags:
   - Digital History
   - WordPress
 thumbnail: /assets/training-for-freedom.png
-order: 5
+order: 8
 publishDate: 2026-07-20
 ---
 ### **[Training for Freedom documentary website](https://web.archive.org/web/20240523132949/https://trainingforfreedom.lib.miamioh.edu/)**
