@@ -715,11 +715,11 @@ pre code {
 }
 
 .tag-list li {
-  padding: 0.2rem 0.45rem;
-  border: var(--hairline);
-  color: var(--color-muted);
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+    padding: 0.35rem 0.7rem;
+    border: var(--hairline);
+    color: var(--color-muted);
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
 }
 
 .note-list {
