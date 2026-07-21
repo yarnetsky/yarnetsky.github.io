@@ -5,6 +5,7 @@ tags:
   - LibGuides
   - Accessibility
   - Research
+  - Scholarship
 publishDate: 2026-07-20
 ---
 Web accessibility is technically challenging, but very satisfying because making our online content universally accessible to our entire academic community is integral to our professional ethics.
