@@ -4,8 +4,19 @@ publishDate: 2026-07-18
 description: A holistic career overview of my scholarship
 draft: false
 ---
+## **Publications** 
+
+- Yarnetsky, J. (ed.) (2025, June). *Accessibility Resources for All Libraries*. American Library Association. 
+- Yarnetsky, J. (2025, June). *Build Accessible Online Content*. American Library Association. 
+- Klosek, K, Yarnetsky, J., Carr, R., and Ballard, B., (2025, June) *Strategies for the New ADA Online Accessibility Rules*. American Library Association. 
+
 ## **Presentations**
 
+- Yarnetsky, J., Cook-Haynes, A., Kirkpatrick, M., Mash, K. (2025, July) Building a Contract Campaign, [Presentation] AAUP Summer Institute 2025, Atlanta, Ga.
+- Yarnetsky, J., Carr, R., Klosek, K., Van Hyning, V., and Ballard, B., (2025, June) Building Your Digital Accessibility Strategy: A Workshop to help move from theory to practice, [Pre-conference workshop], ALA Annual 2025, Philadelphia, Pa.
+- Yarnetsky, J., Carr, R., Klosek, K., Van Hyning, V., and Ballard, B., (2025, June) A Practical Guide to New Digital Accessibility Requirements under the Americans with Disabilities Act, [Presentation], ALA Annual 2025, Philadelphia, Pa.
+- Calabrese, C., Grisham, Z., and Yarnetsky, J. (2025, June) Navigating Salary and Negotiation in Library Land. [Presentation] ALA Annual, 2025, Philadelphia, Pa.
+- Boehme, G., Irwin, K, Makarowski, R., and Yarnetsky, J. (2025, April) From grumbling to organizing: the path to unionization in your academic library, [Presentation] ACRL 2025, Minneapolis, Minn.
 - Weber, R., and Yarnetsky, J. (2024, March) *AI and Disability: Benefits and Potential Bias.* [Online Presentation]. RUSA Virtual Forum.
 - Yarnetsky, J., O’Brien-Withers, R., and Wisneski, R. (2023, October) *[Data visualization Cheap and Easy(-ish) — Or, Lessons Learned from a Data Dashboard Project](https://web.archive.org/web/20240523123933/https://events.highedweb.org/heweb23/session/1435233/data-visualization-cheap-and-easy-ish-%E2%80%94-or-lessons-learned-from-a-data-dashboard-project).* [Presentation] HighEdWeb, Buffalo, NY.
 - Levar-Wegner, A., Yarnetsky, J., and Irwin, K. (2023, October) *[Design for Storytelling: Building a Platform for Sharing the Lived Experiences of Race at a PWI](https://web.archive.org/web/20240523123933/https://events.highedweb.org/heweb23/session/1435961/design-for-storytelling-building-a-platform-for-sharing-the-lived-experiences-of-race-at-a-pwi).* [Presentation] HighEdWeb, Buffalo, NY.
