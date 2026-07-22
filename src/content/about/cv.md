@@ -56,16 +56,6 @@ Cohorts alternates between first-year students starting their ETBD program and u
 - Faculty advisor for IMS452 Senior Degree Project (April-May 2021)
 - Volunteering at university and library events such as the National Civil Right Conference, search committee candidate visits, Late Night Breakfast, Explore King, Talawanda Science Week, Faculty Welcome Day, Graduate Student Welcome Night, Move-In Miami, and Copyright Conference.
 
-### **Awards and Recognitions**
-
-- Awarded Distinguished Service Award for the Miami University Libraries (2026, June).
-- Promoted to Associate Librarian (2024, July).
-- Awarded Continuing Contract (2024, July).
-- Nominated for the Miami University Libraries Distinguished Service Award (2023, April).
-- Awarded the Miami University Creativity and Innovation Award (2022, November).
-- Awarded the American Library Association PR Xchange marketing prize (2022, June).
-- Awarded the Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
-
 ### **Montgomery County Community College**
 
 Blue Bell, Pennsylvania :: Serving 12,000 FTE students in suburban Philadelphia.
@@ -112,6 +102,13 @@ January 2015 to June 2016.
 
 ### **Awards and Honors**
 
+- Awarded Distinguished Service Award for the Miami University Libraries (2026, June).
+- Promoted to Associate Librarian (2024, July).
+- Awarded Continuing Contract (2024, July).
+- Nominated for the Miami University Libraries Distinguished Service Award (2023, April).
+- Awarded the Miami University Creativity and Innovation Award (2022, November).
+- Awarded the American Library Association PR Xchange marketing prize (2022, June).
+- Awarded the Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
 - Awarded a 2014 John and Suzanne Roueche Excellence Award for exceptional leadership. National award through the League of Innovation in Community Colleges Alliance as nominated by Montgomery County Community College.
 - Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our Betzwood Digital History Project in 2012.
 
@@ -170,9 +167,19 @@ Managing editor of Latino weekly newspaper in Toledo, Ohio.January 1992 to Septe
 
 Reporter, program engineer, and program host for public radio station. Miami University, Oxford, Ohio.January 1989-December 1991
 
-### **Professional Memberships**
+## **Awards and Honors**
 
-### **Professional Memberships**
+- Distinguished Service Award for the Miami University Libraries (2026, June).
+- Promoted to Associate Librarian (2024, July).
+- Awarded Continuing Contract (2024, July).
+- Nominated for the MU Libraries' Distinguished Service Award (2023, April).
+- Miami University Creativity and Innovation Award (2022, November).
+- American Library Association PR Xchange marketing prize (2022, June).
+- Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
+- John and Suzanne Roueche Excellence Award for exceptional leadership. National award through the League of Innovation in Community Colleges Alliance as nominated by Montgomery County Community College. (2014, May)
+- Nominated for Innovation of the Year Award at Montgomery County Community College with college archivist Lawrence Greene for our Betzwood Digital History Project (2012, June).
+
+## **Professional Memberships**
 
 - American Library Association (ALA)
   - Reference and User Services Association (RUSA)
@@ -218,7 +225,7 @@ Course and lesson planning, student assessment using web development assignments
 
 Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and public relations and conversational Spanish.
 
-### **Professional Development Activities**
+## **Professional Development Activities**
 
 - ***ALAO 2022*** (November)*:* Academic Libraries of Ohio Association annual conference where I attended sessions in addition to presenting and a poster session.
 - **ALA Annual Conference 2022** (June): Attended sessions on accessibility and technology implementation at the American Library Association annual conference. Received national marketing award at the conference.
