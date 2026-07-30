@@ -442,6 +442,14 @@ pre code {
   top: 1.5rem;
 }
 
+.content-index--tags-below {
+  grid-template-columns: 1fr;
+}
+
+.content-index--tags-below .index-sidebar {
+  position: static;
+}
+
 .tag-cloud,
 .article-toc nav,
 .tech-list {
