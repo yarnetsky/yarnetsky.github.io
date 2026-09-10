@@ -6,7 +6,7 @@ import Pagination from '../../../components/Pagination.astro';
 import { withBase } from '../../../lib/url';
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const projects = await getCollection('projects');
+  const projects = await getCollection('projects', ({ data }) => !data.draft);
   const allTags = [...new Set(projects.flatMap((project) => project.data.tags))].sort((a, b) => a.localeCompare(b));
   return allTags.flatMap((tag) => {
     const taggedProjects = projects

@@ -6,7 +6,7 @@ import Pagination from '../../../../components/Pagination.astro';
 import { withBase } from '../../../../lib/url';
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const posts = await getCollection('about', ({ data }) => !data.draft);
   const allTags = [...new Set(posts.flatMap((post) => post.data.tags))];
   return allTags.flatMap((tag) => {
     const taggedPosts = posts
@@ -41,23 +41,23 @@ const formatDate = (date: Date) =>
 
 const pageTitle =
   page.currentPage === 1
-    ? `Posts tagged “${tag}”`
-    : `Posts tagged “${tag}” · Page ${page.currentPage}`;
+    ? `Entries tagged “${tag}”`
+    : `Entries tagged “${tag}” · Page ${page.currentPage}`;
 ---
 
-<BaseLayout title={pageTitle} description={`Blog posts tagged ${tag} on Astro Keel.`}>
+<BaseLayout title={pageTitle} description={`About entries tagged ${tag}.`}>
   <section class="page-head section">
     <p class="eyebrow">Tag</p>
     <h1>{tag}</h1>
-    <p class="lead">Notes collected under the {tag} tag.</p>
+    <p class="lead">Entries collected under the {tag} tag.</p>
   </section>
 
-  <section class="section content-index" aria-label={`${tag} posts`}>
+  <section class="section content-index" aria-label={`${tag} entries`}>
     <div class="index-sidebar">
       <p class="eyebrow">More tags</p>
-      <nav class="tag-cloud" aria-label="Other blog tags">
-        <a href={withBase('/blog/')}>All posts</a>
-        {otherTags.map((item) => <a href={withBase(`/blog/tags/${item}/`)}>{item}</a>)}
+      <nav class="tag-cloud" aria-label="Other about tags">
+        <a href={withBase('/about/')}>All entries</a>
+        {otherTags.map((item) => <a href={withBase(`/about/tags/${item}/`)}>{item}</a>)}
       </nav>
     </div>
 
@@ -71,7 +71,7 @@ const pageTitle =
                 <span>{readingTimes.get(post.id)}</span>
                 <span>{post.data.tags.join(' / ')}</span>
               </div>
-              <h2><a href={withBase(`/blog/${post.id}/`)}>{post.data.title}</a></h2>
+              <h2><a href={withBase(`/about/${post.id}/`)}>{post.data.title}</a></h2>
               <p>{post.data.description}</p>
             </article>
           ))

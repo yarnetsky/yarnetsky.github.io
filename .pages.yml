@@ -49,7 +49,7 @@ content:
     format: yaml-frontmatter
     filename: '{title}.md'
     view:
-      fields: [title, tags, order, publishDate]
+      fields: [title, tags, order, publishDate, draft]
       primary: title
       sort: [order, tags, publishDate]
       default:
