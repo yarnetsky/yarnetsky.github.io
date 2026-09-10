@@ -27,7 +27,7 @@ content:
       - name: tags
         type: string
         list: true
-        default: []
+        required: false
       - name: description
         type: text
         required: true
@@ -79,6 +79,9 @@ content:
         type: image
       - name: order
         type: number
+      - name: draft
+        type: boolean
+        default: false
       - name: publishDate
         label: Publish Date
         type: date
