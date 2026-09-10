@@ -1,6 +1,6 @@
 ---
 title: Utilizing Servant-Leadership in Public Libraries
-publishDate: 2026-09-10
+publishDate: 2006-09-10
 tags:
   - Leadership
 description: Utilizing Servant-Leadership in Public Libraries
