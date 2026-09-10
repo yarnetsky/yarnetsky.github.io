@@ -10,7 +10,7 @@ thumbnail: /assets/lib-miamioh.png
 order: 2
 publishDate: 2026-02-16
 ---
-**[Miami University Libraries**](https://web.archive.org/web/20231202093648/https://www.lib.miamioh.edu/)  
+[**Miami University Libraries**](https://web.archive.org/web/20231202093648/https://www.lib.miamioh.edu/)  
 January 2018-Present
 
 ### **Menuing system**
