@@ -217,9 +217,9 @@ Reporter, program engineer, and program host for public radio station. Miami Uni
 
 ### **Technology**
 
-**Web development and content management**: Versed in both the Linux-Apache-MySQL-PHP and Javascript-APIs-Markdown models of web development. Experience using a wide range of content management and digital collection systems including Sanity, Next.js, Jekyll, LibGuides CMS, Drupal, WordPress, SharePoint, Textpattern, Omeka and ContentDM. Experience with accessibility and LAMP server administration and application installation. Knowledge of usability, and UX design.
+**Web development and content management**: Versed in both the Linux-Apache-MySQL-PHP and Javascript-APIs-Markdown models of web development. Experience using a wide range of content management and digital collection systems including Sanity, Astro.js, Jekyll, LibGuides CMS, Drupal, WordPress, SharePoint, Textpattern, Omeka and ContentDM. Experience with accessibility and LAMP server administration and application installation. Knowledge of usability, and UX design.
 
-**Integrated library systems**: Customization Sirsi Enterprise OPAC and Workflows, familiar with Ebsco Discovery Service, Koha, and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and MARC/AACR2 cataloging.
+**Integrated library systems**: Customizing ExLibris Primo, Ebsco Discovery Service, and Sirsi Enterprise OPAC. Familiar with Koha and Evergreen integrated library systems. Knowledge of Dublin Core, XML, and MARC/AACR2 cataloging.
 
 **Computer troubleshooting**: Windows and Macintosh troubleshooting. Knowledge of Linux distributions and servers, basic ethernet and wireless networking.
 
@@ -227,7 +227,7 @@ Reporter, program engineer, and program host for public radio station. Miami Uni
 
 ### **Reference and instruction**
 
-Reference interviewing. Research using print, Internet, database and human sources. Reader’s advisory. Information literacy, research strategy, and technology instruction to audiences ranging from college students to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and tutorial creation.
+Reference interviewing. Research using print, Internet, database and human sources. Reader’s advisory for youth and adults. Information literacy, research strategy, and technology instruction to audiences ranging from college students to senior citizens. Instruction experience both in class settings and online via chat, live synchronous, and tutorial creation.
 
 ### **Course Instruction**
 
@@ -235,31 +235,4 @@ Course and lesson planning, student assessment using web development assignments
 
 ### **Management and other skills**
 
-Personnel and project management and supervision, coaching, and evaluation. Print and Internet marketing and public relations and conversational Spanish.
-
-## **Professional Development Activities**
-
-- ***ALAO 2022*** (November)*:* Academic Libraries of Ohio Association annual conference where I attended sessions in addition to presenting and a poster session.
-- **ALA Annual Conference 2022** (June): Attended sessions on accessibility and technology implementation at the American Library Association annual conference. Received national marketing award at the conference.
-- ***Computers in Libraries 2022*** (March): Presented on static site generators at this online technology in libraries conference. 
-- **2022 workshops**: Cal State University presentation on results from their EDS usability testing study; training sessions on the Sanity content management system and data visualization; renewed IRB training in preparation for usability testing.
-- **2022 self-training topics**: Learning API-driven Sanity content management system, Exploratory data science app and data visualization.
-- ***ACRL 2021***: Association of College & Research Libraries biennial conference
-- ***ALAO 2021**:* Academic Libraries of Ohio Association annual conference
-- ***WebCon 2021***: Conference for web professionals in higher education
-- ***Code4Lib 2021**:* Conference for technologies in libraries
-- ***Axe-Con 2021**:* Digital accessibility conference.
-- **2021 workshops**: OhioLink accessibility workshop, university search committee training, and university brand training.
-- ***Basics of Teaching & Learning Online*** (2020, summer): Online course from eLearning Miami to improve the design and structure of my IMS222 course for online delivery. 
-- ***Application-centric training*** *(2020)*: Attended training on LibCal for curbside pickup, and University Communications and Marketing workshops on FormStack and Localist.
-- ***Online conferences***: Presented an online poster session at ALAO annual conference and also attended *Access 2020*, a Canadian libraries technology conference, and JamStack, a Javascript-centric technology conference.
-- ***ALAO 2019 Annual Conference*** (November): Presented in two sessions. Learned how copyright law and accessibility inter-relate, tactics for using library statistics to earn support for the libraries and tell its story, and about the characteristics of students from Generation Z which are currently attending our university.
-- ***Studying for IAAP certifications*** (Summer 2019-ongoing): Studying to be certified by the International Association of Accessibility Professionals. Certifications cover knowledge about disabilities, universal design, and the related standards and laws. Also the technical and practical aspects of developing universally accessible websites. I started this program through a mini grant from Miami University’s AccessMU Center.
-- ***Development 201*** (spring to fall 2019): Attended sessions about grant writing and other ways we can support fundraising efforts of the University Libraries. Sessions were taught by Michael Kumler, the university’s director of development for central programs.
-- ***ACRL 2019*** (April): Attended and presented at the biennial conference of the Association of College and Research Libraries in Cleveland, Ohio. The best session was on design thinking in libraries where you work to empathize with the needs of people you serve, then develop solutions over a process of brainstorming, prototyping and testing repeatedly before release.
-- ***Online conferences*** *(2019):* Attended virtual conferences based on the software products we use. For example, at SpringyCamp I learned about using LibWizard for interactive tutorials. JekyllConf (Aug 11) demonstrated how we could use Jekyll as an API endpoint— essentially creating a feed of data we can use in other contexts.
-- ***Web Accessibility for Developers Course*** (2018)*:* Online course from Ryerson University (Toronto, Ont.) elevated my awareness of how people using assistive technologies perceive our website and provided coding skills for ensuring websites are perceivable and understandable to all users.
-- ***Code4Lib Midwest conference*** (2018): Regional conference for technology in libraries including sessions on recovering from a failing technology project and accessibility. 
-- ***Training on Miami’s web accessibility assessment software*** (2018): Trained on the university’s web accessibility assessment software.
-- ***WebCon 2018***: Multi-day conference is targeted to web designers, developers, social media marketers, and other web professionals within higher education.
-
+Personnel and project management and supervision, coaching, and evaluation. Departmental budgeting. Print and Internet marketing and public relations and conversational Spanish.
