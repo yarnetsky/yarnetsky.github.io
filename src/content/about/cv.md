@@ -157,16 +157,16 @@ Managing editor of Latino weekly newspaper in Toledo, Ohio.January 1992 to Septe
 
 Reporter, program engineer, and program host for public radio station. Miami University, Oxford, Ohio.January 1989-December 1991
 
-### **Awards and Honors**
+## **Awards and Honors**
 
-#### Tenure and promotions
+### Tenure and promotions
 
 - Promoted to Associate Librarian at Miami University (2024, July).
 - Awarded Continuing Contract at Miami University (2024, July).
 - Promoted to Assistant Professor at Montgomery County Community College (2014, January).
 - Awarded Tenured at Montgomery County Community College (2016,September).
 
-#### Awards
+### Awards
 
 - Distinguished Service Award for the Miami University Libraries (2026, June).
 - Miami University Creativity and Innovation Award (2022, November).
@@ -174,7 +174,7 @@ Reporter, program engineer, and program host for public radio station. Miami Uni
 - Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
 - John and Suzanne Roueche Excellence Award for exceptional leadership. National award through the League of Innovation in Community Colleges Alliance as nominated by Montgomery County Community College. (2014)
 
-#### Award Nominations
+### Award Nominations
 
 - Miami University Libraries Distinguished Service Award (2023, April).
 - Innovation of the Year Award with college archivist Lawrence Greene for our Betzwood Digital History Project at Montgomery County Community College in 2012.
