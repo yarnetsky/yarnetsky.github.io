@@ -26,6 +26,8 @@ Oxford, Ohio: Public university of 23,000 students
 January 2018 to present
 
 - Redeveloped libraries web services from the Drupal content management system to the Jekyll static site generator resulting in major security and performance improvements. Change allowed our web services team to collaborate and peer review code via Github.
+- Leading the development of our next generation website on the Astro.js JavaScript web framework.
+- Led our library's discovery services migration from Ebsco Discovery to ExLibris Primo, becoming only the third library in the North America to migrate to the new Primo NDE. Consulted with the statewide OhioLink consortium and with libraries across the nation making the migration to Primo NDE.
 - Lead implementer for front-line service apps and staff publishing systems such as LibGuides, Sanity, and LibCal. Extensively customized these services to the needs of library departments transitioning to online services due to the COVID-19 pandemic.
 - Lead implementer for web accessibility. Completed multiple accessibility remediations on library web services in conjunction with the university's accessibility office, the AccessMU Center. Train staff and advocate for universal accessibility in our services.
 - Conducted and analyzed results from IRB-approved usability testing of libraries website. Wrote new testing protocol for upcoming usability testing of libraries discovery system.
