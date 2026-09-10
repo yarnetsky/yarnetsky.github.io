@@ -47,7 +47,7 @@ January 2020 to December 2022
 - Cohorts alternates between first-year students starting their ETBD program and upper class students incorporating interaction design into their primary majors ranging from psychology to fashion design. 
 - To fulfill the needs of my students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online both synchronous and asynchronous.
 
-- [Professional Service Overview](https://www.yarnetsky.net/service)
+[Professional Service Overview](https://www.yarnetsky.net/service)
 
 #### **Service to the University and Libraries**
 
