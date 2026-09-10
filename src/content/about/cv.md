@@ -194,21 +194,13 @@ Reporter, program engineer, and program host for public radio station. Miami Uni
 ## **Professional Memberships**
 
 - American Library Association (ALA)
-  - Reference and User Services Association (RUSA)
-    - Emerging Technologies Section
-  - Association of College and Research Libraries (ACRL)
-    - Distance and Online Learning Section
-    - Digital Scholarship Section
-    - University Libraries Section
-  - Core: Leadership, Infrastructure, Futures (Core)
-    - Assessment Section
-    - Access and Equity Section
-    - Technology Section
-  - Games and Gaming Round Table (GAMERT)
+- Accessibility Assembly
+- Reference and User Services Association (RUSA)
+- Association of College and Research Libraries (ACRL)
+- Core: Leadership, Infrastructure, Futures (Core)
+- Games and Gaming Round Table (GAMERT)
 - Academic Library Association of Ohio (ALAO)
-  - Technical, Electronic, and Digital Services Interest Group (TEDSIG)
-  - Assessment Interest Group (AIG)
-  - Promotion, Outreach, and Marketing (PROMIG)
+- Technical, Electronic, and Digital Services Interest Group (TEDSIG)
 - Indiana Library Federation, 2003 to 2010.
 
 ## **Skills**
