@@ -63,9 +63,7 @@ Blue Bell, Pennsylvania :: Serving 12,000 FTE students in suburban Philadelphia.
 #### **Emerging Technologies Librarian/assistant professor**
 
 February 2010 to December 2014.  
-July 2016 to December 2017.  
-Promoted from instructor to assistant professor, January 2014.  
-Tenured in September 2016.
+July 2016 to December 2017.
 
 - Design and maintain library web services emphasizing clarity of use for new students.
 - Customized function and appearance of the library’s online catalog (Sirsi Enterprise and eLibrary) and Ebsco Discovery Service.
@@ -102,15 +100,25 @@ January 2015 to June 2016.
 
 ### **Awards and Honors**
 
-- Awarded Distinguished Service Award for the Miami University Libraries (2026, June).
-- Promoted to Associate Librarian (2024, July).
-- Awarded Continuing Contract (2024, July).
-- Nominated for the Miami University Libraries Distinguished Service Award (2023, April).
-- Awarded the Miami University Creativity and Innovation Award (2022, November).
-- Awarded the American Library Association PR Xchange marketing prize (2022, June).
-- Awarded the Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
-- Awarded a 2014 John and Suzanne Roueche Excellence Award for exceptional leadership. National award through the League of Innovation in Community Colleges Alliance as nominated by Montgomery County Community College.
-- Nominated for Innovation of the Year Award with college archivist Lawrence Greene for our Betzwood Digital History Project in 2012.
+#### Tenure and promotions
+
+- Promoted to Associate Librarian at Miami University (2024, July).
+- Awarded Continuing Contract at Miami University (2024, July).
+- Promoted to Assistant Professor at Montgomery County Community College (2014, January).
+- Awarded Tenured at Montgomery County Community College (2016,September).
+
+#### Awards
+
+- Distinguished Service Award for the Miami University Libraries (2026, June).
+- Miami University Creativity and Innovation Award (2022, November).
+- American Library Association PR Xchange marketing prize (2022, June).
+- Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
+- John and Suzanne Roueche Excellence Award for exceptional leadership. National award through the League of Innovation in Community Colleges Alliance as nominated by Montgomery County Community College. (2014)
+
+#### Award Nominations
+
+- Miami University Libraries Distinguished Service Award (2023, April).
+- Innovation of the Year Award with college archivist Lawrence Greene for our Betzwood Digital History Project at Montgomery County Community College in 2012.
 
 ### **Madison-Jefferson County Public Library**
 
