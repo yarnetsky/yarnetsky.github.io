@@ -11,7 +11,7 @@ export const SITE = {
   /** Default social share image, relative to the site root (see public/). */
   ogImage: '/og.jpg',
   /** Footer credit line. */
-  footerText: 'Built with Astro Keel.',
+  footerText: 'A project to learn Astro, built with Astro Keel',
 } as const;
 
 /** Header navigation. `href` is relative to the site root; the configured
