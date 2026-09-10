@@ -4,7 +4,7 @@ publishDate: 2026-02-03
 tags:
   - astro
   - content
-description: Practical notes for keeping Astro content collections predictable.
+description: "Practical notes for keeping Astro content collections predictable. "
 draft: true
 heroImage: /assets/blog-hero.jpg
 ---
