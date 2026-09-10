@@ -1,13 +1,12 @@
 ---
-title: "Designing with a Baseline Grid"
+title: Designing with a Baseline Grid
 publishDate: 2026-01-14
 tags:
   - design
   - process
-description: "A short note on giving long-form pages a quiet vertical cadence." 
-draft: false
+description: A short note on giving long-form pages a quiet vertical cadence.
+draft: true
 ---
-
 ## Start with the paragraph
 
 The most useful rhythm in a writing theme starts with body copy. Set the paragraph measure first, then let headings, metadata, and navigation orbit that cadence.
@@ -21,3 +20,4 @@ Astro Keel uses rules, gutters, and spacing as decoration. The page should feel 
   padding-block: clamp(4.5rem, 8vw, 7.5rem);
 }
 ```
+
