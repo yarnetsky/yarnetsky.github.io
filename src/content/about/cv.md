@@ -41,9 +41,11 @@ January 2020 to December 2022
 
 ##### **IMS 222: Introduction to Interactive Design and Development**
 
-Teach this 3-credit course for the Emerging Technologies in Business and Design (ETBD) department, which investigates the theories and practice of interactive design and front-end web development. We also explore topics such as ethics of online interactions, and inclusive design for every person on every device.
-
-Cohorts alternates between first-year students starting their ETBD program and upper class students incorporating interaction design into their primary majors ranging from psychology to fashion design. Due to the needs of my students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online both synchronous and asynchronous.
+- Taught 3-credit course for the Emerging Technologies in Business and Design (ETBD) department.
+- Course investigates the theories and practice of interaction design and front-end web development. 
+- Also explore topics such as ethics of online interactions, and inclusive design for every person on every device.
+- Cohorts alternates between first-year students starting their ETBD program and upper class students incorporating interaction design into their primary majors ranging from psychology to fashion design. 
+- To fulfill the needs of my students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online both synchronous and asynchronous.
 
 - [Professional Service Overview](https://www.yarnetsky.net/service)
 
