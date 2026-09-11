@@ -36,7 +36,7 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
     <div class="work-list">
       {
         projects.map((project) => (
-          <article class="work-card">
+          <article class="highlight-card">
             {project.data.thumbnail && (
                 <Image
                   src={project.data.thumbnail}
