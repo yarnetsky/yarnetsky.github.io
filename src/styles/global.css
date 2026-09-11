@@ -211,12 +211,12 @@ a:not(.brand, .button):hover {
   min-height: 64vh;
   display: grid;
   align-content: center;
-  padding-block: clamp(3.5rem, 8vw, 6rem);
+  padding-block: clamp(3.5rem, 8vw, 4rem);
   border-bottom: var(--hairline);
   position: relative;
 }
 
-.hero::before {
+/* .hero::before {
   content: "";
   position: absolute;
   top: clamp(1.5rem, 3vw, 2.5rem);
@@ -224,7 +224,7 @@ a:not(.brand, .button):hover {
   width: 1px;
   height: clamp(3.5rem, 8vw, 6rem);
   background: var(--color-accent);
-}
+} */
 
 .hero > * {
   animation: keel-enter 560ms ease both;
@@ -303,12 +303,12 @@ h3 {
 h1 {
   margin-bottom: calc(var(--baseline) * 1.1);
   font-size: clamp(3rem, 7vw, 5rem);
-  line-height: 0.94;
+  line-height: 0.91;
 }
 
 h2 {
   margin-bottom: var(--baseline);
-  font-size: clamp(2.25rem, 5vw, 4.65rem);
+  font-size: clamp(2.25rem, 5vw, 4rem);
   line-height: 0.98;
 }
 
