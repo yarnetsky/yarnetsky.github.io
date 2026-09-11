@@ -36,6 +36,18 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
       {
         projects.map((project) => (
           <article class="work-card">
+            {project.data.thumbnail && (
+                <Image
+                  src={project.data.thumbnail}
+                  alt=""
+                  width={720}
+                  height={480}
+                  loading="lazy"
+                />
+              )}
+            <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
+            <p>{project.data.description}</p>
+
             {project.data.tags.length > 0 && (
               <ul class="tag-list" aria-label={`${project.data.title} tags`}>
                 {project.data.tags.map((tag) => (
@@ -43,8 +55,6 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
                 ))}
               </ul>
             )}
-            <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
-            <p>{project.data.description}</p>
           </article>
         ))
       }
