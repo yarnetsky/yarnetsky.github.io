@@ -17,10 +17,10 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
   <section class="page-head section">
     <p class="eyebrow">Projects</p>
     <h1>Selected projects and case studies.</h1>
-    <p class="lead">
+    <!-- <p class="lead">
       The works collection is typed for descriptions, technology lists, external links,
       repositories, thumbnails, ordering, and publish dates.
-    </p>
+    </p> -->
 
  {projectTags.length > 0 && (
         <ul class="tag-list" aria-label="Project tags">
@@ -33,10 +33,11 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
   </section>
 
   <section class="section" aria-label="Selected works">
-    <div class="highlight-grid">
+    <div class="highlight-gridX2">
       {
         projects.map((project) => (
           <article class="highlight-card">
+            
             {project.data.thumbnail && (
                 <Image
                   src={project.data.thumbnail}
@@ -46,7 +47,10 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
                   loading="lazy"
                 />
               )}
-            <h2><a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a></h2>
+              <div>
+            <h2>
+              <a href={withBase(`/projects/${project.id}/`)}>{project.data.title}</a>
+              </h2>
             <p>{project.data.description}</p>
 
             {project.data.tags.length > 0 && (
@@ -56,6 +60,7 @@ const projectTags = [...new Set(projects.flatMap((project) => project.data.tags 
                 ))}
               </ul>
             )}
+            </div>
           </article>
         ))
       }

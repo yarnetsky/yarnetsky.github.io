@@ -668,6 +668,14 @@ pre code {
   border: var(--hairline);
 }
 
+.highlight-gridX2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--color-line);
+  border: var(--hairline);
+}
+
 .highlight-card,
 .note-row,
 .about-ledger article {
@@ -679,6 +687,11 @@ pre code {
   display: grid;
   align-content: start;
   min-height: 22rem;
+}
+
+
+.highlight-card h2 {
+  font-size: 2rem;
 }
 
 .highlight-card > div {
