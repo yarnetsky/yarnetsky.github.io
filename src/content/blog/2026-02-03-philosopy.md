@@ -2,6 +2,8 @@
 title: Philosophy of Librarianship
 publishDate: 2026-02-03
 description: What makes me tick
+tags:
+  - philosphy
 draft: false
 heroImage: /assets/data-smog.png
 ---
