@@ -31,14 +31,12 @@ const formatDate = (date: Date) =>
       <p class="eyebrow">Project</p>
       <h1>{entry.data.title}</h1>
       <p class="lead">{entry.data.description}</p>
-      <div class="entry-meta">
-        <!-- <time datetime={entry.data.publishDate.toISOString()}>{formatDate(entry.data.publishDate)}</time> -->
+        
+      <!-- <div class="entry-meta">
+        <time datetime={entry.data.publishDate.toISOString()}>{formatDate(entry.data.publishDate)}</time>
         <span>{entry.data.tags.join(' / ')}</span>
-      </div>
-      <div class="action-row">
-        {entry.data.link && <a class="button" href={entry.data.link}>Visit project</a>}
-        {entry.data.repo && <a class="text-link" href={entry.data.repo}>View repository</a>}
-      </div>
+      </div> -->
+
       {
         entry.data.thumbnail && (
           <Image
@@ -53,12 +51,21 @@ const formatDate = (date: Date) =>
     </header>
 
     <div class="section article-layout">
+
       <aside class="article-toc">
+
+      <div class="action-row">
+        {entry.data.link && <a class="button" href={entry.data.link}>Visit project</a>}
+        {entry.data.repo && <a class="text-link" href={entry.data.repo}>View repository</a>}
+      </div>
+
+
         <p class="eyebrow">Tags</p>
-        <ul class="tech-list">
+         <ul class="tech-list">
           {entry.data.tags.map((item) => <li><a href={withBase(`/projects/${item}/`)}>{item}</a></li>)}
         </ul>
       </aside>
+
       <div class="prose">
         <Content />
       </div>
