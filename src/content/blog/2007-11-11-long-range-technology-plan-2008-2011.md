@@ -8,7 +8,7 @@ tags:
   - library-technology
 thumbnail: /assets/tech-plan.jpg
 order: 13
-publishDate: 2026-07-21
+publishDate: 2007
 ---
 #### **Our Compass to the Future**
 
