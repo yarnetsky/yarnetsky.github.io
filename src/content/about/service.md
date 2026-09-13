@@ -1,6 +1,6 @@
 ---
 title: Service
-publishDate: 2026-07-19
+publishDate: 2026-07-20
 description: A holistic overview of a career of service
 draft: false
 ---
@@ -117,4 +117,3 @@ draft: false
   - Board member of downtown economic revitalization non-profit.
 - **Downtown Madison Historic District Board**
   - Former member and chair of this municipal committee charged with reviewing structural and appearance changes in Historic Landmark District structures.
-  

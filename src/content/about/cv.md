@@ -1,6 +1,6 @@
 ---
 title: Experience
-publishDate: 2026-07-20
+publishDate: 2026-07-22
 description: "Earl G. “Jerry” Yarnetsky\
 Web Services Librarian\
 Associate librarian rank\
