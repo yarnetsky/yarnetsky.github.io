@@ -18,7 +18,7 @@ export const SITE = {
  *  `base` is applied automatically via `withBase()`. */
 export const NAV_ITEMS = [
   { href: '/', label: 'Home' },
-  { href: '/about/', label: 'About' },
+  { href: '/about/', label: 'CV' },
   { href: '/projects/', label: 'Projects' },
   { href: '/blog/', label: 'Notes' },
   { href: '/search/', label: 'Search' },

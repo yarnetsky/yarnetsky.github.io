@@ -1,8 +1,10 @@
 ---
-title: Curriculum Vitae
+title: Experience
 publishDate: 2026-07-20
-description: Earl G. “Jerry” Yarnetsky — Web Services Librarian (Associate
-  librarian rank) — Miami University Libraries
+description: "Earl G. “Jerry” Yarnetsky\
+Web Services Librarian\
+Associate librarian rank\
+Miami University Libraries"
 draft: false
 ---
 ## **Education**
@@ -42,23 +44,12 @@ January 2020 to December 2022
 ##### **IMS 222: Introduction to Interactive Design and Development**
 
 - Taught 3-credit course for the Emerging Technologies in Business and Design (ETBD) department.
-- Course investigates the theories and practice of interaction design and front-end web development. 
+- Course investigates the theories and practice of interaction design and front-end web development.
 - Also explore topics such as ethics of online interactions, and inclusive design for every person on every device.
-- Cohorts alternates between first-year students starting their ETBD program and upper class students incorporating interaction design into their primary majors ranging from psychology to fashion design. 
+- Cohorts alternates between first-year students starting their ETBD program and upper class students incorporating interaction design into their primary majors ranging from psychology to fashion design.
 - To fulfill the needs of my students during the pandemic, I have taught every mode of course delivery from in-person, hyflex, and online both synchronous and asynchronous.
 
-[Professional Service Overview](https://www.yarnetsky.net/service)
-
-#### **Service to the University and Libraries**
-
-- *Lived Experiences: Race at Miami* digital history project (October 2022 to present): member of web development team for this Boldly Creative funded project. Specialized in information architecture, content management, and accessibility on the project.
-- Co-facilitator, Strategic Initiatives Virtual Spaces and Services (Spring 2022)
-- RFP Review Committee for MUAccess Center’s Accessibility Management Software (November-December 2021)
-- Library Games Night Committee (summer 2018 to present)
-- Strategic Initiatives Professional Development (AY 2020-21)
-- Search committees for Discovery Librarian (summer 2022), Web Services Librarian (spring 2019), and Social Sciences Librarian (spring 2018).
-- Faculty advisor for IMS452 Senior Degree Project (April-May 2021)
-- Volunteering at university and library events such as the National Civil Right Conference, search committee candidate visits, Late Night Breakfast, Explore King, Talawanda Science Week, Faculty Welcome Day, Graduate Student Welcome Night, Move-In Miami, and Copyright Conference.
+**See also**: [Professional Service Overview](https://www.yarnetsky.net/service)
 
 ### **Montgomery County Community College**
 
@@ -91,16 +82,6 @@ January 2015 to June 2016.
 - Involved in hiring eight new staff members from circulation staff to a new librarian.
 - Coordinated major projects and writing library policy and procedures including creation of a new circulation desk manual.
 - Directly managed $265,000 operating budget, balance of $2 million budget pre-set in personnel and facilities budgets set at college level.
-
-#### **Service to the College**
-
-- Chair, All-College Student Life Committee, September 2016 to December 2017
-- Chair, All-College Distance Education Committee, September 2011 to June 2014.
-- Member, President’s Leadership Council September 2012 to May 2014; September 2016 to December 2017.
-- Middle States Self-Study Steering Committee: Member of steering committee and co-chaired working group.
-- Commencement faculty volunteer. Reader in 2011 and 2013, student marshal in 2012, and faculty marshal in 2017.
-- Sabbatical Committee, Spring 2016
-- Student Commencement Prizes Committees, Spring 2017.
 
 ### **Madison-Jefferson County Public Library**
 
@@ -149,47 +130,13 @@ Special Projects Editor and Staff Writer for daily newspaperNovember 1993 to May
 - Won Hoosier State Press Association community service award in 1996.
 - Developed the newspaper’s first web site.
 
-**La Prensa Nacional**
+#### **_La Prensa Nacional_**
 
 Managing editor of Latino weekly newspaper in Toledo, Ohio.January 1992 to September 1993
 
-**WMUB-FM**
+#### **WMUB-FM**
 
 Reporter, program engineer, and program host for public radio station. Miami University, Oxford, Ohio.January 1989-December 1991
-
-## **Awards and Honors**
-
-### Tenure and promotions
-
-- Promoted to Associate Librarian at Miami University (2024, July).
-- Awarded Continuing Contract at Miami University (2024, July).
-- Promoted to Assistant Professor at Montgomery County Community College (2014, January).
-- Awarded Tenured at Montgomery County Community College (2016,September).
-
-### Awards
-
-- Distinguished Service Award for the Miami University Libraries (2026, June).
-- Miami University Creativity and Innovation Award (2022, November).
-- American Library Association PR Xchange marketing prize (2022, June).
-- Miami University Prodesse Quam Conspici Award for outstanding service to the university during the pandemic (2021, September).
-- John and Suzanne Roueche Excellence Award for exceptional leadership. National award through the League of Innovation in Community Colleges Alliance as nominated by Montgomery County Community College. (2014)
-
-### Award Nominations
-
-- Miami University Libraries Distinguished Service Award (2023, April).
-- Innovation of the Year Award with college archivist Lawrence Greene for our Betzwood Digital History Project at Montgomery County Community College in 2012.
-
-## **Professional Memberships**
-
-- American Library Association (ALA)
-- Accessibility Assembly
-- Reference and User Services Association (RUSA)
-- Association of College and Research Libraries (ACRL)
-- Core: Leadership, Infrastructure, Futures (Core)
-- Games and Gaming Round Table (GAMERT)
-- Academic Library Association of Ohio (ALAO)
-- Technical, Electronic, and Digital Services Interest Group (TEDSIG)
-- Indiana Library Federation, 2003 to 2010.
 
 ## **Skills**
 

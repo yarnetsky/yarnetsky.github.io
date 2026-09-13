@@ -8,33 +8,28 @@ draft: false
 
 ### **American Library Association**
 
-- **Accessibility Assembly**, which advances ALA’s commitment to the accessibility of library and information services for all. 
+- **Accessibility Assembly**, which advances ALA’s commitment to the accessibility of library and information services for all.
   - Co-chair, July 2023-June 2026.
   - Coordinator of ADA Rules FAQ project
   - Collaborating with ACRL EDI committee on planning a conference on staff disability in libraries.
 
-  
 - **[ALA Accessibility](https://www.ala.org/accessibilty)**
   - website project editor and designer, October 2024-present.
 - **Libraries Transforming Communities Grants for Accessible Small and Rural Communities**.
   - Grant application peer-reviewer for the 2024, 2025, and 2026 grant cycles.
 
-  
 - **Information Technology Advisory Committee** (ITAC), committee of council advising the ALA on the priorities and strategies of all ALA technology products and services.
-  - Member, Sept. 2022 to June 2026. 
-  - Representative from Reference & User Services Association (RUSA). 
-  - Conducted extensive usability testing of the new 2024 ALA website and authoring interface. 
+  - Member, Sept. 2022 to June 2026.
+  - Representative from Reference & User Services Association (RUSA).
+  - Conducted extensive usability testing of the new 2024 ALA website and authoring interface.
   - Contributor-editor for AI Best Practices document being considered by ALA Council, spring 2025.
   - Selected as committee chair for 25-26, but was unable to serve
-- **RUSA Leadership Council Member**, spring 2023-present. 
+- **RUSA Leadership Council Member**, spring 2023-present.
   - Advises, in a non-voting capacity, the RUSA Board of Directors on RUSA goals, objectives, priorities, and policies.
 
-  
-- **Managing Emerging Technologies Committee** of RUSA 
-  - Member, July 2022 to June 2023. 
+- **Managing Emerging Technologies Committee** of RUSA
+  - Member, July 2022 to June 2023.
   - Foster discussion, programming, and the development of tools and resources related to the management of emerging technology projects in libraries.
-
-
 
 ### **Academic Library Association of Ohio**
 
@@ -69,22 +64,22 @@ draft: false
 - **Reference Division Board of Directors of the Indiana Library Federation.**
   - Member, 2008-2010
 
-## **Service to my University and Libraries**
+## **Service to the University and Libraries**
 
-### **Service to Miami University and Libraries (2018-present)**
+### **Miami University (2018-present)**
 
-- **Teaching *IMS 222: Interaction Design and Development*** (Spring 2020 to Fall 2022)
+- **Teaching IMS 222: Interaction Design and Development** (Spring 2020 to Fall 2022)
   - 3-credit course for the Emerging Technologies in Business and Design department.
-- ***Lived Experiences: Race at Miami* digital history project** (October 2022 to present)
-  - member of web development team for this Boldly Creative funded project. Specialized in information architecture, content management, and accessibility on the project.
+- **Lived Experiences: Race at Miami: digital history project** (October 2022 to present)
+  - member of web development team specializing in information architecture, content management, and digital accessibility.
+- **Co-chair Discovery Committee**: (Fall 2022 to present): Member of inter-departmental committee advises on the development of the libraries' Primo discovery layer.
 - **Co-facilitator, Strategic Initiatives Virtual Spaces and Services** (Spring 2022)
 - **RFP Review Committee for MUAccess Center’s Accessibility Management Software** (November-December 2021)
 - **Library Games Night Committee** (summer 2018 to present)
 - **Library Accessibility Committee** (Fall 2022 to present): Web services team representative.
 - **Strategic Initiatives Professional Development** (AY 2020-21)
 - **Library Web Services Committee** (2018 to 2020): Co-facilitator of this inter-departmental group that advised the web services team on team projects.
-- **Discovery Service Improvement Committee** (Fall 2022 to present): Member of inter-campus team working to improve our Ebsco Discovery System experience-performance.
-- **Search committees for Discovery Librarian** (summer 2022), Web Services Librarian (spring 2019), and Social Sciences Librarian (spring 2018).
+- **Search committees** for systems department end-point manager (fall 2026), Discovery Librarian (summer 2022), Web Services Librarian (spring 2019), and Social Sciences Librarian (spring 2018).
 - **Faculty advisor for IMS452 Senior Degree Project** (April-May 2021)
 - **Volunteering at university and library events** including the National Civil Right Conference, search committee candidate visits, Late Night Breakfast, Explore King, Talawanda Science Week, Faculty Welcome Day, Graduate Student Welcome Night, Move-In Miami, and Copyright Conference
 
@@ -122,4 +117,4 @@ draft: false
   - Board member of downtown economic revitalization non-profit.
 - **Downtown Madison Historic District Board**
   - Former member and chair of this municipal committee charged with reviewing structural and appearance changes in Historic Landmark District structures.
-
+  
