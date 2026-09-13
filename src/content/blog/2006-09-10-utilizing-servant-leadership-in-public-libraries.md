@@ -1,6 +1,6 @@
 ---
 title: Utilizing Servant-Leadership in Public Libraries
-publishDate: 2006
+publishDate: 2006-11-11
 tags:
   - Leadership
 description: Libraries are designed to serve their communities.

@@ -1,6 +1,6 @@
 ---
 title: Philosophy of Librarianship
-publishDate: 2025
+publishDate: 2025-12-12
 description: What makes me tick
 tags:
   - philosphy
