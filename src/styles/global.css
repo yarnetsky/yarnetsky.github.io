@@ -150,16 +150,16 @@ a:not(.brand, .button):hover {
   font-family: var(--font-display);
   font-weight: 700;
   letter-spacing: 0.01em;
-  font-size: 2.2rem;
+  font-size: 2.1rem;
   color: var(--color-accent);
 }
 
-.brand-mark {
+/* .brand-mark {
   width: 0.95rem;
   height: 1.85rem;
   border-left: 3px solid var(--color-accent);
   border-right: 1px solid var(--color-accent);
-}
+} */
 
 .site-nav {
   display: flex;
@@ -243,10 +243,14 @@ a:not(.brand, .button):hover {
 }
 
 .section {
-  padding-block: clamp(3rem, 5.5vw, 4.5rem);
+  padding-block: clamp(3rem, 5.5vw, 4rem);
 }
 
-.page-head {
+.page-head.section {
+  padding: 5rem 0 0 0;
+}
+
+/* .page-head {
   border-bottom: var(--hairline);
   position: relative;
 }
@@ -259,7 +263,7 @@ a:not(.brand, .button):hover {
   height: 1px;
   margin-top: calc(var(--baseline) * 1.25);
   background: var(--color-accent);
-}
+} */
 
 .eyebrow {
   display: inline-flex;
@@ -303,12 +307,12 @@ h3 {
 h1 {
   margin-bottom: calc(var(--baseline) * 1.1);
   font-size: clamp(3rem, 7vw, 5rem);
-  line-height: 0.91;
+  line-height: 0.93;
 }
 
 h2 {
   margin-bottom: var(--baseline);
-  font-size: clamp(2.25rem, 5vw, 4rem);
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
   line-height: 0.98;
 }
 
